@@ -1,0 +1,6 @@
+#OG	locus	color_code
+213	DnaA	73FDFF
+4216	DnaA	73FDFF
+418	GlmS	77F565
+517	GlmM	00bb00
+306	GlmU	006600

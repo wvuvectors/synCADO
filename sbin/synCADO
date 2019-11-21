@@ -1,0 +1,372 @@
+#! /usr/bin/env bash
+
+here=$(dirname "$0")
+. "$here/version"
+
+
+
+while getopts ":hg:f:t:o:" opt; do
+	case $opt in
+		h)
+			echo "
+synteblast v$VERSION.
+Created by $AUTHORS.
+
+Usage:
+  synteblast -i FILE [-o STRING] [-e FLOAT] [-p FLOAT] [-c FLOAT] [-f STRING] [-m STRING] [-F]
+  synteblast -h
+  synteblast -v
+
+Options:
+  -h          Show this screen.
+  -v          Show version.
+  -i FILE     Protein fasta file containing the ordered query sequences.
+  -o STRING   String prefix to append to all output files [default: synteblast_out].
+  -e FLOAT    Expect value maximum threhold to retain a blast hit during the remote blast [default: 0.001].
+  -p FLOAT    Percent idenity minimum threshold to retain a blast hit during the thresholding phase [default: 40].
+  -c FLOAT    Query coverage minimum threshold to retain a blast hit during the thresholding phase [default: 60].
+  -f STRING   Entrez filter to restrict search space of the blast run [default: bacteria[orgn] AND \"srcdb refseq\"[Properties]].
+  -m STRING   Scoring matrix to use during the remote blast [default: BLOSUM45].
+  -F          Force an overwrite of an existing blast results table of the same name [default: FALSE].
+
+"
+			exit 0
+			;;
+		v)
+			echo "
+synteblast: synteny-aware sequence searching.
+VERSION:  $VERSION.
+RELEASED: $RELEASE_DATE.
+AUTHORS:  $AUTHORS.
+
+$LICENSE_STR
+
+Please visit https://github.com/driscollmml/synteblast for more information or to download the source code.
+
+"
+			exit 0
+			;;
+		g)
+			# tab-delim config file with paths to genome gff files
+			cfgGenomes=$OPTARG
+			;;
+		f)
+			# OG file to assign cross-genome IDs
+			ogFile=$OPTARG
+			;;
+		t)
+			# tab-delim config file listing target OGs, labels, and colors
+			cfgTargets=$OPTARG
+			;;
+		o)
+			# name or title of project, used to name the output folders and files
+			NAME=$OPTARG
+			;;
+		\?)
+			echo "Invalid option: -$OPTARG" >&2
+			exit 1
+			;;
+		:)
+			echo "Option -$OPTARG requires an argument." >&2
+			exit 1
+			;;
+	esac
+done
+
+if [ -z "$cfgGenomes" ]; then
+	echo "FATAL : A tab-delimited genome config file is required (-g GCFG_FILE) but was not provided."
+	echo "FATAL : A proper genome config file contains the path to gff file, title, and offset value for each input genome."
+	echo "FATAL : See cfg.genomes.txt in the demo directory for an example."
+	exit 0
+fi
+
+if [ -z "$ogFile" ]; then
+	echo "FATAL : An OG (.end) file is required (-f OG_FILE) but was not provided."
+	exit 0
+fi
+
+if [ -z "$cfgTargets" ]; then
+	echo "FATAL : A tab-delimited target config file is required (-t TCFG_FILE) but was not provided."
+	echo "FATAL : A proper target config file contains the path to gff file, title, and offset value for each input genome."
+	echo "FATAL : See cfg.genome.txt in the demo directory for an example."
+	exit 0
+fi
+
+if [ -z "$NAME" ]; then
+	echo "WARN  : No project name provided. I'll use the default: synCADO_p"
+	NAME="synCADO_p"
+fi
+
+
+# create the data dir
+if [ -d "$NAME" ];then
+	rm -r "$NAME/"
+fi
+mkdir "$NAME/"
+
+maxlen=0
+maxlen_scaled=0
+maxchr="x"
+
+
+while IFS=$'\t' read -r -a tmp
+do
+	gffFile="${tmp[0]}"
+
+	if [[ $gffFile =~ ^# ]]; then
+		continue
+	fi
+	
+	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < $gffFile)
+
+	if [ "$len" -gt "$maxlen" ]; then
+		maxlen=$len
+		maxchr="basis-$chr"
+	fi
+#	echo "$maxlen"
+	
+done < $cfgGenomes
+
+
+color="255,255,255"
+labelit=1
+
+while IFS=$'\t' read -r -a tmp
+do
+	gffFile="${tmp[0]}"
+	title="${tmp[1]}"
+	offset="${tmp[2]}"
+	
+	if [[ $gffFile =~ ^# ]]; then
+		continue
+	fi
+	
+	if [ -z "$offset" ]; then
+		offset=0
+	fi
+
+
+	# extract the chr id and total length of the genome from the gff file
+	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < $gffFile)
+
+	if [ -z "$title" ]; then
+		title="$chr"
+	fi
+	
+	#echo "len: $len"
+	#echo "max: $maxlen"
+	scaleup=$( echo "scale=4; $maxlen/$len" | bc)
+	#echo "$scaleup"
+	
+	# extract CDS coordinates, strandedness, and product descriptions from the gff file
+	# chr start end product
+	"$here/perl/synCADO_extract_col.pl" 0,2,3,4,6,8 < $gffFile | grep '\tCDS\t' \
+	| grep -v 'pseudo=true' \
+	| grep ';protein_id=' \
+	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?product=(.+?);.*?protein_id=(.+?);.*$/$1\t$2\t$3\t$4\t$5\t$6/gi' \
+	| perl -pe 's/fig\|//gi' \
+	| "$here/perl/synCADO_abut.pl" 1 2 > "$NAME/features.1.tmp"
+	
+	
+	# add OG assignments
+	"$here/perl/synCADO_add_OG.pl" -i 5 $ogFile < "$NAME/features.1.tmp" > "$NAME/features.2.tmp"
+	
+	# add custom colors and labels
+	"$here/perl/synCADO_extract_col.pl" 0,2 < "$cfgTargets" > "$NAME/target_colors.tmp"
+	"$here/perl/synCADO_merge.pl" "$NAME/features.2.tmp" 6 "$NAME/target_colors.tmp" 0 -p "f3f3f3" | "$here/perl/synCADO_square.pl" 8 > "$NAME/features2_merge1.tmp"
+	mv "$NAME/features2_merge1.tmp" "$NAME/features.2.tmp"
+
+	"$here/perl/synCADO_extract_col.pl" 0,1 < "$cfgTargets" > "$NAME/target_locustags.tmp"
+	"$here/perl/synCADO_merge.pl" "$NAME/features.2.tmp" 6 "$NAME/target_locustags.tmp" 0  -p "1" | "$here/perl/synCADO_square.pl" 9 > "$NAME/features2_merge2.tmp"
+	mv "$NAME/features2_merge2.tmp" "$NAME/features.2.tmp"	
+	
+	# apply offset to coordinates
+	"$here/perl/synCADO_offset.pl" 1,2 -c $len -m $offset < "$NAME/features.2.tmp" | "$here/perl/synCADO_sort.pl" 1 -n > "$NAME/features.3.offset.tmp"
+#	"$here/perl/synCADO_offset.pl" 1,2 -c $len -m $offset < "$NAME/features.2.tmp" | "$here/perl/synCADO_sort.pl" 1 -n > "$NAME/features.3.offset.tmp"
+#	"$here/perl/synCADO_abut.pl" 1 2 < "$NAME/features.3.offset.tmp" > "$NAME/features.3.offset.tmp"
+	
+	# compress 2 or more consecutive unlabeled features
+	"$here/perl/synCADO_compress.pl" 8 -t 2 < "$NAME/features.3.offset.tmp" > "$NAME/$title.features.4.compressed.txt"
+		
+done < $cfgGenomes
+
+
+#rm "$NAME/*.tmp"
+
+
+# get the number of elements (genes and gene stretches) in the largest compressed genome
+max_elements=0
+while IFS=$'\t' read -r -a tmp
+do
+	gffFile="${tmp[0]}"
+	title="${tmp[1]}"
+	offset="${tmp[2]}"
+	
+	if [[ $gffFile =~ ^# ]]; then
+		continue
+	fi
+	
+	if [ -z "$offset" ]; then
+		offset=0
+	fi
+
+	# extract the chr id and total length of the genome from the gff file
+	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < $gffFile)
+	
+	num_elements=`wc -l < $NAME/$title.features.4.compressed.txt | bc`
+	if [ "$num_elements" -gt "$max_elements" ]; then
+		max_elements=$num_elements
+	fi
+	
+done < $cfgGenomes
+
+# initialize variables for the synteny vis output
+synvis_genomes=`wc -l < $cfgGenomes | bc`
+synvis_genomes=$((synvis_genomes-1))
+
+synvis_h=32
+synvis_start_x=0
+synvis_start_y=20
+synvis_locus_w=50
+synvis_box_gap=10
+synvis_genome_gap=50
+synvis_canvas_w=$((synvis_start_x+(max_elements*(synvis_locus_w+synvis_box_gap))))
+synvis_canvas_h=$((synvis_genomes*(synvis_h+synvis_genome_gap)))
+synvis_font_s=12
+
+synvis_multi_w=50
+synvis_multi_re='^[0-9]+$'
+
+# write the header of the synvis file
+cat > "$NAME.synCADO.html" <<EOL
+<!DOCTYPE html>
+<head></head><body>
+<canvas id="blockCanvas" width="$synvis_canvas_w" height="$synvis_canvas_h" style="border:1px solid #ffffff;position:absolute;left:0;top:0;z-index:1;">Your browser does not support the HTML5 canvas tag.</canvas>
+<canvas id="lineCanvas" width="$synvis_canvas_w" height="$synvis_canvas_h" style="border:1px solid #ffffff;position:absolute;left:0;top:0;z-index:0;">Your browser does not support the HTML5 canvas tag.</canvas>
+<script>
+window.onload = function() {
+	var canvas = document.getElementById("blockCanvas");
+	var ctx = canvas.getContext("2d");
+	var canvas2 = document.getElementById("lineCanvas");
+	var ctx2 = canvas2.getContext("2d");
+EOL
+
+
+
+while IFS=$'\t' read -r -a tmp
+do
+	gffFile="${tmp[0]}"
+	if [[ $gffFile =~ ^# ]]; then
+		continue
+	fi
+	
+	title="${tmp[1]}"
+	if [ -z "$title" ]; then
+		chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+		title="$chr"
+	fi
+	
+	tax_start_y=$((synvis_start_y-5))
+	line_y=$((synvis_start_y+(synvis_h/2)))
+
+	space=" "
+	synvis_tax=${title//_/$space}    
+
+	# write to synvis file
+		cat >> "$NAME.synCADO.html" <<EOL
+
+	/* draw the blocks */
+	ctx.font = "normal 14px Arial";
+	ctx.fillStyle = "#000000";
+	ctx.fillText("$synvis_tax", 0, $tax_start_y);
+	ctx.font = "bold ${synvis_font_s}px Arial";
+EOL
+	
+	box_x=synvis_start_x
+	while IFS=$'\t' read -r -a tmp
+	do
+		gchr="${tmp[0]}"
+		gstart="${tmp[1]}"
+		gstop="${tmp[2]}"
+		gstrnd="${tmp[3]}"
+		gann="${tmp[4]}"
+		gacc="${tmp[5]}"
+		gaa="${tmp[6]}"
+		gcolor="${tmp[7]}"
+		glabel="${tmp[8]}"
+		
+
+		if [[ "$glabel" =~ $synvis_multi_re ]];then
+			box_x=$((box_x+(synvis_multi_w+synvis_box_gap)))
+		else
+			box_x=$((box_x+(synvis_locus_w+synvis_box_gap)))
+		fi
+		
+		box_y=$((synvis_start_y))
+		box_fill_c="#FFFFFF"
+		
+		lab_x=$((box_x+8))
+		lab_y=$((box_y+(synvis_h/2)+4))
+		lab_font_s=$((synvis_font_s))
+		lab_font_c="#000000"
+
+		if [[ "$glabel" =~ $synvis_multi_re ]];then
+			box_fill_c="#000000"
+			lab_font_c="#ffffff"
+			lnx=`echo "l($glabel)" | bc -l`
+			lab_font_s=`echo "scale=1;((1.6*$lnx)+11.5)" | bc`
+			lab_font_s=`echo "scale=1;$lab_font_s" | bc`
+			if [ 1 -eq "$(echo "${lab_font_s} > 20.0" | bc)" ];then
+				lab_font_s="20"
+			fi
+			lab_x=`echo "scale=1;($box_x+14-($lab_font_s-$synvis_font_s))" | bc`
+			lab_x=`echo "scale=1;$lab_x" | bc`
+			lab_y=$((box_y+(synvis_h/2)+6))
+
+		fi
+		
+		cat >> "$NAME.synCADO.html" <<EOL
+	ctx.beginPath();
+	ctx.strokeStyle = "#$gcolor";
+	ctx.lineWidth = "5";
+	ctx.rect($box_x, $box_y, $synvis_locus_w, $synvis_h);
+	ctx.stroke();
+	ctx.fillStyle = "$box_fill_c";
+	ctx.fillRect($box_x, $box_y, $synvis_locus_w, $synvis_h);
+	ctx.font = "bold ${lab_font_s}px Arial";
+	ctx.fillStyle = "$lab_font_c";
+	ctx.fillText("$glabel", $lab_x, $lab_y);
+EOL
+		
+		#((box_num++))
+		
+	done < "$NAME/$title.features.4.compressed.txt"
+	
+	start_x=$((synvis_start_x+synvis_locus_w+synvis_box_gap))
+	line_x=$((box_x+10))
+	
+		cat >> "$NAME.synCADO.html" <<EOL
+	/* draw the genome line */
+	ctx2.lineWidth=2;
+	ctx2.strokeStyle = "#999999";
+	ctx2.beginPath();
+	ctx2.moveTo($start_x, $line_y);
+	ctx2.lineTo($line_x, $line_y);
+	ctx2.stroke();
+EOL
+	
+	synvis_start_y=$((synvis_start_y+synvis_h+synvis_genome_gap))
+
+done < $cfgGenomes
+
+# close the synvis html file
+cat >> "$NAME.synCADO.html" <<EOL
+};</script></body></html>
+EOL
+
+
+exit
+

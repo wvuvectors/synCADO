@@ -9,39 +9,35 @@ while getopts ":hg:f:t:o:" opt; do
 	case $opt in
 		h)
 			echo "
-synteblast v$VERSION.
+synCADO v$VERSION.
 Created by $AUTHORS.
 
 Usage:
-  synteblast -i FILE [-o STRING] [-e FLOAT] [-p FLOAT] [-c FLOAT] [-f STRING] [-m STRING] [-F]
-  synteblast -h
-  synteblast -v
+  synCADO -g FILE -t FILE -f FILE [-o STRING]
+  synCADO -h
+  synCADO -v
 
 Options:
   -h          Show this screen.
   -v          Show version.
-  -i FILE     Protein fasta file containing the ordered query sequences.
-  -o STRING   String prefix to append to all output files [default: synteblast_out].
-  -e FLOAT    Expect value maximum threhold to retain a blast hit during the remote blast [default: 0.001].
-  -p FLOAT    Percent idenity minimum threshold to retain a blast hit during the thresholding phase [default: 40].
-  -c FLOAT    Query coverage minimum threshold to retain a blast hit during the thresholding phase [default: 60].
-  -f STRING   Entrez filter to restrict search space of the blast run [default: bacteria[orgn] AND \"srcdb refseq\"[Properties]].
-  -m STRING   Scoring matrix to use during the remote blast [default: BLOSUM45].
-  -F          Force an overwrite of an existing blast results table of the same name [default: FALSE].
+  -g FILE     Tab-delimited file containing one genome per row: path to gff file, text label for genome, and offset.
+  -t FILE     Tab-delimited file containing one target gene per row: ortholog group ID (see -f), locus tag or other short label, and hex color code.
+  -f FILE     OrthoMCL-format (.end) file containing ortholog group clusters.
+  -o STRING   Optional name of output file [DEFAULT: synCADO_p].
 
 "
 			exit 0
 			;;
 		v)
 			echo "
-synteblast: synteny-aware sequence searching.
+synCADO: SYNteny Comparison Across Diverse Organisms.
 VERSION:  $VERSION.
 RELEASED: $RELEASE_DATE.
 AUTHORS:  $AUTHORS.
 
 $LICENSE_STR
 
-Please visit https://github.com/driscollmml/synteblast for more information or to download the source code.
+Please visit https://github.com/driscollmml/synCADO for more information or to download the source code.
 
 "
 			exit 0

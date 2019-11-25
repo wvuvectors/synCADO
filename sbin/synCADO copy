@@ -5,7 +5,7 @@ here=$(dirname "$0")
 
 
 
-while getopts ":hg:f:t:o:a:c" opt; do
+while getopts ":hg:f:t:o:" opt; do
 	case $opt in
 		h)
 			echo "
@@ -13,19 +13,17 @@ synCADO v$VERSION.
 Created by $AUTHORS.
 
 Usage:
-  synCADO -g FILE -f FILE -t FILE [-o STRING]
+  synCADO -g FILE -t FILE -f FILE [-o STRING]
   synCADO -h
   synCADO -v
 
 Options:
   -h          Show this screen.
   -v          Show version.
-  -g FILE     Tab-delimited file containing one genome per row: Nucleotide RefSeq ID (required), text label for genome (optional).
-  -f FILE     OrthoMCL-format (.end) file containing ortholog group (OG) clusters, one OG per row.
-  -t FILE     Tab-delimited file containing one target feature per row: any feature ID in the OG (required), text label (recommended), and hex color code (optional).
+  -g FILE     Tab-delimited file containing one genome per row: path to gff file, text label for genome, and offset.
+  -t FILE     Tab-delimited file containing one target gene per row: ortholog group ID (see -f), locus tag or other short label, and hex color code.
+  -f FILE     OrthoMCL-format (.end) file containing ortholog group clusters.
   -o STRING   Optional name of output file [DEFAULT: synCADO_p].
-  -a STRING   Optional feature ID that identifies the OG to anchor at the start (left) of each genome.
-  -c          Optional flag to allow the families file to be in orthoDB tab format.
 
 "
 			exit 0
@@ -45,28 +43,20 @@ Please visit https://github.com/driscollmml/synCADO for more information or to d
 			exit 0
 			;;
 		g)
-			# tab-delim config file for genomes
+			# tab-delim config file with paths to genome gff files
 			cfgGenomes=$OPTARG
 			;;
 		f)
-			# OG file
+			# OG file to assign cross-genome IDs
 			ogFile=$OPTARG
 			;;
 		t)
-			# tab-delim config file for targets OGs of interest
+			# tab-delim config file listing target OGs, labels, and colors
 			cfgTargets=$OPTARG
 			;;
 		o)
-			# name or title of project
+			# name or title of project, used to name the output folders and files
 			NAME=$OPTARG
-			;;
-		a)
-			# feature ID to use as anchor OG
-			anchorFeature=$OPTARG
-			;;
-		c)
-			# families file is in orthoDB tab format
-			orthodbInput=1
 			;;
 		\?)
 			echo "Invalid option: -$OPTARG" >&2
@@ -81,19 +71,20 @@ done
 
 if [ -z "$cfgGenomes" ]; then
 	echo "FATAL : A tab-delimited genome config file is required (-g GCFG_FILE) but was not provided."
-	echo "FATAL : See the README, or cfg.genomes.txt in the demo directory for an example."
+	echo "FATAL : A proper genome config file contains the path to gff file, title, and offset value for each input genome."
+	echo "FATAL : See cfg.genomes.txt in the demo directory for an example."
 	exit 0
 fi
 
 if [ -z "$ogFile" ]; then
 	echo "FATAL : An OG (.end) file is required (-f OG_FILE) but was not provided."
-	echo "FATAL : See the README, or demo.ogs.end in the demo directory for an example."
 	exit 0
 fi
 
 if [ -z "$cfgTargets" ]; then
 	echo "FATAL : A tab-delimited target config file is required (-t TCFG_FILE) but was not provided."
-	echo "FATAL : See the README, or cfg.genome.txt in the demo directory for an example."
+	echo "FATAL : A proper target config file contains the path to gff file, title, and offset value for each input genome."
+	echo "FATAL : See cfg.genome.txt in the demo directory for an example."
 	exit 0
 fi
 
@@ -102,55 +93,79 @@ if [ -z "$NAME" ]; then
 	NAME="synCADO_p"
 fi
 
-if [ -z "$anchorFeature" ]; then
-	echo "WARN  : No anchor feature provided. The graphic for each genome may start at a different feature."
+
+# create the data dir
+if [ -d "$NAME" ];then
+	rm -r "$NAME"
 fi
+mkdir "$NAME"
 
 
-
-# create a data dir
-#if [ -d "$NAME" ];then
-#	rm -r "$NAME"
-#fi
-#mkdir "$NAME"
-
-
-# create a tmp dir
-TMPDIR="${NAME}_tmp"
-if [ -d "$TMPDIR" ];then
-	rm -r "$TMPDIR"
+# create the tmp dir
+if [ -d "${NAME}_tmp" ];then
+	rm -r "${NAME}_tmp"
 fi
-mkdir "$TMPDIR"
+mkdir "${NAME}_tmp"
+
+maxlen=0
+maxlen_scaled=0
+maxchr="x"
+
+
+while IFS=$'\t' read -r -a tmp
+do
+	gffFile="${tmp[0]}"
+
+	if [[ $gffFile =~ ^# ]]; then
+		continue
+	fi
+	
+	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < $gffFile)
+
+	if [ "$len" -gt "$maxlen" ]; then
+		maxlen=$len
+		maxchr="basis-$chr"
+	fi
+#	echo "$maxlen"
+	
+done < $cfgGenomes
 
 
 color="255,255,255"
 labelit=1
 
-
 while IFS=$'\t' read -r -a tmp
 do
-	nucRef="${tmp[0]}"
+	gffFile="${tmp[0]}"
 	title="${tmp[1]}"
+	offset="${tmp[2]}"
 	
-	if [[ $nucRef =~ ^# ]]; then
+	if [[ $gffFile =~ ^# ]]; then
 		continue
 	fi
-
-	if [ -z "$title" ]; then
-		title="$nucRef"
+	
+	if [ -z "$offset" ]; then
+		offset=0
 	fi
 
-	# fetch the feature table for each genome
-	wget --tries=10 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=${nucRef}&rettype=ft' -O "$TMPDIR/$nucRef.features.txt"
+
+	# extract the chr id and total length of the genome from the gff file
+	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < $gffFile)
+
+	if [ -z "$title" ]; then
+		title="$chr"
+	fi
 	
-	# convert it to gff format
-	"$here/perl/synCADO_ft2gff.pl" < "$TMPDIR/$nucRef.features.txt" > "$TMPDIR/$nucRef.gff"
-	
-	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < "$TMPDIR/$nucRef.gff")
+	#echo "len: $len"
+	#echo "max: $maxlen"
+	scaleup=$( echo "scale=4; $maxlen/$len" | bc)
+	#echo "$scaleup"
 	
 	# extract CDS coordinates, strandedness, and product descriptions from the gff file
 	# chr start end product
-	"$here/perl/synCADO_extract_col.pl" 0,2,3,4,6,8 < "$TMPDIR/$nucRef.gff" | grep '\tCDS\t' \
+	"$here/perl/synCADO_extract_col.pl" 0,2,3,4,6,8 < $gffFile | grep '\tCDS\t' \
 	| grep -v 'pseudo=true' \
 	| grep ';protein_id=' \
 	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?product=(.+?);.*?protein_id=(.+?);.*$/$1\t$2\t$3\t$4\t$5\t$6/gi' \
@@ -181,6 +196,9 @@ do
 done < $cfgGenomes
 
 
+rm -r "${NAME}_tmp/"
+
+
 # get the number of elements (genes and gene stretches) in the largest compressed genome
 max_elements=0
 while IFS=$'\t' read -r -a tmp
@@ -192,6 +210,14 @@ do
 	if [[ $gffFile =~ ^# ]]; then
 		continue
 	fi
+	
+	if [ -z "$offset" ]; then
+		offset=0
+	fi
+
+	# extract the chr id and total length of the genome from the gff file
+	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < $gffFile)
 	
 	num_elements=`wc -l < $NAME/$title.features.4.compressed.txt | bc`
 	if [ "$num_elements" -gt "$max_elements" ]; then

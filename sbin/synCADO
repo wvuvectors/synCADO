@@ -141,7 +141,7 @@ do
 	fi
 
 	# fetch the feature table for each genome
-	wget --tries=10 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=${nucRef}&rettype=ft' -O "$TMPDIR/$nucRef.features.txt"
+	wget --tries=5 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=${nucRef}&rettype=ft' -O "$TMPDIR/$nucRef.features.txt"
 	
 	# convert it to gff format
 	"$here/perl/synCADO_ft2gff.pl" < "$TMPDIR/$nucRef.features.txt" > "$TMPDIR/$nucRef.gff"

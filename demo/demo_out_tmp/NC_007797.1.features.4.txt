@@ -1,0 +1,1066 @@
+NC_007797.1	1	1379	+	chromosomal replication initiator protein DnaA	WP_011450597.1	202	FF8AD8	DnaA
+NC_007797.1	1766	1990	+	hypothetical protein	WP_020848875.1	-1	f3f3f3	-1
+NC_007797.1	2131	2355	+	hypothetical protein	WP_020848875.1	-1	f3f3f3	-1
+NC_007797.1	2864	3028	-	hypothetical protein	WP_020848876.1	-1	f3f3f3	-1
+NC_007797.1	4126	5175	-	peptide chain release factor 2	WP_020848882.1	101	f3f3f3	-1
+NC_007797.1	5458	6195	-	YebC/PmpR family DNA-binding transcriptional regulator	WP_011450601.1	331	f3f3f3	-1
+NC_007797.1	7205	8038	+	YihY/virulence factor BrkB family protein	WP_011450602.1	727	f3f3f3	-1
+NC_007797.1	8101	9372	+	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_011450603.1	401	FF2600	BioA
+NC_007797.1	10320	10517	+	hypothetical protein	WP_020848883.1	-1	f3f3f3	-1
+NC_007797.1	10712	12181	-	hypothetical protein	WP_020848884.1	-1	f3f3f3	-1
+NC_007797.1	12502	13029	+	hypothetical protein	WP_020848885.1	-1	f3f3f3	-1
+NC_007797.1	13989	14570	+	hypothetical protein	WP_011450608.1	-1	f3f3f3	-1
+NC_007797.1	15689	16183	+	hypothetical protein	WP_020848886.1	-1	f3f3f3	-1
+NC_007797.1	18189	18841	-	fructose-6-phosphate aldolase	WP_011450613.1	290	f3f3f3	-1
+NC_007797.1	18842	19228	-	ATP synthase F1, epsilon subunit	WP_011450614.1	223	f3f3f3	-1
+NC_007797.1	19320	20789	-	F0F1 ATP synthase subunit beta	WP_020848888.1	345	f3f3f3	-1
+NC_007797.1	21293	22639	+	magnesium transporter	WP_011450616.1	571	f3f3f3	-1
+NC_007797.1	25336	25950	+	RlmE family RNA methyltransferase	WP_080502896.1	111	f3f3f3	-1
+NC_007797.1	26810	27546	-	tRNA pseudouridine(38-40) synthase TruA	WP_011450619.1	195	f3f3f3	-1
+NC_007797.1	27547	28449	-	aspartate carbamoyltransferase	WP_011450620.1	553	f3f3f3	-1
+NC_007797.1	28598	29341	-	RlmE family RNA methyltransferase	WP_011450621.1	111	f3f3f3	-1
+NC_007797.1	29986	30807	-	exodeoxyribonuclease III	WP_011450622.1	118	f3f3f3	-1
+NC_007797.1	31147	31824	-	hypothetical protein	WP_020849289.1	-1	f3f3f3	-1
+NC_007797.1	32174	32302	+	50S ribosomal protein L36	WP_021799033.1	481	f3f3f3	-1
+NC_007797.1	35147	35830	-	Smr domain-containing protein	WP_011450630.1	179	f3f3f3	-1
+NC_007797.1	35980	36387	-	DNA-directed RNA polymerase subunit omega	WP_011450631.1	308	f3f3f3	-1
+NC_007797.1	36763	37098	-	transcriptional regulator	WP_011450632.1	982	f3f3f3	-1
+NC_007797.1	37892	38071	+	hypothetical protein	WP_011450633.1	-1	f3f3f3	-1
+NC_007797.1	38610	38972	+	NAD(P)H-quinone oxidoreductase subunit 3	WP_011450636.1	480	f3f3f3	-1
+NC_007797.1	38975	39499	+	NADH-quinone oxidoreductase subunit B	WP_011450637.1	562	f3f3f3	-1
+NC_007797.1	39501	40067	+	NADH-quinone oxidoreductase subunit C	WP_011450638.1	731	f3f3f3	-1
+NC_007797.1	42705	43457	+	5'/3'-nucleotidase SurE	WP_020848895.1	523	f3f3f3	-1
+NC_007797.1	43588	44013	+	cytochrome c maturation protein CcmE	WP_011450642.1	404	f3f3f3	-1
+NC_007797.1	44450	44668	+	hypothetical protein	WP_021799521.1	-1	f3f3f3	-1
+NC_007797.1	44822	45473	-	orotidine-5'-phosphate decarboxylase	WP_011450643.1	451	f3f3f3	-1
+NC_007797.1	45474	46292	-	TatD family hydrolase	WP_080502897.1	374	f3f3f3	-1
+NC_007797.1	48102	50582	-	leucine--tRNA ligase	WP_021799034.1	339	f3f3f3	-1
+NC_007797.1	51082	51318	-	hypothetical protein	WP_020848898.1	459	f3f3f3	-1
+NC_007797.1	52146	52415	-	hypothetical protein	WP_020848899.1	-1	f3f3f3	-1
+NC_007797.1	52602	52796	+	hypothetical protein	WP_080502898.1	-1	f3f3f3	-1
+NC_007797.1	53420	56284	-	excinuclease ABC subunit UvrA	WP_011450651.1	285	f3f3f3	-1
+NC_007797.1	56313	57158	-	transcription antitermination factor NusB	WP_021799035.1	276	f3f3f3	-1
+NC_007797.1	57163	57621	-	6,7-dimethyl-8-ribityllumazine synthase	WP_011450653.1	489	f3f3f3	-1
+NC_007797.1	57634	59340	-	membrane protein insertase YidC	WP_011450654.1	349	f3f3f3	-1
+NC_007797.1	60627	60974	+	molybdopterin-dependent oxidoreductase	WP_080502899.1	-1	f3f3f3	-1
+NC_007797.1	61323	62168	-	CDP-diacylglycerol--serine O-phosphatidyltransferase	WP_020848901.1	525	f3f3f3	-1
+NC_007797.1	62231	62914	-	phosphatidylserine decarboxylase	WP_011450657.1	470	f3f3f3	-1
+NC_007797.1	63555	66926	-	heme/FAD-binding domain-containing protein	WP_011450658.1	752	f3f3f3	-1
+NC_007797.1	67458	70742	-	hypothetical protein	WP_020848902.1	-1	f3f3f3	-1
+NC_007797.1	71419	71985	+	elongation factor P	WP_011450660.1	113	f3f3f3	-1
+NC_007797.1	71988	72758	+	inositol monophosphatase family protein	WP_011450661.1	8	f3f3f3	-1
+NC_007797.1	72794	73687	+	RluA family pseudouridine synthase	WP_011450662.1	457	f3f3f3	-1
+NC_007797.1	74327	75697	-	PleD family two-component system response regulator	WP_011450664.1	75	f3f3f3	-1
+NC_007797.1	76289	81103	-	NAD-glutamate dehydrogenase	WP_044108185.1	675	f3f3f3	-1
+NC_007797.1	81766	81966	+	hypothetical protein	WP_020848904.1	-1	f3f3f3	-1
+NC_007797.1	82528	83162	+	exopolysaccharide biosynthesis protein	WP_044104227.1	996	f3f3f3	-1
+NC_007797.1	83163	84551	+	cysteine--tRNA ligase	WP_011450668.1	499	f3f3f3	-1
+NC_007797.1	85040	85234	-	hypothetical protein	WP_011450670.1	-1	f3f3f3	-1
+NC_007797.1	86629	87550	+	ribonucleotide-diphosphate reductase subunit beta	WP_011450673.1	107	f3f3f3	-1
+NC_007797.1	87551	88183	+	TlpA family protein disulfide reductase	WP_011450674.1	323	f3f3f3	-1
+NC_007797.1	91084	91365	-	DUF2610 domain-containing protein	WP_011450677.1	730	f3f3f3	-1
+NC_007797.1	91737	92750	+	SAM-dependent methyltransferase	WP_020848908.1	685	f3f3f3	-1
+NC_007797.1	94409	94597	-	hypothetical protein	WP_011450680.1	-1	f3f3f3	-1
+NC_007797.1	96107	97930	+	DNA primase	WP_011450683.1	164	f3f3f3	-1
+NC_007797.1	98725	99210	-	hypothetical protein	WP_080502900.1	-1	f3f3f3	-1
+NC_007797.1	99719	100609	-	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	WP_011450686.1	535	f3f3f3	-1
+NC_007797.1	100802	101749	+	tRNA dihydrouridine synthase DusB	WP_011450687.1	228	f3f3f3	-1
+NC_007797.1	101966	103849	+	RNA polymerase sigma factor RpoD	WP_011450688.1	358	f3f3f3	-1
+NC_007797.1	105116	105337	+	hypothetical protein	WP_020848910.1	-1	f3f3f3	-1
+NC_007797.1	105340	106167	+	insulinase family protein	WP_020848911.1	721	f3f3f3	-1
+NC_007797.1	106416	106751	-	divalent-cation tolerance protein CutA	WP_011450692.1	197	f3f3f3	-1
+NC_007797.1	106799	109291	-	response regulator	WP_020848913.1	49	f3f3f3	-1
+NC_007797.1	110578	111234	-	O-methyltransferase	WP_011450695.1	1001	f3f3f3	-1
+NC_007797.1	111510	111803	+	hypothetical protein	WP_011450696.1	986	f3f3f3	-1
+NC_007797.1	112075	112287	-	hypothetical protein	WP_020848915.1	-1	f3f3f3	-1
+NC_007797.1	113884	115263	+	NAD(P)H-hydrate dehydratase	WP_011450699.1	777	f3f3f3	-1
+NC_007797.1	116386	116607	+	hypothetical protein	WP_011450702.1	455	f3f3f3	-1
+NC_007797.1	118793	121228	+	type I DNA topoisomerase	WP_011450708.1	312	f3f3f3	-1
+NC_007797.1	124343	126016	-	phosphomethylpyrimidine synthase ThiC	WP_011450711.1	718	f3f3f3	-1
+NC_007797.1	126945	127157	+	hypothetical protein	WP_020848915.1	-1	f3f3f3	-1
+NC_007797.1	128369	128800	-	hypothetical protein	WP_020848919.1	538	f3f3f3	-1
+NC_007797.1	129392	129571	-	hypothetical protein	WP_020848920.1	-1	f3f3f3	-1
+NC_007797.1	130750	131460	-	bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG	WP_011450717.1	50	f3f3f3	-1
+NC_007797.1	131516	133060	-	lysine--tRNA ligase	WP_011450718.1	702	f3f3f3	-1
+NC_007797.1	133437	135329	-	peptidylprolyl isomerase	WP_044108160.1	76	f3f3f3	-1
+NC_007797.1	136458	136700	+	hypothetical protein	WP_020849585.1	-1	f3f3f3	-1
+NC_007797.1	137321	137899	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	WP_020848924.1	364	f3f3f3	-1
+NC_007797.1	137926	139110	-	cation:dicarboxylase symporter family transporter	WP_011450722.1	116	f3f3f3	-1
+NC_007797.1	139278	140477	-	cation:dicarboxylase symporter family transporter	WP_011450723.1	116	f3f3f3	-1
+NC_007797.1	141051	141846	+	rod shape-determining protein MreC	WP_020848925.1	477	f3f3f3	-1
+NC_007797.1	141847	142452	-	hypothetical protein	WP_011450725.1	1014	f3f3f3	-1
+NC_007797.1	144675	145001	+	DUF721 domain-containing protein	WP_011450726.1	959	f3f3f3	-1
+NC_007797.1	146845	147048	-	hypothetical protein	WP_020848927.1	-1	f3f3f3	-1
+NC_007797.1	147695	148504	-	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA	WP_011450731.1	283	f3f3f3	-1
+NC_007797.1	148723	149445	+	triosephosphate isomerase	WP_044108187.1	533	f3f3f3	-1
+NC_007797.1	149453	150472	+	TAXI family TRAP transporter solute-binding subunit	WP_020848929.1	989	f3f3f3	-1
+NC_007797.1	150474	151494	+	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	WP_011450734.1	218	f3f3f3	-1
+NC_007797.1	151495	152100	-	RDD family protein	WP_011450735.1	763	f3f3f3	-1
+NC_007797.1	152171	152521	+	dihydroneopterin aldolase	WP_011450736.1	-1	f3f3f3	-1
+NC_007797.1	152590	153555	+	malate dehydrogenase	WP_011450737.1	551	f3f3f3	-1
+NC_007797.1	155192	155494	-	hypothetical protein	WP_020848931.1	0	f3f3f3	-1
+NC_007797.1	155984	156226	-	hypothetical protein	WP_044108161.1	-1	f3f3f3	-1
+NC_007797.1	156385	156705	+	hypothetical protein	WP_011450740.1	-1	f3f3f3	-1
+NC_007797.1	156722	157275	+	phage head-tail connector protein	WP_011450741.1	-1	f3f3f3	-1
+NC_007797.1	157276	157654	+	hypothetical protein	WP_011450742.1	-1	f3f3f3	-1
+NC_007797.1	157655	158044	+	hypothetical protein	WP_011450743.1	995	f3f3f3	-1
+NC_007797.1	158956	159144	+	hypothetical protein	WP_011450745.1	980	f3f3f3	-1
+NC_007797.1	162046	162612	-	hypothetical protein	WP_011450747.1	1014	f3f3f3	-1
+NC_007797.1	164566	164773	-	hypothetical protein	WP_020848936.1	-1	f3f3f3	-1
+NC_007797.1	164774	165205	-	ribose 5-phosphate isomerase B	WP_011450748.1	50	f3f3f3	-1
+NC_007797.1	165511	165777	+	hypothetical protein	WP_011450749.1	-1	f3f3f3	-1
+NC_007797.1	167688	168052	-	holo-ACP synthase	WP_011450751.1	271	f3f3f3	-1
+NC_007797.1	168053	169333	-	proline--tRNA ligase	WP_011450752.1	402	f3f3f3	-1
+NC_007797.1	170108	171118	-	hypothetical protein	WP_011450753.1	963	f3f3f3	-1
+NC_007797.1	171371	171877	+	pantetheine-phosphate adenylyltransferase	WP_011450754.1	530	f3f3f3	-1
+NC_007797.1	172898	173407	+	hypothetical protein	WP_011450756.1	66	f3f3f3	-1
+NC_007797.1	173481	173667	+	hypothetical protein	WP_011450758.1	66	f3f3f3	-1
+NC_007797.1	173668	173994	+	hypothetical protein	WP_020848940.1	66	f3f3f3	-1
+NC_007797.1	174140	174358	+	hypothetical protein	WP_011450760.1	-1	f3f3f3	-1
+NC_007797.1	174758	175723	-	thioredoxin-disulfide reductase	WP_011450761.1	324	f3f3f3	-1
+NC_007797.1	175729	176328	-	peroxiredoxin	WP_044104249.1	504	f3f3f3	-1
+NC_007797.1	176636	177820	+	pyridoxal phosphate-dependent aminotransferase	WP_011450763.1	114	f3f3f3	-1
+NC_007797.1	178841	180169	+	P44/Msp2 family outer membrane protein	WP_011450765.1	0	f3f3f3	-1
+NC_007797.1	180229	181518	+	P44/Msp2 family outer membrane protein	WP_011450766.1	0	f3f3f3	-1
+NC_007797.1	181582	182889	+	P44/Msp2 family outer membrane protein	WP_011450767.1	0	f3f3f3	-1
+NC_007797.1	185588	186325	-	3-oxoacyl-[acyl-carrier-protein] reductase	WP_011450771.1	246	f3f3f3	-1
+NC_007797.1	186561	189695	+	bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA	WP_044108189.1	711	f3f3f3	-1
+NC_007797.1	191264	191968	-	alpha/beta hydrolase	WP_021799050.1	783	f3f3f3	-1
+NC_007797.1	192175	193731	+	aminotransferase class V-fold PLP-dependent enzyme	WP_044104108.1	594	f3f3f3	-1
+NC_007797.1	193760	194998	+	IscS subfamily cysteine desulfurase	WP_011450777.1	378	f3f3f3	-1
+NC_007797.1	195014	195406	+	Fe-S cluster assembly scaffold IscU	WP_011450778.1	212	f3f3f3	-1
+NC_007797.1	195408	195789	+	iron-sulfur cluster assembly accessory protein	WP_020848947.1	224	f3f3f3	-1
+NC_007797.1	195790	196220	+	Fe-S protein assembly co-chaperone HscB	WP_011450780.1	564	f3f3f3	-1
+NC_007797.1	196221	197999	+	Hsp70 family protein	WP_011450781.1	734	f3f3f3	-1
+NC_007797.1	198054	198404	+	2Fe-2S iron-sulfur cluster binding domain-containing protein	WP_011450782.1	598	f3f3f3	-1
+NC_007797.1	198434	199603	+	hypothetical protein	WP_011450783.1	-1	f3f3f3	-1
+NC_007797.1	200878	201108	+	hypothetical protein	WP_020848948.1	-1	f3f3f3	-1
+NC_007797.1	201124	203763	-	hypothetical protein	WP_011450786.1	966	f3f3f3	-1
+NC_007797.1	203922	204188	-	hypothetical protein	WP_020848949.1	-1	f3f3f3	-1
+NC_007797.1	205065	205514	+	hypothetical protein	WP_080502901.1	596	f3f3f3	-1
+NC_007797.1	207240	208076	+	DUF2163 domain-containing protein	WP_011450791.1	976	f3f3f3	-1
+NC_007797.1	208229	208492	+	hypothetical protein	WP_020848951.1	-1	f3f3f3	-1
+NC_007797.1	210058	210945	+	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	WP_011450793.1	352	f3f3f3	-1
+NC_007797.1	212785	213021	+	hypothetical protein	WP_011450794.1	-1	f3f3f3	-1
+NC_007797.1	213793	214317	-	5-formyltetrahydrofolate cyclo-ligase	WP_011450796.1	552	f3f3f3	-1
+NC_007797.1	214838	215896	-	GTPase ObgE	WP_011450797.1	262	f3f3f3	-1
+NC_007797.1	215901	217190	-	phosphopyruvate hydratase	WP_011450798.1	586	f3f3f3	-1
+NC_007797.1	217441	218022	-	hypothetical protein	WP_080502902.1	966	f3f3f3	-1
+NC_007797.1	218256	218555	+	50S ribosomal protein L21	WP_011450800.1	177	f3f3f3	-1
+NC_007797.1	218559	218834	+	50S ribosomal protein L27	WP_011450801.1	305	f3f3f3	-1
+NC_007797.1	220279	222021	+	arginine--tRNA ligase	WP_011450802.1	239	f3f3f3	-1
+NC_007797.1	226106	226963	-	ATP synthase subunit gamma	WP_011450809.1	95	f3f3f3	-1
+NC_007797.1	227708	229477	-	hypothetical protein	WP_011450810.1	-1	f3f3f3	-1
+NC_007797.1	230750	240886	+	hypothetical protein	WP_020848954.1	-1	f3f3f3	-1
+NC_007797.1	241445	242467	-	NADH-quinone oxidoreductase subunit NuoH	WP_011450813.1	561	f3f3f3	-1
+NC_007797.1	242514	244592	-	NADH-quinone oxidoreductase subunit G	WP_011450814.1	519	f3f3f3	-1
+NC_007797.1	244602	244817	-	hypothetical protein	WP_044104254.1	773	f3f3f3	-1
+NC_007797.1	245365	247746	-	DNA topoisomerase (ATP-hydrolyzing) subunit B	WP_011450818.1	403	f3f3f3	-1
+NC_007797.1	248370	248576	-	hypothetical protein	WP_011450819.1	-1	f3f3f3	-1
+NC_007797.1	248595	250736	-	hypothetical protein	WP_020848957.1	-1	f3f3f3	-1
+NC_007797.1	251350	260529	-	hypothetical protein	WP_020848958.1	459	f3f3f3	-1
+NC_007797.1	262389	263168	-	hypothetical protein	WP_011450825.1	-1	f3f3f3	-1
+NC_007797.1	263298	266873	-	hypothetical protein	WP_011450826.1	-1	f3f3f3	-1
+NC_007797.1	267650	269911	+	hypothetical protein	WP_011450828.1	-1	f3f3f3	-1
+NC_007797.1	270773	271678	-	hypothetical protein	WP_011450830.1	-1	f3f3f3	-1
+NC_007797.1	273522	274245	-	DNA polymerase III subunit epsilon	WP_011450831.1	558	f3f3f3	-1
+NC_007797.1	274246	274757	-	NADH-quinone oxidoreductase subunit NuoE	WP_011450832.1	510	f3f3f3	-1
+NC_007797.1	274758	275945	-	NADH-quinone oxidoreductase subunit D	WP_011450833.1	589	f3f3f3	-1
+NC_007797.1	276503	277519	+	NAD(P)/FAD-dependent oxidoreductase	WP_011450835.1	684	f3f3f3	-1
+NC_007797.1	278324	279280	+	thiamine-phosphate kinase	WP_011450836.1	747	f3f3f3	-1
+NC_007797.1	279617	280354	+	DNA repair protein RecO	WP_011450837.1	720	f3f3f3	-1
+NC_007797.1	280427	281032	+	hypothetical protein	WP_020848959.1	-1	f3f3f3	-1
+NC_007797.1	282450	282791	-	hypothetical protein	WP_020848960.1	-1	f3f3f3	-1
+NC_007797.1	282993	286691	-	T4SS effector DNA-binding phosphoprotein AnkA	WP_011450840.1	2	f3f3f3	-1
+NC_007797.1	287912	288136	-	hypothetical protein	WP_011450843.1	-1	f3f3f3	-1
+NC_007797.1	288603	289485	-	UDP-N-acetylmuramate dehydrogenase	WP_011450845.1	344	f3f3f3	-1
+NC_007797.1	289486	290388	-	hydroxymethylbilane synthase	WP_021799056.1	157	f3f3f3	-1
+NC_007797.1	290597	291886	-	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	WP_011450847.1	522	f3f3f3	-1
+NC_007797.1	292511	293986	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	WP_011450848.1	600	f3f3f3	-1
+NC_007797.1	294752	295321	-	UbiX family flavin prenyltransferase	WP_011450849.1	449	f3f3f3	-1
+NC_007797.1	295476	295670	+	hypothetical protein	WP_020848961.1	-1	f3f3f3	-1
+NC_007797.1	297013	298566	-	YifB family Mg chelatase-like AAA ATPase	WP_011450854.1	526	f3f3f3	-1
+NC_007797.1	298753	299430	+	hypothetical protein	WP_011450855.1	-1	f3f3f3	-1
+NC_007797.1	299873	301888	+	hypothetical protein	WP_020848963.1	-1	f3f3f3	-1
+NC_007797.1	303937	304806	-	sigma-70 family RNA polymerase sigma factor	WP_011450859.1	347	f3f3f3	-1
+NC_007797.1	305350	306771	-	phage terminase large subunit	WP_020848964.1	-1	f3f3f3	-1
+NC_007797.1	309201	310997	-	elongation factor 4	WP_011450865.1	190	f3f3f3	-1
+NC_007797.1	311213	311998	-	methyltransferase domain-containing protein	WP_011450866.1	67	73FDFF	BioC
+NC_007797.1	312004	314520	-	polyribonucleotide nucleotidyltransferase	WP_011450867.1	252	f3f3f3	-1
+NC_007797.1	314576	314857	-	30S ribosomal protein S15	WP_011450868.1	386	f3f3f3	-1
+NC_007797.1	314892	315794	-	tRNA pseudouridine(55) synthase TruB	WP_011450869.1	170	f3f3f3	-1
+NC_007797.1	315977	317086	+	rod shape-determining protein	WP_020848967.1	274	f3f3f3	-1
+NC_007797.1	317681	318139	-	hypothetical protein	WP_011450871.1	66	f3f3f3	-1
+NC_007797.1	318237	318746	-	hypothetical protein	WP_011450756.1	66	f3f3f3	-1
+NC_007797.1	319083	319556	-	hypothetical protein	WP_011450873.1	714	f3f3f3	-1
+NC_007797.1	320972	321202	+	hypothetical protein	WP_011450875.1	-1	f3f3f3	-1
+NC_007797.1	321474	322148	-	dephospho-CoA kinase	WP_011450876.1	695	f3f3f3	-1
+NC_007797.1	322673	323262	+	threonylcarbamoyl-AMP synthase	WP_011450878.1	121	f3f3f3	-1
+NC_007797.1	323263	324141	+	hypothetical protein	WP_011450879.1	728	f3f3f3	-1
+NC_007797.1	324334	324609	+	HU family DNA-binding protein	WP_011450880.1	14	f3f3f3	-1
+NC_007797.1	327885	328586	-	pyridoxine 5'-phosphate synthase	WP_011450886.1	674	f3f3f3	-1
+NC_007797.1	328815	329369	-	adenylyltransferase/cytidyltransferase family protein	WP_080502903.1	742	f3f3f3	-1
+NC_007797.1	329551	330585	+	hypothetical protein	WP_011450888.1	-1	f3f3f3	-1
+NC_007797.1	332317	335055	-	hypothetical protein	WP_011450889.1	-1	f3f3f3	-1
+NC_007797.1	336425	337144	-	16S rRNA (uracil(1498)-N(3))-methyltransferase	WP_011450890.1	355	f3f3f3	-1
+NC_007797.1	337172	337636	-	peroxiredoxin	WP_011450891.1	472	f3f3f3	-1
+NC_007797.1	338105	341395	+	isoleucine--tRNA ligase	WP_011450892.1	322	f3f3f3	-1
+NC_007797.1	342331	342564	-	hypothetical protein	WP_020848970.1	-1	f3f3f3	-1
+NC_007797.1	343025	343519	-	NADH-quinone oxidoreductase subunit NuoI	WP_011450897.1	508	f3f3f3	-1
+NC_007797.1	343521	344252	-	signal peptidase I	WP_011450898.1	394	f3f3f3	-1
+NC_007797.1	344275	344721	-	iron-sulfur cluster assembly accessory protein	WP_011450899.1	460	f3f3f3	-1
+NC_007797.1	346617	349157	+	hypothetical protein	WP_011450901.1	-1	f3f3f3	-1
+NC_007797.1	349433	351217	+	hypothetical protein	WP_011450903.1	-1	f3f3f3	-1
+NC_007797.1	352329	354866	+	hypothetical protein	WP_011450904.1	-1	f3f3f3	-1
+NC_007797.1	356092	358407	+	hypothetical protein	WP_011450907.1	-1	f3f3f3	-1
+NC_007797.1	360107	361807	+	hypothetical protein	WP_011450908.1	1004	f3f3f3	-1
+NC_007797.1	361898	362494	+	hypothetical protein	WP_020848972.1	95	f3f3f3	-1
+NC_007797.1	362499	362999	+	GTP cyclohydrolase	WP_011450910.1	733	f3f3f3	-1
+NC_007797.1	363399	365327	+	hypothetical protein	WP_011450911.1	1004	f3f3f3	-1
+NC_007797.1	365714	365899	-	hypothetical protein	WP_020848973.1	-1	f3f3f3	-1
+NC_007797.1	366233	366511	-	hypothetical protein	WP_020848974.1	-1	f3f3f3	-1
+NC_007797.1	366697	368109	+	hypothetical protein	WP_011450915.1	-1	f3f3f3	-1
+NC_007797.1	368315	369955	+	hypothetical protein	WP_011450916.1	-1	f3f3f3	-1
+NC_007797.1	370195	370413	-	hypothetical protein	WP_020849354.1	-1	f3f3f3	-1
+NC_007797.1	370683	371705	-	hypothetical protein	WP_020848975.1	192	f3f3f3	-1
+NC_007797.1	371926	372489	-	hypothetical protein	WP_011450920.1	192	f3f3f3	-1
+NC_007797.1	372817	373821	-	hypothetical protein	WP_011450921.1	192	f3f3f3	-1
+NC_007797.1	373877	374944	-	hypothetical protein	WP_020848976.1	192	f3f3f3	-1
+NC_007797.1	375229	375627	+	hypothetical protein	WP_011450923.1	192	f3f3f3	-1
+NC_007797.1	376880	378250	+	hypothetical protein	WP_011450925.1	-1	f3f3f3	-1
+NC_007797.1	379011	379223	-	hypothetical protein	WP_080502904.1	-1	f3f3f3	-1
+NC_007797.1	379480	380928	+	hypothetical protein	WP_020848977.1	66	f3f3f3	-1
+NC_007797.1	381211	381555	+	hypothetical protein	WP_011450929.1	66	f3f3f3	-1
+NC_007797.1	381555	382064	+	hypothetical protein	WP_011450756.1	66	f3f3f3	-1
+NC_007797.1	382162	382620	+	hypothetical protein	WP_011450871.1	66	f3f3f3	-1
+NC_007797.1	383839	384321	+	hypothetical protein	WP_080502937.1	66	f3f3f3	-1
+NC_007797.1	385389	386681	+	hypothetical protein	WP_020848979.1	172	f3f3f3	-1
+NC_007797.1	387472	388800	+	hypothetical protein	WP_011450932.1	172	f3f3f3	-1
+NC_007797.1	389634	390989	+	hypothetical protein	WP_020848980.1	172	f3f3f3	-1
+NC_007797.1	391269	392627	+	hypothetical protein	WP_020848981.1	172	f3f3f3	-1
+NC_007797.1	395222	396751	+	hypothetical protein	WP_011450940.1	-1	f3f3f3	-1
+NC_007797.1	396987	398264	-	MFS transporter	WP_011450941.1	-1	f3f3f3	-1
+NC_007797.1	398434	401322	-	hypothetical protein	WP_020848984.1	539	f3f3f3	-1
+NC_007797.1	401765	402757	+	porphobilinogen synthase	WP_011450944.1	237	f3f3f3	-1
+NC_007797.1	403297	404519	+	NAD(+) synthase	WP_080502938.1	665	f3f3f3	-1
+NC_007797.1	404520	404837	-	hypothetical protein	WP_020848985.1	-1	f3f3f3	-1
+NC_007797.1	407982	410444	-	DNA mismatch repair protein MutS	WP_011450950.1	371	f3f3f3	-1
+NC_007797.1	410612	411742	+	type IV secretion system effector Ats1	WP_020848986.1	-1	f3f3f3	-1
+NC_007797.1	411744	412118	+	histidine triad nucleotide-binding protein	WP_011450953.1	206	f3f3f3	-1
+NC_007797.1	413111	414442	+	phage major capsid protein	WP_011450954.1	-1	f3f3f3	-1
+NC_007797.1	415825	418542	-	2-oxoglutarate dehydrogenase E1 component	WP_011450956.1	515	f3f3f3	-1
+NC_007797.1	419723	421021	+	adenylosuccinate lyase	WP_011450959.1	782	f3f3f3	-1
+NC_007797.1	421352	421564	-	hypothetical protein	WP_011450960.1	455	f3f3f3	-1
+NC_007797.1	421988	422236	-	hypothetical protein	WP_011450962.1	455	f3f3f3	-1
+NC_007797.1	422877	426020	-	hypothetical protein	WP_011450965.1	455	f3f3f3	-1
+NC_007797.1	428206	428931	-	biotin--[acetyl-CoA-carboxylase] ligase	WP_011450966.1	359	f3f3f3	-1
+NC_007797.1	429027	429242	-	hypothetical protein	WP_020849368.1	-1	f3f3f3	-1
+NC_007797.1	430928	432247	+	hypothetical protein	WP_020849611.1	-1	f3f3f3	-1
+NC_007797.1	433053	433361	-	hypothetical protein	WP_020848991.1	-1	f3f3f3	-1
+NC_007797.1	433365	433616	+	hypothetical protein	WP_011450969.1	172	f3f3f3	-1
+NC_007797.1	433801	435135	-	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	WP_011450970.1	328	f3f3f3	-1
+NC_007797.1	437456	437692	+	hypothetical protein	WP_020848993.1	-1	f3f3f3	-1
+NC_007797.1	438012	439856	+	excinuclease ABC subunit UvrC	WP_011450974.1	267	f3f3f3	-1
+NC_007797.1	446728	448641	-	molecular chaperone HtpG	WP_011450982.1	588	f3f3f3	-1
+NC_007797.1	448728	449336	-	hypothetical protein	WP_011450983.1	683	f3f3f3	-1
+NC_007797.1	450590	450856	-	hypothetical protein	WP_044108163.1	-1	f3f3f3	-1
+NC_007797.1	451006	451635	-	endonuclease III	WP_011450986.1	313	f3f3f3	-1
+NC_007797.1	452518	455238	-	DNA gyrase subunit A	WP_011450988.1	249	f3f3f3	-1
+NC_007797.1	455541	456263	+	hypothetical protein	WP_020848996.1	0	f3f3f3	-1
+NC_007797.1	456751	457299	+	hypothetical protein	WP_020848997.1	0	f3f3f3	-1
+NC_007797.1	457511	459490	+	AAA family ATPase	WP_011450990.1	381	f3f3f3	-1
+NC_007797.1	460189	461721	+	hypothetical protein	WP_020848998.1	964	f3f3f3	-1
+NC_007797.1	463699	468174	+	hypothetical protein	WP_020848999.1	-1	f3f3f3	-1
+NC_007797.1	468439	468762	-	hypothetical protein	WP_011450994.1	683	f3f3f3	-1
+NC_007797.1	469115	470137	+	hypothetical protein	WP_020849000.1	-1	f3f3f3	-1
+NC_007797.1	470536	471681	+	tRNA 2-thiouridine(34) synthase MnmA	WP_080502939.1	155	f3f3f3	-1
+NC_007797.1	471786	472265	-	hypothetical protein	WP_020849002.1	-1	f3f3f3	-1
+NC_007797.1	472318	472836	-	demethoxyubiquinone hydroxylase family protein	WP_020849003.1	692	f3f3f3	-1
+NC_007797.1	473250	473441	-	hypothetical protein	WP_020849005.1	-1	f3f3f3	-1
+NC_007797.1	474120	475901	+	hypothetical protein	WP_011451001.1	973	f3f3f3	-1
+NC_007797.1	476822	477137	-	hypothetical protein	WP_020849006.1	-1	f3f3f3	-1
+NC_007797.1	477138	477851	+	hypothetical protein	WP_020849007.1	-1	f3f3f3	-1
+NC_007797.1	478597	479406	+	hypothetical protein	WP_011451003.1	-1	f3f3f3	-1
+NC_007797.1	479541	480065	-	hypothetical protein	WP_011451004.1	964	f3f3f3	-1
+NC_007797.1	480644	481015	-	hypothetical protein	WP_020849009.1	-1	f3f3f3	-1
+NC_007797.1	481034	481264	-	hypothetical protein	WP_020849010.1	-1	f3f3f3	-1
+NC_007797.1	481824	482960	+	hypothetical protein	WP_011451006.1	960	f3f3f3	-1
+NC_007797.1	485357	486718	-	hypothetical protein	WP_011451008.1	960	f3f3f3	-1
+NC_007797.1	486937	487410	-	disulfide bond formation protein B	WP_011451009.1	707	f3f3f3	-1
+NC_007797.1	487554	488282	-	hypothetical protein	WP_011451010.1	1010	f3f3f3	-1
+NC_007797.1	488424	488594	+	50S ribosomal protein L33	WP_011451011.1	191	f3f3f3	-1
+NC_007797.1	489980	490244	-	hypothetical protein	WP_011451013.1	-1	f3f3f3	-1
+NC_007797.1	490245	492917	-	ankyrin repeat domain-containing protein	WP_020849014.1	-1	f3f3f3	-1
+NC_007797.1	493730	494044	+	acyl carrier protein	WP_020849015.1	380	f3f3f3	-1
+NC_007797.1	494174	495445	+	beta-ketoacyl-ACP synthase II	WP_011451016.1	256	f3f3f3	-1
+NC_007797.1	496183	497217	+	DNA-protecting protein DprA	WP_011451019.1	388	f3f3f3	-1
+NC_007797.1	497552	497839	+	hypothetical protein	WP_020849017.1	-1	f3f3f3	-1
+NC_007797.1	498386	498709	+	hypothetical protein	WP_020849018.1	0	f3f3f3	-1
+NC_007797.1	498807	499034	+	hypothetical protein	WP_020849019.1	0	f3f3f3	-1
+NC_007797.1	499132	499443	+	hypothetical protein	WP_020849020.1	0	f3f3f3	-1
+NC_007797.1	499910	500257	+	P44/Msp2 family outer membrane protein	WP_011451021.1	0	f3f3f3	-1
+NC_007797.1	500430	502334	-	DNA mismatch repair endonuclease MutL	WP_011451022.1	300	f3f3f3	-1
+NC_007797.1	502611	503315	+	TolQ protein	WP_011451023.1	498	f3f3f3	-1
+NC_007797.1	503614	504441	+	cell envelope integrity protein TolA	WP_011451024.1	770	f3f3f3	-1
+NC_007797.1	505371	505607	-	hypothetical protein	WP_020849022.1	-1	f3f3f3	-1
+NC_007797.1	505761	507173	-	two-component sensor histidine kinase	WP_011451027.1	51	f3f3f3	-1
+NC_007797.1	507344	508504	+	aspartate aminotransferase family protein	WP_044104121.1	97	f3f3f3	-1
+NC_007797.1	510387	511538	+	hypothetical protein	WP_011451032.1	-1	f3f3f3	-1
+NC_007797.1	513070	513276	+	hypothetical protein	WP_020849024.1	0	f3f3f3	-1
+NC_007797.1	513731	513913	-	hypothetical protein	WP_020849025.1	-1	f3f3f3	-1
+NC_007797.1	514649	517357	-	DNA translocase FtsK	WP_020849026.1	568	f3f3f3	-1
+NC_007797.1	517375	517656	-	YggT family protein	WP_080502905.1	-1	f3f3f3	-1
+NC_007797.1	517826	519094	+	DUF21 domain-containing protein	WP_011451038.1	26	f3f3f3	-1
+NC_007797.1	520523	521551	-	thiamine phosphate synthase	WP_020849027.1	686	f3f3f3	-1
+NC_007797.1	521752	522594	-	kinase/pyrophosphorylase	WP_011451042.1	592	f3f3f3	-1
+NC_007797.1	522742	523569	-	rhodanese-related sulfurtransferase	WP_044104284.1	485	f3f3f3	-1
+NC_007797.1	523614	523805	-	hypothetical protein	WP_011451044.1	-1	f3f3f3	-1
+NC_007797.1	523985	524482	-	hypothetical protein	WP_011451045.1	-1	f3f3f3	-1
+NC_007797.1	524542	525447	-	methionyl-tRNA formyltransferase	WP_011451046.1	227	f3f3f3	-1
+NC_007797.1	525971	528365	-	endopeptidase La	WP_011451048.1	125	f3f3f3	-1
+NC_007797.1	528366	529613	-	ATP-dependent Clp protease ATP-binding subunit ClpX	WP_011451049.1	196	f3f3f3	-1
+NC_007797.1	529625	530218	-	ATP-dependent Clp endopeptidase proteolytic subunit ClpP	WP_011451050.1	325	f3f3f3	-1
+NC_007797.1	530274	531593	-	trigger factor	WP_011451051.1	266	f3f3f3	-1
+NC_007797.1	532468	532968	+	phosphatidylglycerophosphatase A	WP_011451052.1	398	f3f3f3	-1
+NC_007797.1	533003	533776	+	GNAT family N-acetyltransferase	WP_011451053.1	681	f3f3f3	-1
+NC_007797.1	533829	535001	+	hypothetical protein	WP_011451054.1	-1	f3f3f3	-1
+NC_007797.1	535065	535262	-	Fe-S cluster assembly protein IscX	WP_011451055.1	717	f3f3f3	-1
+NC_007797.1	535791	536669	+	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	WP_080502906.1	105	FF9300	BioF
+NC_007797.1	537006	537563	-	P44/Msp2 family outer membrane protein	WP_020849031.1	0	f3f3f3	-1
+NC_007797.1	537661	538278	-	hypothetical protein	WP_020849032.1	0	f3f3f3	-1
+NC_007797.1	539129	539971	-	zinc ABC transporter solute-binding protein	WP_011451058.1	581	f3f3f3	-1
+NC_007797.1	539972	540695	+	metal ABC transporter ATP-binding protein	WP_044104290.1	565	f3f3f3	-1
+NC_007797.1	540696	542147	+	2-polyprenylphenol 6-hydroxylase	WP_011451060.1	484	f3f3f3	-1
+NC_007797.1	542318	542854	-	lipoprotein	WP_011451061.1	1005	f3f3f3	-1
+NC_007797.1	543424	544452	+	ABC transporter ATP-binding protein	WP_011451062.1	277	f3f3f3	-1
+NC_007797.1	544471	544641	+	twin-arginine translocase TatA/TatE family subunit	WP_011451063.1	128	f3f3f3	-1
+NC_007797.1	544717	545301	+	recombination protein RecR	WP_011451064.1	161	f3f3f3	-1
+NC_007797.1	546482	547096	+	30S ribosomal protein S4	WP_011451065.1	289	f3f3f3	-1
+NC_007797.1	549482	550271	-	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	WP_011451068.1	491	f3f3f3	-1
+NC_007797.1	550272	550934	-	chromosomal DNA replication initiator	WP_011451069.1	765	f3f3f3	-1
+NC_007797.1	550939	552114	-	AI-2E family transporter	WP_080502907.1	559	f3f3f3	-1
+NC_007797.1	552895	553149	-	hypothetical protein	WP_011451071.1	-1	f3f3f3	-1
+NC_007797.1	553231	554598	-	hypothetical protein	WP_011451072.1	-1	f3f3f3	-1
+NC_007797.1	554796	555125	-	succinate dehydrogenase, hydrophobic membrane anchor protein	WP_011451073.1	724	f3f3f3	-1
+NC_007797.1	555129	555515	-	succinate dehydrogenase, cytochrome b556 subunit	WP_044104123.1	537	f3f3f3	-1
+NC_007797.1	557348	558727	-	hypothetical protein	WP_020849037.1	-1	f3f3f3	-1
+NC_007797.1	558922	562296	-	DNA polymerase III subunit alpha	WP_044104295.1	280	f3f3f3	-1
+NC_007797.1	562512	562862	+	BolA family transcriptional regulator	WP_020849038.1	68	f3f3f3	-1
+NC_007797.1	562968	563192	-	hypothetical protein	WP_020849039.1	-1	f3f3f3	-1
+NC_007797.1	564325	564945	-	pyridoxamine 5'-phosphate oxidase	WP_011451082.1	774	f3f3f3	-1
+NC_007797.1	566700	567362	-	esterase	WP_011451084.1	458	f3f3f3	-1
+NC_007797.1	568505	569098	-	peptide deformylase	WP_011451086.1	-1	f3f3f3	-1
+NC_007797.1	569353	570405	+	quinone-dependent dihydroorotate dehydrogenase	WP_011451087.1	241	f3f3f3	-1
+NC_007797.1	570414	571205	+	type III pantothenate kinase	WP_011451088.1	1015	f3f3f3	-1
+NC_007797.1	571472	572038	-	Na+/H+ antiporter subunit E	WP_020849043.1	715	f3f3f3	-1
+NC_007797.1	572430	573566	+	8-amino-7-oxononanoate synthase	WP_011451090.1	105	FF9300	BioF
+NC_007797.1	573642	574934	-	P44/Msp2 family outer membrane protein	WP_020849044.1	0	f3f3f3	-1
+NC_007797.1	575223	575417	-	hypothetical protein	WP_020849045.1	-1	f3f3f3	-1
+NC_007797.1	576164	576916	-	P44/Msp2 family outer membrane protein	WP_020849046.1	0	f3f3f3	-1
+NC_007797.1	577848	578291	+	hypothetical protein	WP_011451093.1	758	f3f3f3	-1
+NC_007797.1	579715	580347	+	ribonuclease HII	WP_011451094.1	273	f3f3f3	-1
+NC_007797.1	580889	585118	-	DNA-directed RNA polymerase subunit beta'	WP_011451095.1	36	f3f3f3	-1
+NC_007797.1	585131	589282	-	DNA-directed RNA polymerase subunit beta	WP_011451096.1	36	f3f3f3	-1
+NC_007797.1	589322	589726	-	50S ribosomal protein L7/L12	WP_011451097.1	294	f3f3f3	-1
+NC_007797.1	589891	590373	-	50S ribosomal protein L10	WP_011451098.1	232	f3f3f3	-1
+NC_007797.1	590405	591055	-	50S ribosomal protein L1	WP_011451099.1	362	f3f3f3	-1
+NC_007797.1	591070	591516	-	50S ribosomal protein L11	WP_011451100.1	201	f3f3f3	-1
+NC_007797.1	591521	592066	-	transcription termination/antitermination factor NusG	WP_044104302.1	409	f3f3f3	-1
+NC_007797.1	592071	592271	-	preprotein translocase subunit SecE	WP_011451102.1	1003	f3f3f3	-1
+NC_007797.1	592390	593571	-	elongation factor Tu	WP_011450413.1	102	f3f3f3	-1
+NC_007797.1	593580	595652	-	elongation factor G	WP_011451103.1	269	f3f3f3	-1
+NC_007797.1	595688	596170	-	30S ribosomal protein S7	WP_011451104.1	399	f3f3f3	-1
+NC_007797.1	596188	596562	-	30S ribosomal protein S12	WP_011451105.1	187	f3f3f3	-1
+NC_007797.1	597661	599281	+	ribonuclease J	WP_011451106.1	547	f3f3f3	-1
+NC_007797.1	599282	600589	+	Tol-Pal system protein TolB	WP_011451107.1	250	f3f3f3	-1
+NC_007797.1	601166	601351	-	hypothetical protein	WP_011451108.1	980	f3f3f3	-1
+NC_007797.1	602094	602333	+	hypothetical protein	WP_020849051.1	-1	f3f3f3	-1
+NC_007797.1	603624	604328	+	COQ9 family protein	WP_011451111.1	975	f3f3f3	-1
+NC_007797.1	604413	605954	+	HlyD family type I secretion periplasmic adaptor subunit	WP_020849414.1	696	f3f3f3	-1
+NC_007797.1	607563	609194	-	iron ABC transporter permease	WP_044104307.1	961	f3f3f3	-1
+NC_007797.1	610319	611335	+	2-nitropropane dioxygenase	WP_011451117.1	761	f3f3f3	-1
+NC_007797.1	611499	612128	+	SCO family protein	WP_011451118.1	738	f3f3f3	-1
+NC_007797.1	612173	613198	+	phosphate ABC transporter substrate-binding protein	WP_020849053.1	1022	f3f3f3	-1
+NC_007797.1	613310	613585	+	30S ribosomal protein S21	WP_011451120.1	1029	f3f3f3	-1
+NC_007797.1	613678	614844	+	ADP-forming succinate--CoA ligase subunit beta	WP_011451121.1	448	f3f3f3	-1
+NC_007797.1	614853	615740	+	succinate--CoA ligase subunit alpha	WP_011451122.1	524	f3f3f3	-1
+NC_007797.1	617281	618090	+	cell cycle protein MesJ	WP_011451125.1	108	f3f3f3	-1
+NC_007797.1	618387	618570	+	hypothetical protein	WP_020849059.1	-1	f3f3f3	-1
+NC_007797.1	618571	621201	-	alanine--tRNA ligase	WP_011451127.1	346	f3f3f3	-1
+NC_007797.1	621284	622405	+	phosphate ABC transporter permease subunit PstC	WP_020849060.1	531	f3f3f3	-1
+NC_007797.1	622405	623217	+	glutamine synthetase	WP_011451129.1	465	f3f3f3	-1
+NC_007797.1	623229	624020	-	MBL fold metallo-hydrolase	WP_011451130.1	748	f3f3f3	-1
+NC_007797.1	624741	625235	+	hypothetical protein	WP_020849062.1	0	f3f3f3	-1
+NC_007797.1	627196	627701	-	hypothetical protein	WP_020849064.1	1011	f3f3f3	-1
+NC_007797.1	627702	628316	-	hypothetical protein	WP_020849065.1	-1	f3f3f3	-1
+NC_007797.1	628318	629766	-	hypothetical protein	WP_020849066.1	970	f3f3f3	-1
+NC_007797.1	629845	632286	-	hypothetical protein	WP_020849067.1	-1	f3f3f3	-1
+NC_007797.1	632492	633907	+	dihydrolipoyl dehydrogenase	WP_011450224.1	37	f3f3f3	-1
+NC_007797.1	633990	635321	-	transcription termination factor Rho	WP_011451135.1	112	f3f3f3	-1
+NC_007797.1	636238	636807	+	ATP-dependent protease subunit HslV	WP_011451137.1	384	f3f3f3	-1
+NC_007797.1	636812	638287	+	ATP-dependent protease ATPase subunit HslU	WP_020849069.1	395	f3f3f3	-1
+NC_007797.1	638293	638988	+	class I SAM-dependent methyltransferase	WP_011451139.1	168	f3f3f3	-1
+NC_007797.1	639199	639465	-	P44/Msp2 family outer membrane protein	WP_080502908.1	0	f3f3f3	-1
+NC_007797.1	639665	640477	-	P44/Msp2 family outer membrane protein	WP_020849070.1	0	f3f3f3	-1
+NC_007797.1	641181	641366	+	hypothetical protein	WP_020849421.1	-1	f3f3f3	-1
+NC_007797.1	641916	643457	+	methionine--tRNA ligase	WP_011451141.1	295	f3f3f3	-1
+NC_007797.1	645320	646135	+	P44/Msp2 family outer membrane protein	WP_080502909.1	0	f3f3f3	-1
+NC_007797.1	646314	646742	+	hypothetical protein	WP_020849075.1	0	f3f3f3	-1
+NC_007797.1	647296	648084	+	cytochrome c oxidase subunit II	WP_011451143.1	497	f3f3f3	-1
+NC_007797.1	648147	649703	+	cytochrome c oxidase subunit I	WP_011451144.1	575	f3f3f3	-1
+NC_007797.1	649725	650606	+	protoheme IX farnesyltransferase	WP_044104124.1	494	f3f3f3	-1
+NC_007797.1	650646	651347	-	outer membrane protein assembly factor BamD	WP_011451146.1	106	f3f3f3	-1
+NC_007797.1	651521	652777	+	phosphoribosylamine--glycine ligase	WP_011451147.1	560	f3f3f3	-1
+NC_007797.1	653017	653391	+	preprotein translocase subunit YajC	WP_011451149.1	270	f3f3f3	-1
+NC_007797.1	654563	655372	+	cell cycle protein MesJ	WP_011451125.1	108	f3f3f3	-1
+NC_007797.1	655853	656167	-	hypothetical protein	WP_020849076.1	-1	f3f3f3	-1
+NC_007797.1	656405	657532	-	DNA polymerase III subunit beta	WP_011451152.1	400	f3f3f3	-1
+NC_007797.1	657646	658260	-	ribonuclease D	WP_011451153.1	672	f3f3f3	-1
+NC_007797.1	658328	659158	-	response regulator transcription factor	WP_011451154.1	74	f3f3f3	-1
+NC_007797.1	659462	660100	-	LexA family transcriptional regulator	WP_011451155.1	-1	f3f3f3	-1
+NC_007797.1	660693	661229	-	inorganic diphosphatase	WP_011451156.1	570	f3f3f3	-1
+NC_007797.1	661407	661745	+	hypothetical protein	WP_020849078.1	-1	f3f3f3	-1
+NC_007797.1	662214	662570	-	hypothetical protein	WP_011451158.1	970	f3f3f3	-1
+NC_007797.1	663743	663931	-	hypothetical protein	WP_020849079.1	-1	f3f3f3	-1
+NC_007797.1	664153	664588	-	30S ribosomal protein S9	WP_044104125.1	360	f3f3f3	-1
+NC_007797.1	664589	665065	-	50S ribosomal protein L13	WP_011451163.1	320	f3f3f3	-1
+NC_007797.1	665310	666530	+	outer membrane efflux protein	WP_021799100.1	528	f3f3f3	-1
+NC_007797.1	668260	669288	-	Mrp/NBP35 family ATP-binding protein	WP_011451166.1	263	f3f3f3	-1
+NC_007797.1	669404	670368	+	ribose-phosphate diphosphokinase	WP_011451167.1	587	f3f3f3	-1
+NC_007797.1	670369	670689	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC	WP_011451168.1	680	f3f3f3	-1
+NC_007797.1	671109	671321	-	hypothetical protein	WP_020849081.1	-1	f3f3f3	-1
+NC_007797.1	671914	672981	+	P44/Msp2 family outer membrane protein	WP_011451169.1	0	f3f3f3	-1
+NC_007797.1	673169	673375	+	P44/Msp2 family outer membrane protein	WP_020849083.1	0	f3f3f3	-1
+NC_007797.1	675174	677795	-	aconitate hydratase AcnA	WP_011451171.1	501	f3f3f3	-1
+NC_007797.1	679968	681044	-	5-(carboxyamino)imidazole ribonucleotide synthase	WP_011451172.1	772	f3f3f3	-1
+NC_007797.1	681177	681584	+	Co2+/Mg2+ efflux protein ApaG	WP_011451173.1	701	f3f3f3	-1
+NC_007797.1	681819	682403	+	hypothetical protein	WP_020849086.1	0	f3f3f3	-1
+NC_007797.1	684007	684129	+	P44/Msp2 family outer membrane protein	WP_020849089.1	0	f3f3f3	-1
+NC_007797.1	684333	684620	+	P44/Msp2 family outer membrane protein	WP_011451175.1	0	f3f3f3	-1
+NC_007797.1	684965	685231	+	hypothetical protein	WP_011451176.1	-1	f3f3f3	-1
+NC_007797.1	685432	688812	-	hypothetical protein	WP_020849090.1	-1	f3f3f3	-1
+NC_007797.1	689143	689511	-	hypothetical protein	WP_020849091.1	0	f3f3f3	-1
+NC_007797.1	690038	692371	-	hypothetical protein	WP_011451178.1	1027	f3f3f3	-1
+NC_007797.1	692579	692950	-	type IV secretion system protein VirB2-8	WP_011451179.1	25	f3f3f3	-1
+NC_007797.1	693290	693649	-	type IV secretion system protein VirB2-7	WP_011451180.1	25	f3f3f3	-1
+NC_007797.1	693669	694043	-	type IV secretion system protein VirB2-6	WP_011451181.1	25	f3f3f3	-1
+NC_007797.1	694909	695268	-	type IV secretion system protein VirB2-5	WP_011451182.1	25	f3f3f3	-1
+NC_007797.1	695453	695731	-	hypothetical protein	WP_020849093.1	991	f3f3f3	-1
+NC_007797.1	696128	696490	-	type IV secretion system protein VirB2-4	WP_011451183.1	25	f3f3f3	-1
+NC_007797.1	696675	696914	-	hypothetical protein	WP_020849442.1	991	f3f3f3	-1
+NC_007797.1	697652	698101	-	type IV secretion system protein VirB2-3	WP_020849094.1	25	f3f3f3	-1
+NC_007797.1	698218	698529	-	hypothetical protein	WP_011451186.1	-1	f3f3f3	-1
+NC_007797.1	699031	699222	+	hypothetical protein	WP_020849095.1	-1	f3f3f3	-1
+NC_007797.1	699808	700003	+	hypothetical protein	WP_020849096.1	-1	f3f3f3	-1
+NC_007797.1	700004	700186	-	hypothetical protein	WP_011451189.1	-1	f3f3f3	-1
+NC_007797.1	700657	700836	-	hypothetical protein	WP_020849098.1	-1	f3f3f3	-1
+NC_007797.1	700866	701237	-	type IV secretion system protein VirB2-2	WP_011451193.1	25	f3f3f3	-1
+NC_007797.1	701293	701739	-	hypothetical protein	WP_020849099.1	-1	f3f3f3	-1
+NC_007797.1	702404	703506	+	FtsH protease activity modulator HflK	WP_011451195.1	171	f3f3f3	-1
+NC_007797.1	703507	704382	+	protease modulator HflC	WP_011451196.1	301	f3f3f3	-1
+NC_007797.1	704385	705857	+	Do family serine endopeptidase	WP_011451197.1	110	f3f3f3	-1
+NC_007797.1	707151	707861	+	ribonuclease III	WP_011451198.1	578	f3f3f3	-1
+NC_007797.1	707903	708454	+	cytochrome c oxidase assembly protein	WP_011451199.1	698	f3f3f3	-1
+NC_007797.1	708476	709252	-	hypothetical protein	WP_020849100.1	-1	f3f3f3	-1
+NC_007797.1	710301	711167	-	P44/Msp2 family outer membrane protein	WP_080502910.1	0	f3f3f3	-1
+NC_007797.1	711469	716892	-	hypothetical protein	WP_011451201.1	-1	f3f3f3	-1
+NC_007797.1	717169	717558	-	hypothetical protein	WP_020849102.1	0	f3f3f3	-1
+NC_007797.1	717737	718924	-	P44/Msp2 family outer membrane protein	WP_044108165.1	0	f3f3f3	-1
+NC_007797.1	719228	719482	-	hypothetical protein	WP_020849104.1	-1	f3f3f3	-1
+NC_007797.1	720008	720886	-	hypothetical protein	WP_011451204.1	-1	f3f3f3	-1
+NC_007797.1	721032	722423	-	insulinase family protein	WP_011451205.1	721	f3f3f3	-1
+NC_007797.1	722425	723966	-	insulinase family protein	WP_011451206.1	677	f3f3f3	-1
+NC_007797.1	724002	724472	-	signal peptidase II	WP_011451207.1	292	f3f3f3	-1
+NC_007797.1	724566	725522	-	bifunctional riboflavin kinase/FAD synthetase	WP_011451208.1	493	f3f3f3	-1
+NC_007797.1	725549	725791	+	glutaredoxin 3	WP_011451209.1	357	f3f3f3	-1
+NC_007797.1	727085	728269	-	cell division protein FtsA	WP_011451210.1	104	f3f3f3	-1
+NC_007797.1	728395	730152	-	single-stranded-DNA-specific exonuclease RecJ	WP_011451211.1	327	f3f3f3	-1
+NC_007797.1	730328	731761	-	isocitrate dehydrogenase	WP_011451212.1	509	f3f3f3	-1
+NC_007797.1	732039	732812	-	hypothetical protein	WP_020849106.1	973	f3f3f3	-1
+NC_007797.1	733489	733624	+	hypothetical protein	WP_080502911.1	450	f3f3f3	-1
+NC_007797.1	733625	734725	-	P44/Msp2 family outer membrane protein	WP_011451214.1	0	f3f3f3	-1
+NC_007797.1	734786	735880	-	P44/Msp2 family outer membrane protein	WP_080502912.1	0	f3f3f3	-1
+NC_007797.1	736001	737695	-	pentapeptide repeat-containing protein	WP_011451216.1	462	f3f3f3	-1
+NC_007797.1	738179	738856	+	SURF1 family protein	WP_011451217.1	746	f3f3f3	-1
+NC_007797.1	740492	741106	+	orotate phosphoribosyltransferase	WP_011451219.1	503	f3f3f3	-1
+NC_007797.1	741184	741972	+	HesA/MoeB/ThiF family protein	WP_011451220.1	379	f3f3f3	-1
+NC_007797.1	742189	742392	+	glutaredoxin	WP_080502913.1	357	f3f3f3	-1
+NC_007797.1	743910	744587	+	P44/Msp2 family outer membrane protein	WP_080502914.1	0	f3f3f3	-1
+NC_007797.1	744799	744906	+	P44/Msp2 family outer membrane protein	WP_080502940.1	0	f3f3f3	-1
+NC_007797.1	744997	747618	-	preprotein translocase subunit SecA	WP_011451223.1	215	f3f3f3	-1
+NC_007797.1	747792	749627	-	ATP-dependent metallopeptidase FtsH/Yme1/Tma family protein	WP_011451224.1	342	f3f3f3	-1
+NC_007797.1	749640	751019	-	tRNA lysidine(34) synthetase TilS	WP_044108204.1	108	f3f3f3	-1
+NC_007797.1	751316	752776	+	TrkH family potassium uptake protein	WP_011451226.1	278	f3f3f3	-1
+NC_007797.1	752888	754108	+	cell division protein FtsA	WP_011451227.1	104	f3f3f3	-1
+NC_007797.1	754329	754865	-	hypothetical protein	WP_020849113.1	0	f3f3f3	-1
+NC_007797.1	754906	755046	-	P44/Msp2 family outer membrane protein	WP_080502915.1	0	f3f3f3	-1
+NC_007797.1	755184	755936	-	P44/Msp2 family outer membrane protein	WP_080502916.1	0	f3f3f3	-1
+NC_007797.1	757688	758175	-	hypothetical protein	WP_011451230.1	958	f3f3f3	-1
+NC_007797.1	758176	758679	-	ATP synthase F0, B' subunit	WP_011451231.1	739	f3f3f3	-1
+NC_007797.1	758686	758910	-	F0F1 ATP synthase subunit C	WP_011451232.1	705	f3f3f3	-1
+NC_007797.1	759115	759864	-	F0F1 ATP synthase subunit A	WP_080502917.1	412	f3f3f3	-1
+NC_007797.1	760091	761344	+	iron-containing alcohol dehydrogenase	WP_011451234.1	1009	f3f3f3	-1
+NC_007797.1	762335	763510	-	P44/Msp2 family outer membrane protein	WP_044108207.1	0	f3f3f3	-1
+NC_007797.1	763808	764320	+	gamma carbonic anhydrase family protein	WP_011451237.1	467	f3f3f3	-1
+NC_007797.1	764413	765633	+	2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase	WP_011451238.1	550	f3f3f3	-1
+NC_007797.1	765643	766437	+	type I methionyl aminopeptidase	WP_011451239.1	254	f3f3f3	-1
+NC_007797.1	766562	767410	+	peptide chain release factor N(5)-glutamine methyltransferase	WP_011451240.1	584	f3f3f3	-1
+NC_007797.1	767680	768408	-	P44/Msp2 family outer membrane protein	WP_080502918.1	0	f3f3f3	-1
+NC_007797.1	768437	769102	-	hypothetical protein	WP_020849120.1	0	f3f3f3	-1
+NC_007797.1	769198	769566	+	cytochrome c-type biogenesis protein, truncation	WP_011451242.1	-1	f3f3f3	-1
+NC_007797.1	769950	771260	-	cytochrome c oxidase subunit I	WP_020849121.1	1026	f3f3f3	-1
+NC_007797.1	771797	772342	+	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	WP_011451244.1	298	f3f3f3	-1
+NC_007797.1	773069	774607	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	WP_044108209.1	555	f3f3f3	-1
+NC_007797.1	774619	775056	-	3-hydroxyacyl-ACP dehydratase FabZ	WP_011451246.1	234	f3f3f3	-1
+NC_007797.1	775073	775630	-	OmpH family outer membrane protein	WP_011451247.1	769	f3f3f3	-1
+NC_007797.1	775633	777951	-	outer membrane protein assembly factor BamA	WP_011451248.1	204	f3f3f3	-1
+NC_007797.1	777957	779045	-	site-2 protease family protein	WP_011451249.1	332	f3f3f3	-1
+NC_007797.1	779164	779430	+	succinate dehydrogenase assembly factor 2	WP_011451250.1	729	f3f3f3	-1
+NC_007797.1	779474	780678	+	thiol:disulfide interchange protein, truncation	WP_011451251.1	779	f3f3f3	-1
+NC_007797.1	780679	781839	-	D-alanyl-D-alanine carboxypeptidase	WP_011451252.1	163	f3f3f3	-1
+NC_007797.1	782148	783449	-	P44/Msp2 family outer membrane protein	WP_011451253.1	0	f3f3f3	-1
+NC_007797.1	783574	784803	+	CCA tRNA nucleotidyltransferase	WP_011451254.1	109	f3f3f3	-1
+NC_007797.1	784838	785260	-	nucleoside-diphosphate kinase	WP_011451255.1	356	f3f3f3	-1
+NC_007797.1	785491	786042	+	helix-turn-helix transcriptional regulator	WP_011451256.1	971	f3f3f3	-1
+NC_007797.1	786382	787302	+	P44/Msp2 family outer membrane protein	WP_011451257.1	0	f3f3f3	-1
+NC_007797.1	787538	788362	+	P44/Msp2 family outer membrane protein	WP_011451258.1	0	f3f3f3	-1
+NC_007797.1	788609	789871	+	P44/Msp2 family outer membrane protein	WP_044108210.1	0	f3f3f3	-1
+NC_007797.1	790164	790413	+	hypothetical protein	WP_020849130.1	-1	f3f3f3	-1
+NC_007797.1	790414	792822	-	valine--tRNA ligase	WP_044108166.1	368	f3f3f3	-1
+NC_007797.1	793153	793449	-	hypothetical protein	WP_011451263.1	669	f3f3f3	-1
+NC_007797.1	794866	795783	-	signal recognition particle-docking protein FtsY	WP_011451264.1	182	f3f3f3	-1
+NC_007797.1	795857	796534	+	dethiobiotin synthase	WP_011451265.1	119	D4FB79	BioD
+NC_007797.1	797218	798495	+	P44/Msp2 family outer membrane protein	WP_011451266.1	0	f3f3f3	-1
+NC_007797.1	798604	798852	+	P44/Msp2 family outer membrane protein	WP_020849132.1	0	f3f3f3	-1
+NC_007797.1	798880	800106	-	glutamate--cysteine ligase	WP_011451267.1	1016	f3f3f3	-1
+NC_007797.1	800535	801770	-	citrate synthase	WP_011451268.1	482	f3f3f3	-1
+NC_007797.1	801804	803393	-	glutamine-hydrolyzing GMP synthase	WP_011451269.1	563	f3f3f3	-1
+NC_007797.1	803765	804247	+	hypothetical protein	WP_020849133.1	-1	f3f3f3	-1
+NC_007797.1	805097	806215	+	P44/Msp2 family outer membrane protein	WP_080502919.1	0	f3f3f3	-1
+NC_007797.1	808058	808906	-	P44/Msp2 family outer membrane protein	WP_011451275.1	0	f3f3f3	-1
+NC_007797.1	809259	809492	+	hypothetical protein	WP_020849135.1	-1	f3f3f3	-1
+NC_007797.1	810575	811528	-	P44/Msp2 family outer membrane protein	WP_080502920.1	0	f3f3f3	-1
+NC_007797.1	811867	813111	-	5-aminolevulinate synthase	WP_011451276.1	597	f3f3f3	-1
+NC_007797.1	813401	814639	-	tyrosine--tRNA ligase	WP_011451277.1	159	f3f3f3	-1
+NC_007797.1	814931	816349	+	type I glutamate--ammonia ligase	WP_011451278.1	994	f3f3f3	-1
+NC_007797.1	816573	817556	+	polyprenyl synthetase family protein	WP_048651632.1	213	f3f3f3	-1
+NC_007797.1	818299	819057	-	P44/Msp2 family outer membrane protein	WP_080502921.1	0	f3f3f3	-1
+NC_007797.1	819086	820261	-	P44/Msp2 family outer membrane protein	WP_011451280.1	0	f3f3f3	-1
+NC_007797.1	821217	822233	+	DNA polymerase III subunit delta	WP_011451282.1	764	f3f3f3	-1
+NC_007797.1	822440	823165	+	P44/Msp2 family outer membrane protein	WP_080502922.1	0	f3f3f3	-1
+NC_007797.1	824487	825638	+	P44/Msp2 family outer membrane protein	WP_044108213.1	0	f3f3f3	-1
+NC_007797.1	825837	827099	+	pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase	WP_011451285.1	688	f3f3f3	-1
+NC_007797.1	827310	828212	+	class I fructose-bisphosphate aldolase	WP_021799145.1	708	f3f3f3	-1
+NC_007797.1	830227	830745	-	translation initiation factor IF-3	WP_011451289.1	318	f3f3f3	-1
+NC_007797.1	830768	832690	-	threonine--tRNA ligase	WP_044104371.1	284	f3f3f3	-1
+NC_007797.1	832740	833270	+	CinA family protein	WP_020849147.1	694	f3f3f3	-1
+NC_007797.1	833288	833674	-	50S ribosomal protein L19	WP_011451292.1	261	f3f3f3	-1
+NC_007797.1	833678	834372	-	tRNA (guanosine(37)-N1)-methyltransferase TrmD	WP_011451293.1	391	f3f3f3	-1
+NC_007797.1	834373	834888	-	16S rRNA processing protein RimM	WP_011451294.1	176	f3f3f3	-1
+NC_007797.1	835010	836299	-	P44/Msp2 family outer membrane protein	WP_011451295.1	0	f3f3f3	-1
+NC_007797.1	836387	837214	-	aminomethyltransferase	WP_011451296.1	500	f3f3f3	-1
+NC_007797.1	837295	839208	-	heme lyase CcmF/NrfE family subunit	WP_011451297.1	373	f3f3f3	-1
+NC_007797.1	839558	840413	+	P44/Msp2 family outer membrane protein	WP_080502923.1	0	f3f3f3	-1
+NC_007797.1	840414	840644	-	hypothetical protein	WP_080502924.1	450	f3f3f3	-1
+NC_007797.1	840747	840887	+	P44/Msp2 family outer membrane protein	WP_080502925.1	0	f3f3f3	-1
+NC_007797.1	841951	843201	+	P44/Msp2 family outer membrane protein	WP_044108215.1	0	f3f3f3	-1
+NC_007797.1	843403	843894	-	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	WP_044104377.1	488	f3f3f3	-1
+NC_007797.1	844131	844838	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	WP_011451301.1	972	f3f3f3	-1
+NC_007797.1	845238	847067	+	hypothetical protein	WP_011451302.1	-1	f3f3f3	-1
+NC_007797.1	847407	847896	-	5-(carboxyamino)imidazole ribonucleotide mutase	WP_011451303.1	518	f3f3f3	-1
+NC_007797.1	847897	848445	-	redoxin domain-containing protein	WP_011451304.1	-1	f3f3f3	-1
+NC_007797.1	848807	849103	+	integration host factor subunit alpha	WP_021799148.1	14	f3f3f3	-1
+NC_007797.1	849103	849477	+	MerR family transcriptional regulator	WP_080502941.1	48	f3f3f3	-1
+NC_007797.1	850496	851587	+	redox-regulated ATPase YchF	WP_011451307.1	166	f3f3f3	-1
+NC_007797.1	851994	852185	+	hypothetical protein	WP_020849154.1	-1	f3f3f3	-1
+NC_007797.1	852433	853701	+	P44/Msp2 family outer membrane protein	WP_011451309.1	0	f3f3f3	-1
+NC_007797.1	853903	855240	+	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	WP_011451310.1	229	f3f3f3	-1
+NC_007797.1	856571	857035	-	rRNA maturation RNase YbeY	WP_011451311.1	361	f3f3f3	-1
+NC_007797.1	857042	857449	-	EVE domain-containing protein	WP_011451312.1	693	f3f3f3	-1
+NC_007797.1	857449	858651	-	cell division protein FtsZ	WP_011451313.1	330	f3f3f3	-1
+NC_007797.1	858902	859252	+	hypothetical protein	WP_020849155.1	-1	f3f3f3	-1
+NC_007797.1	860381	860701	-	hypothetical protein	WP_020849156.1	-1	f3f3f3	-1
+NC_007797.1	861560	862093	-	phosphopantothenoylcysteine decarboxylase	WP_011451318.1	726	f3f3f3	-1
+NC_007797.1	862103	864211	+	ATP-dependent DNA helicase RecG	WP_011451319.1	69	f3f3f3	-1
+NC_007797.1	864385	865326	+	complex I NDUFA9 subunit family protein	WP_011451320.1	186	f3f3f3	-1
+NC_007797.1	865417	866823	-	amidophosphoribosyltransferase	WP_011451321.1	545	f3f3f3	-1
+NC_007797.1	867166	867717	-	aminoacyl-tRNA hydrolase	WP_011451322.1	505	f3f3f3	-1
+NC_007797.1	867727	868362	-	50S ribosomal protein L25/general stress protein Ctc	WP_011451323.1	382	f3f3f3	-1
+NC_007797.1	868755	869510	-	ComF family protein	WP_020849157.1	463	f3f3f3	-1
+NC_007797.1	869645	871360	-	potassium transporter	WP_011451326.1	70	f3f3f3	-1
+NC_007797.1	871372	871944	-	thioredoxin family protein	WP_011451327.1	1007	f3f3f3	-1
+NC_007797.1	872345	872788	-	CopD family protein	WP_011451328.1	737	f3f3f3	-1
+NC_007797.1	873174	874172	-	pyruvate dehydrogenase complex E1 component subunit beta	WP_011451329.1	410	f3f3f3	-1
+NC_007797.1	874841	876262	+	peptidase C69	WP_011451330.1	664	f3f3f3	-1
+NC_007797.1	876532	877725	-	P44/Msp2 family outer membrane protein	WP_011451331.1	0	f3f3f3	-1
+NC_007797.1	879938	881029	-	GTP cyclohydrolase II	WP_011451332.1	72	f3f3f3	-1
+NC_007797.1	881241	882302	-	methyltransferase	WP_020849160.1	997	f3f3f3	-1
+NC_007797.1	882344	882871	-	hypothetical protein	WP_020849161.1	-1	f3f3f3	-1
+NC_007797.1	885106	885531	-	hypothetical protein	WP_011451336.1	1008	f3f3f3	-1
+NC_007797.1	886015	887169	+	phosphoglycerate kinase	WP_011451337.1	466	f3f3f3	-1
+NC_007797.1	887238	888402	-	exodeoxyribonuclease VII large subunit	WP_011451338.1	549	f3f3f3	-1
+NC_007797.1	888403	889020	-	zinc finger-like domain-containing protein	WP_011451339.1	722	f3f3f3	-1
+NC_007797.1	889106	889369	+	hypothetical protein	WP_020849163.1	-1	f3f3f3	-1
+NC_007797.1	889858	891108	+	P44/Msp2 family outer membrane protein	WP_011451340.1	0	f3f3f3	-1
+NC_007797.1	891623	892540	-	protein translocase subunit SecF	WP_011451341.1	169	f3f3f3	-1
+NC_007797.1	892692	893051	+	hypothetical protein	WP_020849165.1	703	f3f3f3	-1
+NC_007797.1	893376	893987	-	P44/Msp2 family outer membrane protein	WP_080502942.1	0	f3f3f3	-1
+NC_007797.1	894067	894828	-	P44/Msp2 family outer membrane protein	WP_080502926.1	0	f3f3f3	-1
+NC_007797.1	896285	896734	-	SsrA-binding protein SmpB	WP_011451343.1	297	f3f3f3	-1
+NC_007797.1	896742	897371	-	3,4-dihydroxy-2-butanone-4-phosphate synthase	WP_011451344.1	72	f3f3f3	-1
+NC_007797.1	897386	897886	-	transcription elongation factor GreA	WP_011451345.1	365	f3f3f3	-1
+NC_007797.1	897914	899434	-	F0F1 ATP synthase subunit alpha	WP_011451346.1	203	f3f3f3	-1
+NC_007797.1	899453	900016	-	F0F1 ATP synthase subunit delta	WP_044104132.1	199	f3f3f3	-1
+NC_007797.1	900180	900440	-	DUF1467 family protein	WP_011451349.1	-1	f3f3f3	-1
+NC_007797.1	900523	901757	-	hypothetical protein	WP_011451351.1	990	f3f3f3	-1
+NC_007797.1	901758	902498	-	hypothetical protein	WP_048651635.1	1006	f3f3f3	-1
+NC_007797.1	902557	903756	-	lipoprotein-releasing ABC transporter permease subunit	WP_011451353.1	127	f3f3f3	-1
+NC_007797.1	905381	906034	-	P44/Msp2 family outer membrane protein	WP_080502927.1	0	f3f3f3	-1
+NC_007797.1	906465	906623	-	P44/Msp2 family outer membrane protein	WP_080502928.1	0	f3f3f3	-1
+NC_007797.1	907017	907451	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	WP_011451354.1	452	f3f3f3	-1
+NC_007797.1	907471	908172	-	Bax inhibitor-1/YccA family protein	WP_011451355.1	117	f3f3f3	-1
+NC_007797.1	908427	909440	-	aspartate-semialdehyde dehydrogenase	WP_011451356.1	225	f3f3f3	-1
+NC_007797.1	909443	909751	-	YbaB/EbfC family nucleoid-associated protein	WP_011451357.1	354	f3f3f3	-1
+NC_007797.1	909763	911133	-	DNA polymerase III subunit gamma/tau	WP_011451358.1	103	f3f3f3	-1
+NC_007797.1	911305	912312	-	aldehyde dehydrogenase	WP_011451359.1	120	f3f3f3	-1
+NC_007797.1	912474	913345	+	P44/Msp2 family outer membrane protein	WP_080502929.1	0	f3f3f3	-1
+NC_007797.1	913346	913543	-	hypothetical protein	WP_080502930.1	450	f3f3f3	-1
+NC_007797.1	913646	913786	+	P44/Msp2 family outer membrane protein	WP_080502925.1	0	f3f3f3	-1
+NC_007797.1	915909	916973	+	recombinase RecA	WP_011451360.1	265	f3f3f3	-1
+NC_007797.1	917007	918392	-	P44/Msp2 family outer membrane protein	WP_011451361.1	0	f3f3f3	-1
+NC_007797.1	919171	919491	-	hypothetical protein	WP_020849156.1	-1	f3f3f3	-1
+NC_007797.1	920221	921081	+	P44/Msp2 family outer membrane protein	WP_011451363.1	0	f3f3f3	-1
+NC_007797.1	921235	922137	+	P44/Msp2 family outer membrane protein	WP_020849180.1	0	f3f3f3	-1
+NC_007797.1	922222	923715	+	UbiD family decarboxylase	WP_011451365.1	540	f3f3f3	-1
+NC_007797.1	924001	925098	+	P44/Msp2 family outer membrane protein	WP_011451366.1	0	f3f3f3	-1
+NC_007797.1	926551	926700	-	zinc-finger domain-containing protein	WP_020849182.1	-1	f3f3f3	-1
+NC_007797.1	926713	928239	-	protein translocase subunit SecD	WP_011451371.1	376	f3f3f3	-1
+NC_007797.1	928304	930265	+	excinuclease ABC subunit UvrB	WP_011451372.1	211	f3f3f3	-1
+NC_007797.1	931494	931691	+	hypothetical protein	WP_020849183.1	-1	f3f3f3	-1
+NC_007797.1	931761	932036	+	hypothetical protein	WP_011451375.1	-1	f3f3f3	-1
+NC_007797.1	932745	933617	-	uracil-DNA glycosylase	WP_011451376.1	732	f3f3f3	-1
+NC_007797.1	933864	934427	-	peptide deformylase	WP_011451377.1	406	f3f3f3	-1
+NC_007797.1	934493	935218	+	1-acyl-sn-glycerol-3-phosphate acyltransferase	WP_011451378.1	96	f3f3f3	-1
+NC_007797.1	935344	935634	+	30S ribosomal protein S20	WP_011451379.1	287	f3f3f3	-1
+NC_007797.1	938145	938339	-	hypothetical protein	WP_020849184.1	-1	f3f3f3	-1
+NC_007797.1	938535	939368	-	prolipoprotein diacylglyceryl transferase	WP_011451381.1	221	f3f3f3	-1
+NC_007797.1	939453	940961	+	murein biosynthesis integral membrane protein MurJ	WP_011451382.1	351	f3f3f3	-1
+NC_007797.1	941001	942017	+	hypothetical protein	WP_011451383.1	969	f3f3f3	-1
+NC_007797.1	942791	943300	-	hypothetical protein	WP_020849187.1	216	f3f3f3	-1
+NC_007797.1	943445	943990	-	hypothetical protein	WP_020849188.1	216	f3f3f3	-1
+NC_007797.1	944142	944642	-	hypothetical protein	WP_011451388.1	216	f3f3f3	-1
+NC_007797.1	944801	945283	-	hypothetical protein	WP_011451389.1	216	f3f3f3	-1
+NC_007797.1	945369	945971	-	hypothetical protein	WP_011451390.1	216	f3f3f3	-1
+NC_007797.1	946104	946535	-	hypothetical protein	WP_011451391.1	-1	f3f3f3	-1
+NC_007797.1	947056	948792	+	hypothetical protein	WP_011451392.1	-1	f3f3f3	-1
+NC_007797.1	949118	949297	-	hypothetical protein	WP_020849189.1	-1	f3f3f3	-1
+NC_007797.1	949659	949907	-	P44/Msp2 family outer membrane protein	WP_020849190.1	0	f3f3f3	-1
+NC_007797.1	950748	951593	-	P44/Msp2 family outer membrane protein	WP_080502931.1	0	f3f3f3	-1
+NC_007797.1	951626	952765	-	P44/Msp2 family outer membrane protein	WP_011451394.1	0	f3f3f3	-1
+NC_007797.1	953136	953744	-	ABC transporter substrate-binding protein	WP_011451396.1	370	f3f3f3	-1
+NC_007797.1	953821	954714	-	cation transporter	WP_044108167.1	697	f3f3f3	-1
+NC_007797.1	954840	955484	-	putative heme exporter protein CcmB	WP_011451398.1	699	f3f3f3	-1
+NC_007797.1	955613	956044	+	DnaK suppressor protein	WP_021799171.1	471	f3f3f3	-1
+NC_007797.1	957053	957904	-	P44/Msp2 family outer membrane protein	WP_020849198.1	0	f3f3f3	-1
+NC_007797.1	958391	960613	-	TraM recognition domain-containing protein	WP_011451400.1	757	f3f3f3	-1
+NC_007797.1	960665	961663	-	P-type DNA transfer ATPase VirB11	WP_011451401.1	115	f3f3f3	-1
+NC_007797.1	961710	963014	-	TrbI/VirB10 family protein	WP_011451402.1	1024	f3f3f3	-1
+NC_007797.1	963038	963866	-	P-type conjugative transfer protein VirB9	WP_021799173.1	753	f3f3f3	-1
+NC_007797.1	963867	964571	-	type IV secretion system protein	WP_080502932.1	670	f3f3f3	-1
+NC_007797.1	965331	966191	-	P44/Msp2 family outer membrane protein	WP_080502933.1	0	f3f3f3	-1
+NC_007797.1	966501	967616	-	DNA replication/repair protein RecF	WP_011451406.1	454	f3f3f3	-1
+NC_007797.1	968964	969407	-	hypothetical protein	WP_011451409.1	-1	f3f3f3	-1
+NC_007797.1	969532	972090	+	DNA polymerase I	WP_021798967.1	291	f3f3f3	-1
+NC_007797.1	972245	972955	+	ribulose-phosphate 3-epimerase	WP_011450167.1	447	f3f3f3	-1
+NC_007797.1	972974	973765	+	ABC transporter permease	WP_044108168.1	334	f3f3f3	-1
+NC_007797.1	973772	974497	+	ATP-binding cassette domain-containing protein	WP_011450169.1	52	f3f3f3	-1
+NC_007797.1	974708	974956	+	hypothetical protein	WP_020848729.1	0	f3f3f3	-1
+NC_007797.1	975612	976415	+	hypothetical protein	WP_020848730.1	-1	f3f3f3	-1
+NC_007797.1	976453	977118	+	isoprenoid biosynthesis glyoxalase ElbB	WP_011450171.1	704	f3f3f3	-1
+NC_007797.1	977302	978480	-	methionine adenosyltransferase	WP_011450172.1	469	f3f3f3	-1
+NC_007797.1	978728	979906	+	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase	WP_011450173.1	188	f3f3f3	-1
+NC_007797.1	980893	981516	-	hypothetical protein	WP_011450175.1	998	f3f3f3	-1
+NC_007797.1	981810	982661	+	glycine--tRNA ligase subunit alpha	WP_011450176.1	251	f3f3f3	-1
+NC_007797.1	982663	984768	+	glycine--tRNA ligase subunit beta	WP_011450177.1	383	f3f3f3	-1
+NC_007797.1	984846	985994	+	molecular chaperone DnaJ	WP_011450178.1	167	f3f3f3	-1
+NC_007797.1	986017	986844	-	carboxylating nicotinate-nucleotide diphosphorylase	WP_011450179.1	743	f3f3f3	-1
+NC_007797.1	986936	987514	+	glycerol-3-phosphate acyltransferase	WP_011450180.1	496	f3f3f3	-1
+NC_007797.1	987516	988007	-	crossover junction endodeoxyribonuclease RuvC	WP_011450181.1	363	f3f3f3	-1
+NC_007797.1	988012	988833	-	cytochrome c oxidase subunit 3	WP_044108154.1	569	f3f3f3	-1
+NC_007797.1	988932	989963	-	uroporphyrinogen decarboxylase	WP_011450183.1	476	f3f3f3	-1
+NC_007797.1	990349	991218	+	HlyC/CorC family transporter	WP_011450184.1	26	f3f3f3	-1
+NC_007797.1	991259	991729	-	HK97 family phage prohead protease	WP_011450185.1	988	f3f3f3	-1
+NC_007797.1	991759	992937	-	phage portal protein	WP_011450186.1	1021	f3f3f3	-1
+NC_007797.1	993126	993884	+	methyltransferase domain-containing protein	WP_011450188.1	67	73FDFF	BioC
+NC_007797.1	993941	994906	+	quinolinate synthase NadA	WP_011450189.1	740	f3f3f3	-1
+NC_007797.1	994941	995321	-	ferredoxin family protein	WP_011450190.1	709	f3f3f3	-1
+NC_007797.1	998196	1000055	-	vacuolar membrane-interacting protein	WP_011450193.1	-1	f3f3f3	-1
+NC_007797.1	1000215	1000502	-	hypothetical protein	WP_020848736.1	-1	f3f3f3	-1
+NC_007797.1	1001046	1002041	-	tryptophan--tRNA ligase	WP_011450195.1	194	f3f3f3	-1
+NC_007797.1	1002048	1002683	-	nucleotide exchange factor GrpE	WP_011450196.1	319	f3f3f3	-1
+NC_007797.1	1002763	1003857	+	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD	WP_011450197.1	507	f3f3f3	-1
+NC_007797.1	1003921	1005546	-	CTP synthase	WP_011450198.1	392	f3f3f3	-1
+NC_007797.1	1005559	1005867	-	preprotein translocase subunit SecG	WP_021798976.1	977	f3f3f3	-1
+NC_007797.1	1006145	1007080	+	tyrosine recombinase	WP_011450200.1	178	f3f3f3	-1
+NC_007797.1	1007444	1008121	-	ABC transporter ATP-binding protein	WP_011450201.1	307	f3f3f3	-1
+NC_007797.1	1008507	1010762	+	NADP-dependent malic enzyme	WP_011450202.1	242	f3f3f3	-1
+NC_007797.1	1011069	1013795	+	hypothetical protein	WP_011450203.1	771	f3f3f3	-1
+NC_007797.1	1014151	1015650	+	monovalent cation/H+ antiporter subunit D	WP_021798977.1	572	f3f3f3	-1
+NC_007797.1	1015755	1016051	-	hypothetical protein	WP_020848738.1	-1	f3f3f3	-1
+NC_007797.1	1016789	1017241	-	outer membrane lipid asymmetry maintenance protein MlaD	WP_011450205.1	209	f3f3f3	-1
+NC_007797.1	1017435	1017740	-	dehydrogenase	WP_011450206.1	759	f3f3f3	-1
+NC_007797.1	1017854	1018315	+	transcriptional repressor NrdR	WP_011450207.1	993	f3f3f3	-1
+NC_007797.1	1018557	1025366	-	hypothetical protein	WP_011450208.1	-1	f3f3f3	-1
+NC_007797.1	1025650	1030035	+	hypothetical protein	WP_020848739.1	-1	f3f3f3	-1
+NC_007797.1	1030384	1031418	+	Fe(3+) ABC transporter substrate-binding protein	WP_020848740.1	1020	f3f3f3	-1
+NC_007797.1	1031419	1031634	+	Trm112 family protein	WP_011450211.1	671	f3f3f3	-1
+NC_007797.1	1031712	1032995	-	MFS transporter	WP_011450212.1	39	f3f3f3	-1
+NC_007797.1	1033323	1033613	+	30S ribosomal protein S16	WP_011450213.1	219	f3f3f3	-1
+NC_007797.1	1034365	1035075	-	SDR family NAD(P)-dependent oxidoreductase	WP_011450215.1	-1	f3f3f3	-1
+NC_007797.1	1035704	1036729	+	methionine adenosyltransferase	WP_011450217.1	469	f3f3f3	-1
+NC_007797.1	1037006	1037215	+	hypothetical protein	WP_020848743.1	-1	f3f3f3	-1
+NC_007797.1	1037305	1038313	-	phenylalanine--tRNA ligase subunit alpha	WP_011450218.1	316	f3f3f3	-1
+NC_007797.1	1038314	1038700	-	50S ribosomal protein L20	WP_011450219.1	258	f3f3f3	-1
+NC_007797.1	1038724	1038924	-	50S ribosomal protein L35	WP_011450220.1	389	f3f3f3	-1
+NC_007797.1	1039318	1039884	+	DUF1013 domain-containing protein	WP_011450221.1	679	f3f3f3	-1
+NC_007797.1	1039994	1041352	+	transcription termination factor Rho	WP_011450223.1	112	f3f3f3	-1
+NC_007797.1	1041435	1042850	-	dihydrolipoyl dehydrogenase	WP_011450224.1	37	f3f3f3	-1
+NC_007797.1	1043464	1044030	+	NifU family protein	WP_011450226.1	577	f3f3f3	-1
+NC_007797.1	1044439	1046448	-	hypothetical protein	WP_020848748.1	-1	f3f3f3	-1
+NC_007797.1	1046636	1046845	+	sulfur carrier protein ThiS	WP_011450228.1	-1	f3f3f3	-1
+NC_007797.1	1046879	1047664	+	thiazole synthase	WP_011450229.1	756	f3f3f3	-1
+NC_007797.1	1047905	1048321	-	hypothetical protein	WP_011450230.1	992	f3f3f3	-1
+NC_007797.1	1048509	1049861	+	glutamate--tRNA ligase	WP_011450231.1	781	f3f3f3	-1
+NC_007797.1	1050318	1051499	+	hypothetical protein	WP_011450232.1	676	f3f3f3	-1
+NC_007797.1	1051510	1052058	+	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	WP_011450233.1	534	f3f3f3	-1
+NC_007797.1	1052500	1052931	+	hypothetical protein	WP_020848750.1	0	f3f3f3	-1
+NC_007797.1	1053400	1054323	-	permease	WP_011450234.1	978	f3f3f3	-1
+NC_007797.1	1054429	1054737	-	ETC complex I subunit	WP_011450235.1	1012	f3f3f3	-1
+NC_007797.1	1054793	1055020	+	exodeoxyribonuclease VII small subunit	WP_011450236.1	474	f3f3f3	-1
+NC_007797.1	1055454	1055786	-	thioredoxin	WP_011450237.1	326	f3f3f3	-1
+NC_007797.1	1055799	1056614	-	P-type conjugative transfer protein VirB9	WP_011450238.1	725	f3f3f3	-1
+NC_007797.1	1056973	1058010	-	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha	WP_011450239.1	776	f3f3f3	-1
+NC_007797.1	1058033	1058911	-	alpha/beta hydrolase	WP_011450240.1	682	f3f3f3	-1
+NC_007797.1	1062777	1063211	-	hypothetical protein	WP_080502885.1	-1	f3f3f3	-1
+NC_007797.1	1063414	1063905	-	phosphoribosylglycinamide formyltransferase	WP_080502886.1	162	f3f3f3	-1
+NC_007797.1	1063949	1065409	-	IMP dehydrogenase	WP_011450242.1	543	f3f3f3	-1
+NC_007797.1	1065485	1066297	-	NAD kinase	WP_011450243.1	247	f3f3f3	-1
+NC_007797.1	1066307	1066528	-	50S ribosomal protein L31	WP_011450244.1	1018	f3f3f3	-1
+NC_007797.1	1067378	1068337	+	ACP S-malonyltransferase	WP_011450246.1	214	f3f3f3	-1
+NC_007797.1	1068354	1069013	+	dTMP kinase	WP_011450247.1	341	f3f3f3	-1
+NC_007797.1	1069181	1070356	+	MFS transporter	WP_011450248.1	735	f3f3f3	-1
+NC_007797.1	1070855	1071067	-	hypothetical protein	WP_020848754.1	-1	f3f3f3	-1
+NC_007797.1	1071089	1071736	-	Tim44 domain-containing protein	WP_021798985.1	690	f3f3f3	-1
+NC_007797.1	1071848	1072324	+	protein-export chaperone SecB	WP_011450251.1	599	f3f3f3	-1
+NC_007797.1	1072395	1073078	+	DsbA family protein	WP_011450252.1	666	f3f3f3	-1
+NC_007797.1	1073293	1073517	+	hypothetical protein	WP_011450253.1	-1	f3f3f3	-1
+NC_007797.1	1073805	1075076	-	insulinase family protein	WP_011450255.1	217	f3f3f3	-1
+NC_007797.1	1075590	1076993	+	2-nitropropane dioxygenase family oxidoreductase	WP_021798986.1	999	f3f3f3	-1
+NC_007797.1	1077058	1077261	+	hypothetical protein	WP_020849216.1	-1	f3f3f3	-1
+NC_007797.1	1077357	1077560	-	hypothetical protein	WP_020848756.1	-1	f3f3f3	-1
+NC_007797.1	1077943	1078143	+	hypothetical protein	WP_020848757.1	-1	f3f3f3	-1
+NC_007797.1	1078629	1079240	-	riboflavin synthase	WP_011450260.1	567	f3f3f3	-1
+NC_007797.1	1079805	1083224	-	transcription-repair coupling factor	WP_011450261.1	69	f3f3f3	-1
+NC_007797.1	1083367	1083879	+	ribonuclease HI	WP_020848761.1	279	f3f3f3	-1
+NC_007797.1	1083918	1086917	+	acetamidase	WP_011450264.1	749	f3f3f3	-1
+NC_007797.1	1087122	1087856	+	UMP kinase	WP_011450265.1	253	f3f3f3	-1
+NC_007797.1	1087865	1088419	+	ribosome recycling factor	WP_011450266.1	387	f3f3f3	-1
+NC_007797.1	1088466	1088645	+	hypothetical protein	WP_020848763.1	-1	f3f3f3	-1
+NC_007797.1	1088957	1089664	+	phosphatidate cytidylyltransferase	WP_011450267.1	99	f3f3f3	-1
+NC_007797.1	1092793	1096281	-	hypothetical protein	WP_011450270.1	-1	f3f3f3	-1
+NC_007797.1	1096748	1097482	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase	WP_011450272.1	233	f3f3f3	-1
+NC_007797.1	1097597	1098859	+	histidine--tRNA ligase	WP_011450273.1	366	f3f3f3	-1
+NC_007797.1	1099333	1100079	-	DsbA family protein	WP_011450275.1	479	f3f3f3	-1
+NC_007797.1	1100390	1101376	+	heme A synthase	WP_011450276.1	755	f3f3f3	-1
+NC_007797.1	1101919	1102539	-	heme ABC exporter ATP-binding protein CcmA	WP_011450278.1	512	f3f3f3	-1
+NC_007797.1	1104406	1104963	-	dCTP deaminase	WP_011450283.1	591	f3f3f3	-1
+NC_007797.1	1105084	1105530	-	TRAP transporter large permease subunit	WP_020848769.1	669	f3f3f3	-1
+NC_007797.1	1107222	1107518	-	hypothetical protein	WP_020848772.1	0	f3f3f3	-1
+NC_007797.1	1107523	1107732	-	hypothetical protein	WP_020848773.1	-1	f3f3f3	-1
+NC_007797.1	1108526	1108798	+	cold shock domain-containing protein	WP_080502887.1	19	f3f3f3	-1
+NC_007797.1	1108826	1110928	+	HAMP domain-containing protein	WP_011450287.1	49	f3f3f3	-1
+NC_007797.1	1110936	1112081	+	ribonuclease D	WP_011450288.1	529	f3f3f3	-1
+NC_007797.1	1112198	1114231	-	NAD-dependent DNA ligase LigA	WP_011450289.1	226	f3f3f3	-1
+NC_007797.1	1114237	1114558	-	Grx4 family monothiol glutaredoxin	WP_011450290.1	573	f3f3f3	-1
+NC_007797.1	1114559	1114795	-	BolA family transcriptional regulator	WP_011450291.1	68	f3f3f3	-1
+NC_007797.1	1115028	1115528	-	redoxin family protein	WP_011450292.1	323	f3f3f3	-1
+NC_007797.1	1116977	1117057	-	P44/Msp2 family outer membrane protein	WP_080502934.1	0	f3f3f3	-1
+NC_007797.1	1117243	1117482	-	P44/Msp2 family outer membrane protein	WP_080502888.1	0	f3f3f3	-1
+NC_007797.1	1117570	1117806	+	hypothetical protein	WP_080502889.1	450	f3f3f3	-1
+NC_007797.1	1120600	1123179	+	TRAP transporter permease	WP_011450299.1	669	f3f3f3	-1
+NC_007797.1	1123189	1123788	+	CvpA family protein	WP_011450300.1	775	f3f3f3	-1
+NC_007797.1	1123865	1124194	+	30S ribosomal protein S6	WP_011450301.1	181	f3f3f3	-1
+NC_007797.1	1124205	1124495	+	30S ribosomal protein S18	WP_011450302.1	310	f3f3f3	-1
+NC_007797.1	1124519	1125136	+	50S ribosomal protein L9	WP_011450303.1	245	f3f3f3	-1
+NC_007797.1	1125159	1126436	+	serine hydroxymethyltransferase	WP_011450304.1	377	f3f3f3	-1
+NC_007797.1	1126607	1126984	+	frataxin-like domain-containing protein	WP_011450306.1	974	f3f3f3	-1
+NC_007797.1	1127000	1128736	+	ATP-binding cassette domain-containing protein	WP_011450307.1	122	f3f3f3	-1
+NC_007797.1	1129218	1131023	+	succinate dehydrogenase flavoprotein subunit	WP_021798993.1	73	f3f3f3	-1
+NC_007797.1	1131038	1131826	+	succinate dehydrogenase iron-sulfur subunit	WP_011450309.1	520	f3f3f3	-1
+NC_007797.1	1131996	1133801	+	succinate dehydrogenase flavoprotein subunit	WP_021798994.1	73	f3f3f3	-1
+NC_007797.1	1133816	1134604	+	succinate dehydrogenase iron-sulfur subunit	WP_011450309.1	520	f3f3f3	-1
+NC_007797.1	1134608	1135471	+	FAD-dependent thymidylate synthase	WP_044104163.1	557	f3f3f3	-1
+NC_007797.1	1135885	1137096	+	multidrug effflux MFS transporter	WP_020848779.1	13	f3f3f3	-1
+NC_007797.1	1137099	1137293	-	hypothetical protein	WP_020848780.1	-1	f3f3f3	-1
+NC_007797.1	1137295	1138146	-	glycine--tRNA ligase subunit alpha	WP_011450176.1	251	f3f3f3	-1
+NC_007797.1	1138274	1139259	-	Holliday junction branch migration DNA helicase RuvB	WP_044104054.1	174	f3f3f3	-1
+NC_007797.1	1139260	1139831	-	Holliday junction branch migration protein RuvA	WP_011450315.1	407	f3f3f3	-1
+NC_007797.1	1139832	1140539	-	heme exporter protein CcmC	WP_011450316.1	158	f3f3f3	-1
+NC_007797.1	1140948	1141598	+	guanylate kinase	WP_044104056.1	303	f3f3f3	-1
+NC_007797.1	1142189	1142327	+	hypothetical protein	WP_080502889.1	450	f3f3f3	-1
+NC_007797.1	1142328	1143431	-	P44/Msp2 family outer membrane protein	WP_011450319.1	0	f3f3f3	-1
+NC_007797.1	1143492	1143731	-	P44/Msp2 family outer membrane protein	WP_080502890.1	0	f3f3f3	-1
+NC_007797.1	1143958	1144998	-	P44/Msp2 family outer membrane protein	WP_080502891.1	0	f3f3f3	-1
+NC_007797.1	1145339	1146253	+	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD	WP_011450323.1	222	f3f3f3	-1
+NC_007797.1	1146564	1147532	+	hypothetical protein	WP_011450324.1	-1	f3f3f3	-1
+NC_007797.1	1147659	1148423	-	alpha/beta hydrolase	WP_048096906.1	-1	f3f3f3	-1
+NC_007797.1	1148652	1149410	-	alpha/beta hydrolase	WP_020848782.1	751	f3f3f3	-1
+NC_007797.1	1149627	1150151	-	cytochrome c family protein	WP_011450327.1	687	f3f3f3	-1
+NC_007797.1	1150456	1151877	-	cation:proton antiporter	WP_080502935.1	667	f3f3f3	-1
+NC_007797.1	1153217	1153396	-	hypothetical protein	WP_011450331.1	-1	f3f3f3	-1
+NC_007797.1	1153550	1156174	-	pyruvate, phosphate dikinase	WP_011450332.1	38	f3f3f3	-1
+NC_007797.1	1156479	1156952	-	hypothetical protein	WP_020848783.1	984	f3f3f3	-1
+NC_007797.1	1156956	1157579	-	HAD-IA family hydrolase	WP_011450334.1	585	f3f3f3	-1
+NC_007797.1	1157802	1158044	+	hypothetical protein	WP_020848784.1	-1	f3f3f3	-1
+NC_007797.1	1158046	1158267	+	hypothetical protein	WP_020848785.1	-1	f3f3f3	-1
+NC_007797.1	1158779	1160575	-	aspartate--tRNA ligase	WP_011450337.1	175	f3f3f3	-1
+NC_007797.1	1160962	1161558	+	BON domain-containing protein	WP_011450339.1	304	f3f3f3	-1
+NC_007797.1	1161565	1162485	+	glutathione synthase	WP_020848787.1	745	f3f3f3	-1
+NC_007797.1	1162728	1163504	+	FtsQ-type POTRA domain-containing protein	WP_011450342.1	716	f3f3f3	-1
+NC_007797.1	1163739	1165136	+	sigma-54-dependent Fis family transcriptional regulator	WP_044108156.1	468	f3f3f3	-1
+NC_007797.1	1165752	1166726	-	NAD(P)-dependent glycerol-3-phosphate dehydrogenase	WP_011450345.1	579	f3f3f3	-1
+NC_007797.1	1167067	1168026	+	tyrosine-type recombinase/integrase	WP_011450346.1	207	f3f3f3	-1
+NC_007797.1	1168494	1168793	+	hypothetical protein	WP_011450347.1	981	f3f3f3	-1
+NC_007797.1	1168956	1169990	-	phosphoribosylformylglycinamidine cyclo-ligase	WP_011450348.1	517	f3f3f3	-1
+NC_007797.1	1170112	1170732	+	hypothetical protein	WP_011450349.1	1025	f3f3f3	-1
+NC_007797.1	1171659	1172546	-	diguanylate cyclase	WP_011450351.1	965	f3f3f3	-1
+NC_007797.1	1172739	1173122	-	ribosome silencing factor	WP_011450352.1	293	f3f3f3	-1
+NC_007797.1	1173312	1174586	+	M48 family metalloprotease	WP_011450353.1	495	f3f3f3	-1
+NC_007797.1	1174718	1175233	+	hypothetical protein	WP_020848793.1	981	f3f3f3	-1
+NC_007797.1	1175396	1176430	-	phosphoribosylformylglycinamidine cyclo-ligase	WP_011450348.1	517	f3f3f3	-1
+NC_007797.1	1176621	1176833	+	hypothetical protein	WP_020848794.1	-1	f3f3f3	-1
+NC_007797.1	1177849	1178379	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	WP_011450356.1	767	f3f3f3	-1
+NC_007797.1	1179066	1182071	-	phosphoribosylformylglycinamidine synthase	WP_011450357.1	475	f3f3f3	-1
+NC_007797.1	1183981	1184295	+	hypothetical protein	WP_020848797.1	-1	f3f3f3	-1
+NC_007797.1	1185911	1186865	-	biotin synthase BioB	WP_011450360.1	329	0096FF	BioB
+NC_007797.1	1186866	1187138	-	hypothetical protein	WP_020848799.1	-1	f3f3f3	-1
+NC_007797.1	1187289	1187744	-	PAS domain-containing protein	WP_011450362.1	-1	f3f3f3	-1
+NC_007797.1	1188235	1188903	-	M23 family metallopeptidase	WP_011450363.1	77	f3f3f3	-1
+NC_007797.1	1188991	1189926	+	fructose-bisphosphatase class II family protein	WP_011450364.1	185	f3f3f3	-1
+NC_007797.1	1190641	1192527	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	WP_011450366.1	314	f3f3f3	-1
+NC_007797.1	1192629	1193411	+	phosphoribosylformylglycinamidine synthase subunit PurQ	WP_011450367.1	719	f3f3f3	-1
+NC_007797.1	1195618	1195821	-	hypothetical protein	WP_020848802.1	-1	f3f3f3	-1
+NC_007797.1	1195925	1196208	-	hypothetical protein	WP_020848803.1	0	f3f3f3	-1
+NC_007797.1	1196209	1196424	-	hypothetical protein	WP_020848804.1	-1	f3f3f3	-1
+NC_007797.1	1196786	1197421	-	phosphoribosylglycinamide formyltransferase	WP_011450370.1	162	f3f3f3	-1
+NC_007797.1	1197427	1198947	-	leucyl aminopeptidase	WP_044104175.1	268	f3f3f3	-1
+NC_007797.1	1199420	1200007	+	hypothetical protein	WP_044104176.1	778	f3f3f3	-1
+NC_007797.1	1200148	1201044	+	hypothetical protein	WP_011450373.1	-1	f3f3f3	-1
+NC_007797.1	1201340	1202998	+	hypothetical protein	WP_020848806.1	-1	f3f3f3	-1
+NC_007797.1	1203073	1205652	-	AAA domain-containing protein	WP_011450375.1	566	f3f3f3	-1
+NC_007797.1	1205896	1206642	+	SDR family oxidoreductase	WP_011450376.1	521	f3f3f3	-1
+NC_007797.1	1206763	1207062	-	hypothetical protein	WP_020848807.1	-1	f3f3f3	-1
+NC_007797.1	1207120	1207311	-	hypothetical protein	WP_011450377.1	-1	f3f3f3	-1
+NC_007797.1	1207803	1209455	-	chaperonin GroEL	WP_011450380.1	153	f3f3f3	-1
+NC_007797.1	1209508	1209792	-	co-chaperone GroES	WP_011450381.1	282	f3f3f3	-1
+NC_007797.1	1210040	1210738	+	RadC family protein	WP_011450382.1	71	f3f3f3	-1
+NC_007797.1	1210822	1211442	+	lipoyl(octanoyl) transferase LipB	WP_044108176.1	513	f3f3f3	-1
+NC_007797.1	1211920	1213269	-	dihydroorotase	WP_044104069.1	238	f3f3f3	-1
+NC_007797.1	1213291	1213941	-	phosphopantothenoylcysteine decarboxylase	WP_021799006.1	-1	f3f3f3	-1
+NC_007797.1	1214087	1215475	+	class II fumarate hydratase	WP_011450387.1	124	f3f3f3	-1
+NC_007797.1	1215826	1216200	+	invasin Asp14	WP_011450388.1	-1	f3f3f3	-1
+NC_007797.1	1216237	1219497	-	carbamoyl-phosphate synthase large subunit	WP_011450389.1	548	f3f3f3	-1
+NC_007797.1	1219837	1220115	+	class I tRNA ligase family protein	WP_011450390.1	-1	f3f3f3	-1
+NC_007797.1	1221069	1221881	-	dihydropteroate synthase	WP_011450392.1	385	f3f3f3	-1
+NC_007797.1	1222240	1225227	+	type I secretion system permease/ATPase	WP_011450394.1	678	f3f3f3	-1
+NC_007797.1	1225351	1226331	+	quinone oxidoreductase	WP_011450395.1	744	f3f3f3	-1
+NC_007797.1	1226376	1228970	-	AAA family ATPase	WP_020848812.1	574	f3f3f3	-1
+NC_007797.1	1229052	1229969	+	ankyrin repeat domain-containing protein	WP_020848813.1	691	f3f3f3	-1
+NC_007797.1	1230045	1230926	+	SPFH domain-containing protein	WP_020848814.1	1000	f3f3f3	-1
+NC_007797.1	1231346	1231678	+	hypothetical protein	WP_011450399.1	713	f3f3f3	-1
+NC_007797.1	1232002	1232997	+	cell division protein ZapE	WP_011450400.1	1013	f3f3f3	-1
+NC_007797.1	1233044	1234006	-	ferrochelatase	WP_011450401.1	478	f3f3f3	-1
+NC_007797.1	1234387	1235547	-	hypothetical protein	WP_011450403.1	-1	f3f3f3	-1
+NC_007797.1	1235610	1235843	-	hypothetical protein	WP_020849242.1	-1	f3f3f3	-1
+NC_007797.1	1235969	1236337	-	cell division protein ZapA	WP_011450404.1	-1	f3f3f3	-1
+NC_007797.1	1236339	1236680	-	DUF4164 family protein	WP_020848816.1	-1	f3f3f3	-1
+NC_007797.1	1237283	1237597	+	hypothetical protein	WP_011450406.1	459	f3f3f3	-1
+NC_007797.1	1238125	1238418	-	integration host factor subunit beta	WP_011450408.1	673	f3f3f3	-1
+NC_007797.1	1238432	1239328	-	signal peptide peptidase SppA	WP_011450409.1	741	f3f3f3	-1
+NC_007797.1	1239336	1241015	-	30S ribosomal protein S1	WP_020848819.1	397	f3f3f3	-1
+NC_007797.1	1241067	1241753	-	(d)CMP kinase	WP_011450411.1	492	f3f3f3	-1
+NC_007797.1	1241963	1242739	-	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	WP_011450412.1	353	f3f3f3	-1
+NC_007797.1	1243119	1244300	+	elongation factor Tu	WP_011450413.1	102	f3f3f3	-1
+NC_007797.1	1244307	1244624	+	30S ribosomal protein S10	WP_011450414.1	321	f3f3f3	-1
+NC_007797.1	1244626	1245312	+	50S ribosomal protein L3	WP_020848821.1	183	f3f3f3	-1
+NC_007797.1	1245334	1245952	+	50S ribosomal protein L4	WP_011450416.1	264	f3f3f3	-1
+NC_007797.1	1245953	1246239	+	50S ribosomal protein L23	WP_011450417.1	393	f3f3f3	-1
+NC_007797.1	1246240	1247070	+	50S ribosomal protein L2	WP_011450418.1	180	f3f3f3	-1
+NC_007797.1	1247076	1247360	+	30S ribosomal protein S19	WP_011450419.1	309	f3f3f3	-1
+NC_007797.1	1247363	1247701	+	50S ribosomal protein L22	WP_011450420.1	243	f3f3f3	-1
+NC_007797.1	1247705	1248340	+	30S ribosomal protein S3	WP_011450421.1	375	f3f3f3	-1
+NC_007797.1	1248353	1248766	+	50S ribosomal protein L16	WP_011450422.1	210	f3f3f3	-1
+NC_007797.1	1248776	1248974	+	50S ribosomal protein L29	WP_011450423.1	338	f3f3f3	-1
+NC_007797.1	1248975	1249205	+	30S ribosomal protein S17	WP_011450424.1	275	f3f3f3	-1
+NC_007797.1	1249214	1249573	+	50S ribosomal protein L14	WP_011450425.1	405	f3f3f3	-1
+NC_007797.1	1249573	1249887	+	50S ribosomal protein L24	WP_011450426.1	156	f3f3f3	-1
+NC_007797.1	1249894	1250427	+	50S ribosomal protein L5	WP_011450427.1	286	f3f3f3	-1
+NC_007797.1	1250439	1250744	+	30S ribosomal protein S14	WP_011450428.1	220	f3f3f3	-1
+NC_007797.1	1250762	1251163	+	30S ribosomal protein S8	WP_011450429.1	350	f3f3f3	-1
+NC_007797.1	1251176	1251718	+	50S ribosomal protein L6	WP_011450430.1	193	f3f3f3	-1
+NC_007797.1	1251735	1252100	+	50S ribosomal protein L18	WP_011450431.1	317	f3f3f3	-1
+NC_007797.1	1252109	1252630	+	30S ribosomal protein S5	WP_011450432.1	259	f3f3f3	-1
+NC_007797.1	1252649	1253086	+	50S ribosomal protein L15	WP_011450433.1	390	f3f3f3	-1
+NC_007797.1	1253107	1254392	+	preprotein translocase subunit SecY	WP_011450434.1	173	f3f3f3	-1
+NC_007797.1	1254393	1255043	+	nucleoside monophosphate kinase	WP_011450435.1	302	f3f3f3	-1
+NC_007797.1	1255106	1255477	+	30S ribosomal protein S13	WP_011450436.1	236	f3f3f3	-1
+NC_007797.1	1255487	1255861	+	30S ribosomal protein S11	WP_011450437.1	369	f3f3f3	-1
+NC_007797.1	1255881	1256972	+	DNA-directed RNA polymerase subunit alpha	WP_020848822.1	311	f3f3f3	-1
+NC_007797.1	1257006	1257404	+	50S ribosomal protein L17	WP_011450439.1	205	f3f3f3	-1
+NC_007797.1	1257417	1259795	+	phenylalanine--tRNA ligase subunit beta	WP_011450440.1	335	f3f3f3	-1
+NC_007797.1	1260796	1262808	+	ComEC family competence protein	WP_020848823.1	502	f3f3f3	-1
+NC_007797.1	1263341	1264672	-	sodium:alanine symporter family protein	WP_011450442.1	514	f3f3f3	-1
+NC_007797.1	1264704	1265056	-	ribonuclease P protein component	WP_011450443.1	1023	f3f3f3	-1
+NC_007797.1	1265057	1265191	-	50S ribosomal protein L34	WP_011450444.1	165	f3f3f3	-1
+NC_007797.1	1265940	1266818	+	4-hydroxybenzoate octaprenyltransferase	WP_011450445.1	536	f3f3f3	-1
+NC_007797.1	1266839	1267333	+	flavin reductase family protein	WP_011450446.1	712	f3f3f3	-1
+NC_007797.1	1268154	1268912	+	phosphate ABC transporter ATP-binding protein	WP_011450448.1	53	f3f3f3	-1
+NC_007797.1	1268989	1270167	-	tRNA guanosine(34) transglycosylase Tgt	WP_021799008.1	541	f3f3f3	-1
+NC_007797.1	1270645	1270821	+	50S ribosomal protein L32	WP_011450450.1	198	f3f3f3	-1
+NC_007797.1	1270828	1271861	+	phosphate acyltransferase PlsX	WP_011450451.1	556	f3f3f3	-1
+NC_007797.1	1271862	1272824	+	ketoacyl-ACP synthase III	WP_044104073.1	372	f3f3f3	-1
+NC_007797.1	1272962	1273282	+	P44/Msp2 family outer membrane protein	WP_020848825.1	0	f3f3f3	-1
+NC_007797.1	1273556	1273912	+	hypothetical protein	WP_020848826.1	0	f3f3f3	-1
+NC_007797.1	1274363	1274788	-	nucleoside deaminase	WP_021799011.1	244	f3f3f3	-1
+NC_007797.1	1274984	1275415	+	hypothetical protein	WP_011450455.1	987	f3f3f3	-1
+NC_007797.1	1275477	1276922	+	replicative DNA helicase	WP_020848827.1	123	f3f3f3	-1
+NC_007797.1	1278669	1279723	+	FAD-dependent oxidoreductase	WP_011450458.1	-1	f3f3f3	-1
+NC_007797.1	1279724	1280077	-	hypothetical protein	WP_080502892.1	-1	f3f3f3	-1
+NC_007797.1	1280244	1280558	+	hypothetical protein	WP_020848829.1	459	f3f3f3	-1
+NC_007797.1	1281131	1282078	-	hypothetical protein	WP_011450460.1	967	f3f3f3	-1
+NC_007797.1	1282082	1282924	-	polyprenyl synthetase family protein	WP_011450461.1	544	f3f3f3	-1
+NC_007797.1	1283517	1285307	+	ribonucleoside-diphosphate reductase subunit alpha	WP_021799013.1	126	f3f3f3	-1
+NC_007797.1	1285375	1285875	+	Holliday junction resolvase RuvX	WP_011450463.1	248	f3f3f3	-1
+NC_007797.1	1287314	1287568	-	hypothetical protein	WP_080502893.1	-1	f3f3f3	-1
+NC_007797.1	1287941	1289245	-	adenylosuccinate synthase	WP_011450467.1	582	f3f3f3	-1
+NC_007797.1	1290729	1291304	+	hypothetical protein	WP_011450468.1	-1	f3f3f3	-1
+NC_007797.1	1291387	1292004	-	OmpA family protein	WP_011450469.1	343	f3f3f3	-1
+NC_007797.1	1292340	1293815	+	thermostable metallocarboxypeptidase	WP_011450470.1	736	f3f3f3	-1
+NC_007797.1	1293874	1295826	+	transketolase	WP_080502936.1	154	f3f3f3	-1
+NC_007797.1	1295851	1296108	+	cation:proton antiporter	WP_011450472.1	1028	f3f3f3	-1
+NC_007797.1	1296115	1296415	+	cation:proton antiporter	WP_011450473.1	668	f3f3f3	-1
+NC_007797.1	1296416	1296978	+	DUF4040 domain-containing protein	WP_020848835.1	784	f3f3f3	-1
+NC_007797.1	1296979	1297419	+	Na(+)/H(+) antiporter subunit B	WP_020848836.1	962	f3f3f3	-1
+NC_007797.1	1297490	1297807	+	cation:proton antiporter subunit C	WP_044104077.1	700	f3f3f3	-1
+NC_007797.1	1297910	1299811	+	Rne/Rng family ribonuclease	WP_044108158.1	315	f3f3f3	-1
+NC_007797.1	1300061	1302010	+	molecular chaperone DnaK	WP_044104082.1	336	f3f3f3	-1
+NC_007797.1	1302233	1302691	+	type II toxin-antitoxin system RatA family toxin	WP_011450477.1	527	f3f3f3	-1
+NC_007797.1	1303478	1304990	+	putative monovalent cation/H+ antiporter subunit D	WP_011450478.1	706	f3f3f3	-1
+NC_007797.1	1304991	1306340	+	signal recognition particle protein	WP_011450479.1	348	f3f3f3	-1
+NC_007797.1	1306463	1307332	+	GTPase Era	WP_044104199.1	184	f3f3f3	-1
+NC_007797.1	1307405	1308241	+	3'-5' exonuclease	WP_011450481.1	968	f3f3f3	-1
+NC_007797.1	1310273	1310452	+	hypothetical protein	WP_020848839.1	-1	f3f3f3	-1
+NC_007797.1	1310878	1311375	+	TIGR02281 family clan AA aspartic protease	WP_011450482.1	750	f3f3f3	-1
+NC_007797.1	1311686	1313395	+	aminopeptidase P family protein	WP_011450483.1	255	f3f3f3	-1
+NC_007797.1	1313843	1314535	+	uroporphyrinogen-III synthase	WP_011450484.1	1019	f3f3f3	-1
+NC_007797.1	1314641	1315624	+	hypothetical protein	WP_011450485.1	-1	f3f3f3	-1
+NC_007797.1	1316154	1318130	+	primosomal protein N'	WP_011450486.1	299	f3f3f3	-1
+NC_007797.1	1319330	1319641	+	50S ribosomal protein L28	WP_011450489.1	235	f3f3f3	-1
+NC_007797.1	1320456	1321423	-	RluA family pseudouridine synthase	WP_011450492.1	367	f3f3f3	-1
+NC_007797.1	1321424	1321642	+	hypothetical protein	WP_011450493.1	-1	f3f3f3	-1
+NC_007797.1	1321853	1323832	+	ATP-grasp domain-containing protein	WP_011450494.1	333	f3f3f3	-1
+NC_007797.1	1323990	1328171	+	hypothetical protein	WP_011450495.1	-1	f3f3f3	-1
+NC_007797.1	1328510	1329967	+	hypothetical protein	WP_020848842.1	-1	f3f3f3	-1
+NC_007797.1	1330367	1331254	+	lipoyl synthase	WP_011450497.1	780	f3f3f3	-1
+NC_007797.1	1332016	1333362	-	phosphate ABC transporter permease PstA	WP_011450499.1	453	f3f3f3	-1
+NC_007797.1	1333709	1334329	+	superoxide dismutase	WP_011450500.1	532	f3f3f3	-1
+NC_007797.1	1334422	1334715	+	type VI secretion protein	WP_011450501.1	710	f3f3f3	-1
+NC_007797.1	1334716	1337113	+	VirB4 family type IV secretion/conjugal transfer ATPase	WP_011450502.1	766	f3f3f3	-1
+NC_007797.1	1337114	1339654	+	hypothetical protein	WP_011450503.1	473	f3f3f3	-1
+NC_007797.1	1339831	1342578	+	hypothetical protein	WP_052689204.1	-1	f3f3f3	-1
+NC_007797.1	1342591	1347024	+	type IV secretion systemprotein VirB6 family	WP_011450505.1	554	f3f3f3	-1
+NC_007797.1	1347045	1354127	+	type IV secretion system VirB6 family protein	WP_011450506.1	985	f3f3f3	-1
+NC_007797.1	1354205	1354825	-	DUF2460 domain-containing protein	WP_048651619.1	1017	f3f3f3	-1
+NC_007797.1	1355854	1356294	-	dUTP diphosphatase	WP_011450508.1	396	f3f3f3	-1
+NC_007797.1	1356814	1357782	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	WP_011450509.1	461	f3f3f3	-1
+NC_007797.1	1357783	1358025	+	hypothetical protein	WP_020848844.1	-1	f3f3f3	-1
+NC_007797.1	1358356	1359453	-	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	WP_011450510.1	542	f3f3f3	-1
+NC_007797.1	1360079	1361548	+	hypothetical protein	WP_020848845.1	18	f3f3f3	-1
+NC_007797.1	1362063	1362323	+	hypothetical protein	WP_020848846.1	18	f3f3f3	-1
+NC_007797.1	1362356	1363600	+	hypothetical protein	WP_020848847.1	18	f3f3f3	-1
+NC_007797.1	1364246	1364566	-	hypothetical protein	WP_011450512.1	-1	f3f3f3	-1
+NC_007797.1	1365129	1366631	+	hypothetical protein	WP_011450513.1	18	f3f3f3	-1
+NC_007797.1	1366794	1368260	+	hypothetical protein	WP_020848848.1	18	f3f3f3	-1
+NC_007797.1	1368398	1370494	+	hypothetical protein	WP_020848849.1	18	f3f3f3	-1
+NC_007797.1	1370814	1372304	+	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	WP_011450517.1	483	f3f3f3	-1
+NC_007797.1	1372410	1373732	-	ribosome biogenesis GTPase Der	WP_011450518.1	340	f3f3f3	-1
+NC_007797.1	1374230	1375411	+	PQQ-binding-like beta-propeller repeat protein	WP_020849265.1	456	f3f3f3	-1
+NC_007797.1	1375419	1376825	+	dihydrolipoyl dehydrogenase	WP_011450521.1	37	f3f3f3	-1
+NC_007797.1	1376834	1377913	+	efflux RND transporter periplasmic adaptor subunit	WP_020848850.1	27	f3f3f3	-1
+NC_007797.1	1377991	1378236	+	translation initiation factor IF-1	WP_011450523.1	408	f3f3f3	-1
+NC_007797.1	1378250	1378840	+	septum formation protein Maf	WP_044108159.1	257	f3f3f3	-1
+NC_007797.1	1378979	1379869	+	30S ribosomal protein S2	WP_011450525.1	160	f3f3f3	-1
+NC_007797.1	1379905	1380768	+	elongation factor Ts	WP_011450526.1	288	f3f3f3	-1
+NC_007797.1	1381037	1381831	+	metal ABC transporter permease	WP_011450527.1	490	f3f3f3	-1
+NC_007797.1	1382050	1382814	+	hypothetical protein	WP_011450528.1	-1	f3f3f3	-1
+NC_007797.1	1383117	1383686	+	ubiquinol-cytochrome c reductase iron-sulfur subunit	WP_011450529.1	689	f3f3f3	-1
+NC_007797.1	1383695	1384921	+	cytochrome b/b6	WP_011450530.1	754	f3f3f3	-1
+NC_007797.1	1384923	1385675	+	cytochrome c1	WP_011450531.1	723	f3f3f3	-1
+NC_007797.1	1385728	1385907	+	hypothetical protein	WP_020848853.1	-1	f3f3f3	-1
+NC_007797.1	1386449	1388152	+	hypothetical protein	WP_020848854.1	100	f3f3f3	-1
+NC_007797.1	1388191	1389828	+	hypothetical protein	WP_020848855.1	100	f3f3f3	-1
+NC_007797.1	1391544	1393223	+	porin	WP_011450534.1	100	f3f3f3	-1
+NC_007797.1	1393567	1393764	+	hypothetical protein	WP_011450535.1	100	f3f3f3	-1
+NC_007797.1	1393786	1393998	+	hypothetical protein	WP_020848857.1	-1	f3f3f3	-1
+NC_007797.1	1394801	1396207	-	glutamate--tRNA ligase	WP_011450536.1	306	f3f3f3	-1
+NC_007797.1	1396541	1397347	+	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase	WP_011450538.1	240	f3f3f3	-1
+NC_007797.1	1398897	1399130	+	hypothetical protein	WP_020848860.1	-1	f3f3f3	-1
+NC_007797.1	1399479	1401008	+	acyl-CoA carboxylase subunit beta	WP_011450541.1	580	f3f3f3	-1
+NC_007797.1	1402921	1403996	-	peptide chain release factor 1	WP_011450546.1	208	f3f3f3	-1
+NC_007797.1	1403997	1404203	-	hypothetical protein	WP_020848862.1	-1	f3f3f3	-1
+NC_007797.1	1404326	1404884	+	YihA family ribosome biogenesis GTP-binding protein	WP_011450547.1	337	f3f3f3	-1
+NC_007797.1	1404885	1405868	+	acetylglutamate kinase	WP_011450548.1	272	f3f3f3	-1
+NC_007797.1	1406051	1406875	+	oxygen-dependent coproporphyrinogen oxidase	WP_011450549.1	595	f3f3f3	-1
+NC_007797.1	1407183	1408373	+	dicarboxylate/amino acid:cation symporter	WP_011450550.1	98	f3f3f3	-1
+NC_007797.1	1408833	1410821	+	hypothetical protein	WP_011450552.1	-1	f3f3f3	-1
+NC_007797.1	1411189	1412475	-	serine--tRNA ligase	WP_011450553.1	230	f3f3f3	-1
+NC_007797.1	1412601	1413896	+	DNA recombination protein RmuC	WP_044108181.1	593	f3f3f3	-1
+NC_007797.1	1414418	1415041	+	hypothetical protein	WP_011450556.1	768	f3f3f3	-1
+NC_007797.1	1415327	1416265	-	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	WP_011450557.1	200	f3f3f3	-1
+NC_007797.1	1416670	1417137	+	hypothetical protein	WP_011450558.1	1002	f3f3f3	-1
+NC_007797.1	1417198	1418289	+	hypothetical protein	WP_020848865.1	-1	f3f3f3	-1
+NC_007797.1	1418356	1419639	+	NADH-quinone oxidoreductase subunit NuoF	WP_044104094.1	516	f3f3f3	-1
+NC_007797.1	1420130	1420465	+	hypothetical protein	WP_020848867.1	-1	f3f3f3	-1
+NC_007797.1	1420871	1421476	+	NADH-quinone oxidoreductase subunit J	WP_011450561.1	511	f3f3f3	-1
+NC_007797.1	1421520	1421846	+	NADH-quinone oxidoreductase subunit NuoK	WP_011450562.1	590	f3f3f3	-1
+NC_007797.1	1421966	1423839	+	NADH-quinone oxidoreductase subunit L	WP_011450563.1	464	f3f3f3	-1
+NC_007797.1	1423840	1425315	+	NADH-quinone oxidoreductase subunit M	WP_011450564.1	546	f3f3f3	-1
+NC_007797.1	1425317	1426711	+	NADH-quinone oxidoreductase subunit N	WP_011450565.1	506	f3f3f3	-1
+NC_007797.1	1426808	1427965	+	1-deoxy-D-xylulose-5-phosphate reductoisomerase	WP_011450566.1	583	f3f3f3	-1
+NC_007797.1	1428165	1429919	+	hypothetical protein	WP_048651614.1	983	f3f3f3	-1
+NC_007797.1	1430098	1431300	+	flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	WP_011450568.1	486	f3f3f3	-1
+NC_007797.1	1431469	1432209	+	twin-arginine translocase subunit TatC	WP_020848869.1	231	f3f3f3	-1
+NC_007797.1	1432467	1435565	+	efflux RND transporter permease subunit	WP_011450570.1	760	f3f3f3	-1
+NC_007797.1	1435805	1437349	+	transcription termination/antitermination protein NusA	WP_011450571.1	281	f3f3f3	-1
+NC_007797.1	1437367	1439834	+	translation initiation factor IF-2	WP_011450572.1	411	f3f3f3	-1
+NC_007797.1	1439835	1440187	+	30S ribosome-binding factor RbfA	WP_011450573.1	663	f3f3f3	-1
+NC_007797.1	1440188	1440415	-	translation elongation factor G, truncation	WP_011450574.1	-1	f3f3f3	-1
+NC_007797.1	1440567	1441277	-	TerC family protein	WP_011450575.1	487	f3f3f3	-1
+NC_007797.1	1441421	1443742	+	AAA domain-containing protein	WP_011450576.1	762	f3f3f3	-1
+NC_007797.1	1443825	1445663	+	translational GTPase TypA	WP_011450577.1	189	f3f3f3	-1
+NC_007797.1	1446433	1447815	+	hypothetical protein	WP_011450578.1	18	f3f3f3	-1
+NC_007797.1	1449034	1450512	+	hypothetical protein	WP_011450579.1	18	f3f3f3	-1
+NC_007797.1	1451027	1451287	+	hypothetical protein	WP_020848846.1	18	f3f3f3	-1
+NC_007797.1	1451320	1452666	+	hypothetical protein	WP_020848873.1	18	f3f3f3	-1
+NC_007797.1	1452740	1455253	+	APH_0455 family type IV secretion system effector	WP_011450580.1	18	f3f3f3	-1
+NC_007797.1	1455976	1457427	-	hypothetical protein	WP_011450582.1	18	f3f3f3	-1
+NC_007797.1	1457662	1459053	-	hypothetical protein	WP_020848874.1	18	f3f3f3	-1
+NC_007797.1	1460016	1460240	+	hypothetical protein	WP_020848875.1	-1	f3f3f3	-1
+NC_007797.1	1460749	1460913	-	hypothetical protein	WP_020848876.1	-1	f3f3f3	-1
+NC_007797.1	1462136	1462441	-	preprotein translocase subunit YajC	WP_020848879.1	-1	f3f3f3	-1
+NC_007797.1	1462953	1463432	-	single-stranded DNA-binding protein	WP_011450589.1	296	f3f3f3	-1
+NC_007797.1	1464403	1465116	+	PCRF domain-containing protein	WP_080502894.1	101	f3f3f3	-1
+NC_007797.1	1465492	1466877	+	malonyl-CoA decarboxylase	WP_011450593.1	979	f3f3f3	-1
+NC_007797.1	1466903	1468354	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB	WP_011450594.1	576	f3f3f3	-1
+NC_007797.1	1468497	1469192	+	hypothetical protein	WP_080502895.1	118	f3f3f3	-1
+NC_007797.1	1470189	1470998	+	enoyl-ACP reductase FabI	WP_021799491.1	260	f3f3f3	-1

@@ -235,7 +235,8 @@ do
 	# chr	offset_start_pos	offset_end_pos	strand	feature_ann	feature_id	family_id	color_code	family_label
 
 	
-# get the number of elements (genes and gene stretches) in the largest compressed genome
+	# get the number of elements (genes and gene stretches) in the largest compressed genome
+	# this is used to scale the output properly
 	num_elements=`wc -l < ${TMPDIR}/$chr.features.5.txt | bc`
 	if [ "$num_elements" -gt "$max_elements" ]; then
 		max_elements=$num_elements
@@ -261,7 +262,7 @@ synvis_font_s=12
 synvis_multi_w=50
 synvis_multi_re='^[0-9]+$'
 
-# write the header of the synvis file
+# write the header of the synCADO html file
 cat > "$NAME.synCADO.html" <<EOL
 <!DOCTYPE html>
 <head></head><body>
@@ -388,7 +389,7 @@ EOL
 
 done < $cfgGenomes
 
-# close the synvis html file
+# close the synCADO html file writer
 cat >> "$NAME.synCADO.html" <<EOL
 };</script></body></html>
 EOL

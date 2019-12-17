@@ -1,1 +1,0 @@
-NZ_JFKF01000201.1	165	7512	+	resolvase-hypothetical protein	WP_008581469.1-WP_037214581.1	961-941	f3f3f3	10

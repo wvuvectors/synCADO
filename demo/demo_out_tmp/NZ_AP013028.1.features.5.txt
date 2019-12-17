@@ -1,0 +1,9 @@
+NZ_AP013028.1	1	1382	+	chromosomal replication initiator protein DnaA	WP_041044912.1	202	FF8AD8	DnaA
+NZ_AP013028.1	2029	836895	--+	phosphoesterase-hypothetical protein	WP_041044914.1-WP_084221192.1	-1-2	f3f3f3	683
+NZ_AP013028.1	837294	838585	-	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_041045996.1	401	FF2600	BioA
+NZ_AP013028.1	838586	839181	-	dethiobiotin synthase	WP_041045998.1	119	D4FB79	BioD
+NZ_AP013028.1	839182	839902	-	methyltransferase domain-containing protein	WP_041046000.1	67	73FDFF	BioC
+NZ_AP013028.1	839903	840552	-	alpha/beta hydrolase	WP_041046002.1	941	008F00	BioH
+NZ_AP013028.1	840553	841695	-	8-amino-7-oxononanoate synthase	WP_052463260.1	-1	f3f3f3	-1
+NZ_AP013028.1	841711	842664	+	biotin synthase BioB	WP_041046003.1	329	0096FF	BioB
+NZ_AP013028.1	843154	1249746	-	5-(carboxyamino)imidazole ribonucleotide synthase-glutamine synthetase	WP_041046004.1-WP_041046497.1	772-465	f3f3f3	322

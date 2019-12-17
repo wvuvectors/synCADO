@@ -1,0 +1,104 @@
+>Feature ref|NZ_JFKF01000201.1|
+165	794	gene
+			locus_tag	REISMN_RS07850
+			old_locus_tag	REISMN_08360
+165	794	CDS
+			product	resolvase
+			transl_table	11
+			protein_id	ref|WP_008581469.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_010304401.1
+911	>840	gene
+			locus_tag	REISMN_RS10880
+			pseudo
+911	>840	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	incomplete; partial in the middle of a contig; missing C-terminus
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_012450653.1
+1323	1150	gene
+			locus_tag	REISMN_RS09960
+			old_locus_tag	REISMN_08365
+1323	1150	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|WP_008581467.1|
+			inference	COORDINATES: ab initio prediction:GeneMarkS-2+
+<1430	1332	gene
+			locus_tag	REISMN_RS10885
+			pseudo
+<1430	1332	CDS
+			product	tetratricopeptide repeat protein
+			transl_table	11
+			pseudo
+			note	incomplete; partial in the middle of a contig; missing N-terminus
+			inference	COORDINATES: protein motif:HMM:NF019339.0
+1541	1458	gene
+			locus_tag	REISMN_RS09965
+1541	1458	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|WP_081819185.1|
+			inference	COORDINATES: protein motif:HMM:NF012725.0
+2484	1549	gene
+			gene	bioB
+			locus_tag	REISMN_RS07855
+			old_locus_tag	REISMN_08370
+2484	1549	CDS
+			product	biotin synthase BioB
+			EC_number	2.8.1.6
+			transl_table	11
+			protein_id	ref|WP_008581465.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_015353734.1
+2499	3644	gene
+			locus_tag	REISMN_RS07860
+			old_locus_tag	REISMN_08375
+2499	3644	CDS
+			product	8-amino-7-oxononanoate synthase
+			transl_table	11
+			protein_id	ref|WP_008581464.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_011526506.1
+3641	4285	gene
+			locus_tag	REISMN_RS07865
+			old_locus_tag	REISMN_08380
+3641	4285	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|WP_037214579.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_008581462.1
+4278	5021	gene
+			locus_tag	REISMN_RS07870
+			old_locus_tag	REISMN_08385
+4278	5021	CDS
+			product	methyltransferase domain-containing protein
+			transl_table	11
+			protein_id	ref|WP_037214583.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_011526508.1
+5021	5632	gene
+			gene	bioD
+			locus_tag	REISMN_RS07875
+			old_locus_tag	REISMN_08390
+5021	5632	CDS
+			product	dethiobiotin synthase
+			EC_number	6.3.3.3
+			transl_table	11
+			protein_id	ref|WP_008581459.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_011526509.1
+5635	6948	gene
+			gene	bioA
+			locus_tag	REISMN_RS07880
+			old_locus_tag	REISMN_08395
+5635	6948	CDS
+			product	adenosylmethionine--8-amino-7-oxononanoate transaminase
+			EC_number	2.6.1.62
+			transl_table	11
+			protein_id	ref|WP_008581457.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_011526510.1
+7067	>7512	gene
+			locus_tag	REISMN_RS07885
+7067	>7512	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|WP_037214581.1|
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_008581454.1
+

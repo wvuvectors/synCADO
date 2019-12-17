@@ -5,3 +5,4 @@
 --project_name demoOGs
 --mixed_genome_fasta demo.faa
 --inflation 1.3
+--gg_file demoOGs.glg

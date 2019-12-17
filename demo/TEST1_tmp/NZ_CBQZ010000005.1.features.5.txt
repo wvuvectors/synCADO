@@ -1,1 +1,0 @@
-NZ_CBQZ010000005.1	1427	66166	-	PD-(D/E)XK nuclease family protein-type I secretion system permease/ATPase	WP_034577479.1-WP_084303116.1	299-20	f3f3f3	48

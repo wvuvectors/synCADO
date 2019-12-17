@@ -1,2 +1,0 @@
-NZ_CP021497.1	1	1367	+	chromosomal replication initiator protein DnaA	WP_100114853.1	221	73FDFF	DnaA
-NZ_CP021497.1	1372	528793	+--	DNA polymerase III subunit beta-50S ribosomal protein L34	WP_100114854.1-WP_100115038.1	87-290	f3f3f3	468

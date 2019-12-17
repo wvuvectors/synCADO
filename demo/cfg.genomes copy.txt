@@ -1,0 +1,7 @@
+#RefSeq_replicon_ID	title
+gff_local/wCfeT.gff	wCfeT
+NZ_AP013028.1	wCle
+NZ_JFKF01000201.1	Rickettsia buchneri str. Iso7
+NC_008011.1	Lawsonia intracellularis str. PHE/MN1-00
+NZ_CBQZ010000005.1	Cardinium endosymbiont of Bemisia tabaci
+NZ_CP021497.1	Legionella endosymbiont of Polyplax serrata

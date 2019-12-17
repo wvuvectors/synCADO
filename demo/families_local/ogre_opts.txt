@@ -1,0 +1,7 @@
+--pi_cutoff 0.3
+--pmatch_cutoff 0.4
+--blast_file demo.blastp
+--working_directory OGs
+--project_name demoOGs
+--mixed_genome_fasta demo.faa
+--inflation 1.3

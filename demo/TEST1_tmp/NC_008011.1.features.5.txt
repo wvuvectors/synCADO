@@ -1,0 +1,4 @@
+NC_008011.1	1	1436	+	chromosomal replication initiator protein DnaA	WP_011526084.1	221	73FDFF	DnaA
+NC_008011.1	1469	996323	-	peptide chain release factor 1-7-cyano-7-deazaguanine synthase QueC	WP_011526085.1-WP_011526883.1	186--1	f3f3f3	850
+NC_008011.1	996484	997857	+	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU	WP_011526884.1	468	006600	GlmU
+NC_008011.1	997956	1457131	+	cell division protein ZapB-FAD-dependent thymidylate synthase	WP_015353785.1-WP_011527266.1	-1-457	f3f3f3	403

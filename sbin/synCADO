@@ -5,7 +5,7 @@ here=$(dirname "$0")
 
 
 
-while getopts ":hg:f:t:o:a:c" opt; do
+while getopts ":hvdg:f:t:o:a:" opt; do
 	case $opt in
 		h)
 			echo "
@@ -13,19 +13,19 @@ synCADO v$VERSION.
 Created by $AUTHORS.
 
 Usage:
-  synCADO -g FILE -f FILE -t FILE [-o STRING]
+  synCADO -g FILE -f FILE -t FILE [-o STRING] [-d]
   synCADO -h
   synCADO -v
 
 Options:
   -h          Show this screen.
   -v          Show version.
-  -g FILE     Tab-delimited file containing one genome per row: Nucleotide RefSeq ID (required), text label for genome (optional).
-  -f FILE     OrthoMCL-format (.end) file containing ortholog group (OG) clusters, one OG per row.
-  -t FILE     Tab-delimited file containing one target feature per row: any feature ID in the OG (required), text label (recommended), and hex color code (optional).
+  -g FILE     REQUIRED tab-delimited file containing one genome per row: RefSeq replicon ID (required), text label for genome (optional).
+  -f FILE     REQUIRED tab-delimited file of IDs that comprise the sequence families, one family per row. The first column of each row must contain a unique family ID.
+  -t FILE     REQUIRED tab-delimited file containing one target feature per row: any feature ID in the OG (required), text label (recommended), and hex color code (optional).
   -o STRING   Optional name of output file [DEFAULT: synCADO_p].
-  -a STRING   Optional feature ID that identifies the OG to anchor at the start (left) of each genome.
-  -c          Optional flag to allow the families file to be in orthoDB tab format.
+  -a STRING   Optional feature ID that identifies the OG to anchor at the start (left) of each genome [DEFAULT: none].
+  -d          Optional flag to retain the temp file directory, for debugging [DEFAULT: off].
 
 "
 			exit 0
@@ -49,8 +49,8 @@ Please visit https://github.com/driscollmml/synCADO for more information or to d
 			cfgGenomes=$OPTARG
 			;;
 		f)
-			# OG file
-			ogFile=$OPTARG
+			# sequence family file
+			familyFile=$OPTARG
 			;;
 		t)
 			# tab-delim config file for targets OGs of interest
@@ -64,9 +64,9 @@ Please visit https://github.com/driscollmml/synCADO for more information or to d
 			# feature ID to use as anchor OG
 			anchorFeature=$OPTARG
 			;;
-		c)
-			# families file is in orthoDB tab format
-			orthodbInput=1
+		d)
+			# debug mode ON
+			debug=1
 			;;
 		\?)
 			echo "Invalid option: -$OPTARG" >&2
@@ -81,19 +81,19 @@ done
 
 if [ -z "$cfgGenomes" ]; then
 	echo "FATAL : A tab-delimited genome config file is required (-g GCFG_FILE) but was not provided."
-	echo "FATAL : See the README, or cfg.genomes.txt in the demo directory for an example."
+	echo "NOTE  : See the README, or cfg.genomes.txt in the demo directory for an example."
 	exit 0
 fi
 
-if [ -z "$ogFile" ]; then
-	echo "FATAL : An OG (.end) file is required (-f OG_FILE) but was not provided."
-	echo "FATAL : See the README, or demo.ogs.end in the demo directory for an example."
+if [ -z "$familyFile" ]; then
+	echo "FATAL : A sequence family file is required (-f FAMILY_FILE) but was not provided."
+	echo "NOTE  : See the README, or demo.families.txt in the demo directory for an example."
 	exit 0
 fi
 
 if [ -z "$cfgTargets" ]; then
 	echo "FATAL : A tab-delimited target config file is required (-t TCFG_FILE) but was not provided."
-	echo "FATAL : See the README, or cfg.genome.txt in the demo directory for an example."
+	echo "NOTE  : See the README, or cfg.targets.txt in the demo directory for an example."
 	exit 0
 fi
 
@@ -102,8 +102,15 @@ if [ -z "$NAME" ]; then
 	NAME="synCADO_p"
 fi
 
+anchorFamily=-1
 if [ -z "$anchorFeature" ]; then
 	echo "WARN  : No anchor feature provided. The graphic for each genome may start at a different feature."
+	echo "NOTE  : It is often easier to compare genomes if they all start from a common family (eg, dnaA)."
+	echo "NOTE  : You can use the -a option to pass the ID of an anchor ortholog from one of your genomes."
+	echo "NOTE  : synCADO will extract the corresponding orthologs from the remaining genomes and reorient each genome."
+	echo "NOTE  : See the README for more information."
+else
+	anchorFamily=$("$here/perl/synCADO_get_family.pl" "$anchorFeature" < "$familyFile")
 fi
 
 
@@ -125,80 +132,117 @@ mkdir "$TMPDIR"
 
 color="255,255,255"
 labelit=1
+max_elements=0
+
+
+# convert target feature IDs into family IDs
+# store this in a temp file
+targetFile="$TMPDIR/targets.txt"
+if [ -f "$targetFile" ];then
+	rm "$targetFile"
+fi
+echo "#family	label	color_code" > "$targetFile"
+
+while IFS=$'\t' read -r -a tmp
+do
+	featID="${tmp[0]}"
+	flabel="${tmp[1]}"
+	fcolor="${tmp[2]}"
+
+	if [[ $featID =~ ^# ]]; then
+		continue
+	fi
+	
+	famID=$("$here/perl/synCADO_get_family.pl" "$featID" < "$familyFile")
+	echo "$famID	$flabel	$fcolor" >> "$targetFile"
+done < $cfgTargets
 
 
 while IFS=$'\t' read -r -a tmp
 do
 	nucRef="${tmp[0]}"
-	title="${tmp[1]}"
-	
 	if [[ $nucRef =~ ^# ]]; then
 		continue
 	fi
-
-	if [ -z "$title" ]; then
-		title="$nucRef"
-	fi
-
-	# fetch the feature table for each genome
-	wget --tries=5 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=${nucRef}&rettype=ft' -O "$TMPDIR/$nucRef.features.txt"
 	
-	# convert it to gff format
-	"$here/perl/synCADO_ft2gff.pl" < "$TMPDIR/$nucRef.features.txt" > "$TMPDIR/$nucRef.gff"
+	chr="$nucRef"
+	gffFile="$nucRef"
 	
-	chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < "$TMPDIR/$nucRef.gff")
-	
-	# extract CDS coordinates, strandedness, and product descriptions from the gff file
-	# chr start end product
-	"$here/perl/synCADO_extract_col.pl" 0,2,3,4,6,8 < "$TMPDIR/$nucRef.gff" | grep '\tCDS\t' \
-	| grep -v 'pseudo=true' \
-	| grep ';protein_id=' \
-	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?product=(.+?);.*?protein_id=(.+?);.*$/$1\t$2\t$3\t$4\t$5\t$6/gi' \
-	| perl -pe 's/fig\|//gi' \
-	| "$here/perl/synCADO_abut.pl" 1 2 > "${NAME}_tmp/features.1.tmp"
-	
-	
-	# add OG assignments
-	"$here/perl/synCADO_add_OG.pl" -i 5 $ogFile < "${NAME}_tmp/features.1.tmp" > "${NAME}_tmp/features.2.tmp"
-	
-	# add custom colors and labels
-	"$here/perl/synCADO_extract_col.pl" 0,2 < "$cfgTargets" > "${NAME}_tmp/target_colors.tmp"
-	"$here/perl/synCADO_merge.pl" "${NAME}_tmp/features.2.tmp" 6 "${NAME}_tmp/target_colors.tmp" 0 -p "f3f3f3" | "$here/perl/synCADO_square.pl" 8 > "${NAME}_tmp/features2_merge1.tmp"
-	mv "${NAME}_tmp/features2_merge1.tmp" "${NAME}_tmp/features.2.tmp"
-
-	"$here/perl/synCADO_extract_col.pl" 0,1 < "$cfgTargets" > "${NAME}_tmp/target_locustags.tmp"
-	"$here/perl/synCADO_merge.pl" "${NAME}_tmp/features.2.tmp" 6 "${NAME}_tmp/target_locustags.tmp" 0  -p "1" | "$here/perl/synCADO_square.pl" 9 > "${NAME}_tmp/features2_merge2.tmp"
-	mv "${NAME}_tmp/features2_merge2.tmp" "${NAME}_tmp/features.2.tmp"	
-	
-	# apply offset to coordinates
-	"$here/perl/synCADO_offset.pl" 1,2 -c $len -m $offset < "${NAME}_tmp/features.2.tmp" | "$here/perl/synCADO_sort.pl" 1 -n > "${NAME}_tmp/features.3.offset.tmp"
-#	"$here/perl/synCADO_offset.pl" 1,2 -c $len -m $offset < "${NAME}_tmp/features.2.tmp" | "$here/perl/synCADO_sort.pl" 1 -n > "${NAME}_tmp/features.3.offset.tmp"
-#	"$here/perl/synCADO_abut.pl" 1 2 < "${NAME}_tmp/features.3.offset.tmp" > "${NAME}_tmp/features.3.offset.tmp"
-	
-	# compress 2 or more consecutive unlabeled features
-	"$here/perl/synCADO_compress.pl" 8 -t 2 < "${NAME}_tmp/features.3.offset.tmp" > "$NAME/$title.features.4.compressed.txt"
+	if [ -f "$gffFile" ]; then
+		# user supplied a path to a gff file
+		chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < "$gffFile")
+	else
+		# user supplied a refseq id, so we need to fetch it from NCBI
+		chr="$nucRef"
+		gffFile="$TMPDIR/$nucRef.gff"
 		
-done < $cfgGenomes
-
-
-# get the number of elements (genes and gene stretches) in the largest compressed genome
-max_elements=0
-while IFS=$'\t' read -r -a tmp
-do
-	gffFile="${tmp[0]}"
-	title="${tmp[1]}"
-	offset="${tmp[2]}"
+		# fetch the feature table
+		wget --tries=5 "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=${nucRef}&rettype=ft" -O "$TMPDIR/$chr.ncbi_ft.txt"
 	
-	if [[ $gffFile =~ ^# ]]; then
-		continue
+		# convert feature table to gff format
+		"$here/perl/synCADO_ft2gff.pl" < "$TMPDIR/$chr.ncbi_ft.txt" > "$gffFile"
 	fi
 	
-	num_elements=`wc -l < $NAME/$title.features.4.compressed.txt | bc`
+	len=$("$here/perl/synCADO_gff_parse.pl" "len" < "$gffFile")
+
+	# extract relevant info from the gff file
+	"$here/perl/synCADO_extract_col.pl" 0,2,3,4,6,8 < "$gffFile" | grep '\tCDS\t' \
+	| grep -v 'pseudo=true' \
+	| grep 'protein_id=' \
+	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?product=(.+?);.*?protein_id=(.+?);.*$/$1\t$2\t$3\t$4\t$5\t$6/gi' \
+	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?protein_id=(.+?);.*?product=(.+?);.*$/$1\t$2\t$3\t$4\t$6\t$5/gi' \
+	| perl -pe 's/fig\|//gi' \
+	| "$here/perl/synCADO_fix_overlaps.pl" 1 2 > "${TMPDIR}/$chr.features.1.txt"
+	#
+	# feature table 1 cols:
+	# chr	start_pos	end_pos	strand	feature_ann	feature_id
+	
+	
+	# add family assignments
+	#
+	"$here/perl/synCADO_add_families.pl" -i 5 "$familyFile" < "${TMPDIR}/$chr.features.1.txt" > "${TMPDIR}/$chr.features.2.txt"
+	#
+	# feature table 2 cols:
+	# chr	start_pos	end_pos	strand	feature_ann	feature_id	family_id
+
+
+	# add custom colors and labels
+	#
+	"$here/perl/synCADO_decorate.pl" "$targetFile" < "${TMPDIR}/$chr.features.2.txt" > "${TMPDIR}/$chr.features.3.txt"
+	#
+	# feature table 3 cols:
+	# chr	start_pos	end_pos	strand	feature_ann	feature_id	family_id	color_code	family_label
+	
+
+	# apply anchor offset to coordinates, if necessary
+	#
+	if [ ! -z "$anchorFeature" ];then
+		anchorFamily=$("$here/perl/synCADO_get_family.pl" "$anchorFeature" < "$familyFile")
+		"$here/perl/synCADO_offset.pl" -a "$anchorFamily" -c -l $len < "${TMPDIR}/$chr.features.3.txt" | "$here/perl/synCADO_sort.pl" -n 1 > "${TMPDIR}/$chr.features.4.txt"
+	else
+		cp "${TMPDIR}/$chr.features.3.txt" "${TMPDIR}/$chr.features.4.txt"
+	fi
+	#
+	# feature table 4 cols:
+	# chr	offset_start_pos	offset_end_pos	strand	feature_ann	feature_id	family_id	color_code	family_label
+
+
+	# compress consecutive off-target features
+	#
+	"$here/perl/synCADO_compress.pl" 8 -t 2 < "${TMPDIR}/$chr.features.4.txt" > "${TMPDIR}/$chr.features.5.txt"
+	#
+	# feature table 5 cols:
+	# chr	offset_start_pos	offset_end_pos	strand	feature_ann	feature_id	family_id	color_code	family_label
+
+	
+# get the number of elements (genes and gene stretches) in the largest compressed genome
+	num_elements=`wc -l < ${TMPDIR}/$chr.features.5.txt | bc`
 	if [ "$num_elements" -gt "$max_elements" ]; then
 		max_elements=$num_elements
 	fi
-	
+
 done < $cfgGenomes
+
 
 # initialize variables for the synteny vis output
 synvis_genomes=`wc -l < $cfgGenomes | bc`
@@ -233,17 +277,22 @@ EOL
 
 
 
-while IFS=$'\t' read -r -a tmp
+while IFS=$'\t' read -r -a tmpG
 do
-	gffFile="${tmp[0]}"
-	if [[ $gffFile =~ ^# ]]; then
+	nucRef="${tmpG[0]}"
+	if [[ $nucRef =~ ^# ]]; then
 		continue
 	fi
 	
-	title="${tmp[1]}"
-	if [ -z "$title" ]; then
-		chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < $gffFile)
-		title="$chr"
+	chr="$nucRef"
+	if [ -f "$nucRef" ]; then
+		# user supplied a path to a gff file
+		chr=$("$here/perl/synCADO_gff_parse.pl" "chr" < "$nucRef")
+	fi
+	
+	title="$chr"
+	if [ ! -z "${tmpG[1]}" ]; then
+		title="${tmpG[1]} ($chr)"
 	fi
 	
 	tax_start_y=$((synvis_start_y-5))
@@ -320,7 +369,7 @@ EOL
 		
 		#((box_num++))
 		
-	done < "$NAME/$title.features.4.compressed.txt"
+	done < "${TMPDIR}/$chr.features.5.txt"
 	
 	start_x=$((synvis_start_x+synvis_locus_w+synvis_box_gap))
 	line_x=$((box_x+10))
@@ -343,6 +392,11 @@ done < $cfgGenomes
 cat >> "$NAME.synCADO.html" <<EOL
 };</script></body></html>
 EOL
+
+
+if [ -z "$debug" ]; then
+	rm -r "${TMPDIR}"
+fi
 
 
 exit

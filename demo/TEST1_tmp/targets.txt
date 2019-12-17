@@ -1,0 +1,5 @@
+#family	label	color_code
+221	DnaA	73FDFF
+221	DnaA	73FDFF
+1153	GlmM	00bb00
+468	GlmU	006600

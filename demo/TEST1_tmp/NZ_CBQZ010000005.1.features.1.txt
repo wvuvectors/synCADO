@@ -1,0 +1,48 @@
+NZ_CBQZ010000005.1	1427	4213	-	PD-(D/E)XK nuclease family protein	WP_034577479.1
+NZ_CBQZ010000005.1	4943	5073	-	transposase	WP_156933601.1
+NZ_CBQZ010000005.1	5074	5559	-	IS5 family transposase	WP_034576255.1
+NZ_CBQZ010000005.1	6983	8833	-	type IIA DNA topoisomerase subunit B	WP_034577482.1
+NZ_CBQZ010000005.1	8867	9661	-	M28 family peptidase	WP_084303111.1
+NZ_CBQZ010000005.1	9770	10021	-	hypothetical protein	WP_034577484.1
+NZ_CBQZ010000005.1	10255	11226	-	di-trans,poly-cis-decaprenylcistransferase	WP_130721371.1
+NZ_CBQZ010000005.1	11364	12023	-	dTMP kinase	WP_034577485.1
+NZ_CBQZ010000005.1	12173	13042	+	iron chelate uptake ABC transporter family permease subunit	WP_051602235.1
+NZ_CBQZ010000005.1	13055	13516	+	type I restriction enzyme HsdR N-terminal domain-containing protein	WP_034577486.1
+NZ_CBQZ010000005.1	13562	14230	-	hypothetical protein	WP_051602236.1
+NZ_CBQZ010000005.1	14342	16135	-	arginine--tRNA ligase	WP_051602237.1
+NZ_CBQZ010000005.1	16572	17042	-	ankyrin repeat domain-containing protein	WP_034577487.1
+NZ_CBQZ010000005.1	17303	18766	-	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB	WP_034577489.1
+NZ_CBQZ010000005.1	19191	19922	-	LPS export ABC transporter ATP-binding protein	WP_034577491.1
+NZ_CBQZ010000005.1	20281	21405	+	tRNA guanosine(34) transglycosylase Tgt	WP_034577493.1
+NZ_CBQZ010000005.1	21411	22490	+	YjgP/YjgQ family permease	WP_034577495.1
+NZ_CBQZ010000005.1	22514	23815	-	TolC family protein	WP_084303113.1
+NZ_CBQZ010000005.1	23833	24492	-	ABC transporter ATP-binding protein	WP_034577497.1
+NZ_CBQZ010000005.1	24494	25588	-	efflux RND transporter periplasmic adaptor subunit	WP_034577498.1
+NZ_CBQZ010000005.1	25591	26796	-	ABC transporter permease	WP_034577499.1
+NZ_CBQZ010000005.1	26866	28074	-	ABC transporter permease	WP_034577500.1
+NZ_CBQZ010000005.1	28208	29110	-	tyrosine-type recombinase/integrase	WP_034577505.1
+NZ_CBQZ010000005.1	29138	29332	-	30S ribosomal protein S21	WP_034577507.1
+NZ_CBQZ010000005.1	29705	32599	+	hypothetical protein	WP_034577509.1
+NZ_CBQZ010000005.1	32748	33623	-	IS982 family transposase	WP_034577510.1
+NZ_CBQZ010000005.1	34078	34839	+	RNA methyltransferase	WP_034577511.1
+NZ_CBQZ010000005.1	34870	36105	-	ubiquitin carboxyl-terminal hydrolase	WP_130721370.1
+NZ_CBQZ010000005.1	36489	37738	-	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_034577513.1
+NZ_CBQZ010000005.1	37739	38352	-	dethiobiotin synthase	WP_034577514.1
+NZ_CBQZ010000005.1	38353	39064	-	methyltransferase domain-containing protein	WP_051602238.1
+NZ_CBQZ010000005.1	39065	39721	-	hypothetical protein	WP_034577515.1
+NZ_CBQZ010000005.1	41131	42906	-	ABC transporter ATP-binding protein	WP_034577516.1
+NZ_CBQZ010000005.1	43314	44657	-	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	WP_034577518.1
+NZ_CBQZ010000005.1	44669	45460	-	CPBP family intramembrane metalloprotease	WP_034577519.1
+NZ_CBQZ010000005.1	45507	46529	+	Holliday junction branch migration DNA helicase RuvB	WP_034577520.1
+NZ_CBQZ010000005.1	46667	47374	+	IS6-like element ISCca2 family transposase	WP_034576929.1
+NZ_CBQZ010000005.1	47403	47822	-	hypothetical protein	WP_034577521.1
+NZ_CBQZ010000005.1	49523	50398	-	IS982-like element ISCca4 family transposase	WP_034577525.1
+NZ_CBQZ010000005.1	52772	53479	-	IS6-like element ISCca2 family transposase	WP_034576929.1
+NZ_CBQZ010000005.1	54764	55546	+	UDP-2,3-diacylglucosamine diphosphatase	WP_084303115.1
+NZ_CBQZ010000005.1	55636	56667	+	rod shape-determining protein	WP_034577528.1
+NZ_CBQZ010000005.1	56720	57748	+	TolC family protein	WP_034577529.1
+NZ_CBQZ010000005.1	59274	59540	+	hypothetical protein	WP_034577530.1
+NZ_CBQZ010000005.1	59541	60416	-	IS982 family transposase	WP_034577531.1
+NZ_CBQZ010000005.1	60583	62687	-	type I secretion system permease/ATPase	WP_034577532.1
+NZ_CBQZ010000005.1	62688	64081	-	HlyD family type I secretion periplasmic adaptor subunit	WP_051602240.1
+NZ_CBQZ010000005.1	64082	66166	-	type I secretion system permease/ATPase	WP_084303116.1

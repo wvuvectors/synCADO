@@ -1,0 +1,8 @@
+TDT0000002.1	1	1382	-	Chromosomal replication initiator protein DnaA	6666666.367387.peg.960	221	73FDFF	DnaA
+TDT0000002.1	1682	5345	+	Putative glutamine synthetase%2C Rickettsiales type (EC 6.3.1.2)-Mobile element protein	6666666.367387.peg.961-6666666.367387.peg.964	700-1	f3f3f3	4
+TDT0000002.1	5513	5803	-	hypothetical protein	6666666.367387.peg.965	1153	00bb00	GlmM
+TDT0000002.1	6053	110340	-	hypothetical protein	6666666.367387.peg.966-6666666.367387.peg.1066	-1	f3f3f3	101
+TDT0000002.1	110656	110970	-	hypothetical protein	6666666.367387.peg.1067	1153	00bb00	GlmM
+TDT0000002.1	111184	350959	--+	hypothetical protein-Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	6666666.367387.peg.1068-6666666.367387.peg.1313	531-167	f3f3f3	246
+TDT0000002.1	350964	352247	+	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	6666666.367387.peg.1314	468	006600	GlmU
+TDT0000002.1	352419	1495486	+--	Mobile element protein-Efflux ABC transporter%2C permease/ATP-binding protein	6666666.367387.peg.1315-6666666.367387.peg.959	3-20	f3f3f3	1154

@@ -1,0 +1,10 @@
+NZ_JFKF01000201.1	165	794	+	resolvase	WP_008581469.1
+NZ_JFKF01000201.1	1150	1323	-	hypothetical protein	WP_008581467.1
+NZ_JFKF01000201.1	1458	1541	-	hypothetical protein	WP_081819185.1
+NZ_JFKF01000201.1	1549	2484	-	biotin synthase BioB	WP_008581465.1
+NZ_JFKF01000201.1	2499	3640	+	8-amino-7-oxononanoate synthase	WP_008581464.1
+NZ_JFKF01000201.1	3641	4277	+	hypothetical protein	WP_037214579.1
+NZ_JFKF01000201.1	4278	5021	+	methyltransferase domain-containing protein	WP_037214583.1
+NZ_JFKF01000201.1	5021	5632	+	dethiobiotin synthase	WP_008581459.1
+NZ_JFKF01000201.1	5635	6948	+	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_008581457.1
+NZ_JFKF01000201.1	7067	7512	+	hypothetical protein	WP_037214581.1

@@ -1,6 +1,6 @@
 #! /usr/bin/env perl -w
-use strict;
 
+use strict;
 
 my $progname = $0;
 $progname =~ s/^.*?([^\/]+)$/$1/;

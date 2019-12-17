@@ -69,7 +69,9 @@ foreach my $feat_start (sort {$a <=> $b} keys %feat_map) {
 		my $feat = $feat_map{$feat_start}->{$feat_type};
 		print "$chr	RefSeq	$feat_type	$feat_start	$feat->{'end'}	.	$feat->{'strand'}	.	";
 		foreach my $k (keys %{$feat->{"details"}}) {
-			print "$k=$feat->{'details'}->{$k};";
+			my $val = $feat->{"details"}->{$k};
+			$val =~ s/^ref\|(.+?)\|/$1/i if $k eq "protein_id";
+			print "$k=$val;";
 		}
 		print "\n";
 	}

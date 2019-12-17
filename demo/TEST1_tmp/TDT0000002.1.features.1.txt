@@ -1,0 +1,1509 @@
+TDT0000002.1	139	531	-	Mobile element protein	6666666.367387.peg.1
+TDT0000002.1	976	3468	+	Outer membrane porin	6666666.367387.peg.2
+TDT0000002.1	3544	4905	-	hypothetical protein	6666666.367387.peg.3
+TDT0000002.1	5015	7540	-	DNA polymerase I (EC 2.7.7.7)	6666666.367387.peg.4
+TDT0000002.1	7602	8385	-	Uncharacterized metal-dependent hydrolase YcfH	6666666.367387.peg.5
+TDT0000002.1	8386	8854	-	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase	6666666.367387.peg.6
+TDT0000002.1	8855	9268	-	hypothetical protein	6666666.367387.peg.7
+TDT0000002.1	9376	10203	-	Mobile element protein	6666666.367387.peg.8
+TDT0000002.1	10345	10557	-	Mobile element protein	6666666.367387.peg.9
+TDT0000002.1	10602	10715	-	hypothetical protein	6666666.367387.peg.10
+TDT0000002.1	10986	12210	-	Uncharacterized MFS-type transporter	6666666.367387.peg.11
+TDT0000002.1	12211	12696	-	Transcription termination protein NusB	6666666.367387.peg.12
+TDT0000002.1	12696	13092	-	6%2C7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	6666666.367387.peg.13
+TDT0000002.1	13093	14811	-	Inner membrane protein translocase and chaperone YidC%2C long form	6666666.367387.peg.14
+TDT0000002.1	14914	15417	+	Aspartyl protease	6666666.367387.peg.15
+TDT0000002.1	15484	16014	+	hypothetical protein	6666666.367387.peg.16
+TDT0000002.1	16102	16968	+	hypothetical protein	6666666.367387.peg.17
+TDT0000002.1	17043	17156	+	hypothetical protein	6666666.367387.peg.18
+TDT0000002.1	17166	18004	+	Chromosome (plasmid) partitioning protein ParA	6666666.367387.peg.19
+TDT0000002.1	18005	18853	+	Chromosome (plasmid) partitioning protein ParB	6666666.367387.peg.20
+TDT0000002.1	18942	20144	+	Aspartate aminotransferase (EC 2.6.1.1)	6666666.367387.peg.21
+TDT0000002.1	20157	22253	-	Coupling protein VirD4%2C ATPase required for T-DNA transfer	6666666.367387.peg.22
+TDT0000002.1	22275	23267	-	ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB11	6666666.367387.peg.23
+TDT0000002.1	23269	24729	-	Inner membrane protein of type IV secretion of T-DNA complex%2C TonB-like%2C VirB10	6666666.367387.peg.24
+TDT0000002.1	24737	25526	-	Outer membrane and periplasm component of type IV secretion of T-DNA complex%2C has secretin-like domain%2C VirB9	6666666.367387.peg.25
+TDT0000002.1	25527	26210	-	Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB8	6666666.367387.peg.26
+TDT0000002.1	26275	27360	-	Uncharacterized domain%2C not in CDD / GTP cyclohydrolase II (EC 3.5.4.25)	6666666.367387.peg.27
+TDT0000002.1	27640	28866	+	Phosphoprotein phosphatase	6666666.367387.peg.28
+TDT0000002.1	28895	29026	-	hypothetical protein	6666666.367387.peg.29
+TDT0000002.1	29034	29990	-	Mobile element protein	6666666.367387.peg.30
+TDT0000002.1	30129	31469	-	hypothetical protein	6666666.367387.peg.31
+TDT0000002.1	31620	32384	-	hypothetical protein	6666666.367387.peg.32
+TDT0000002.1	32517	34007	+	Efflux ABC transporter%2C permease/ATP-binding protein	6666666.367387.peg.33
+TDT0000002.1	34010	34264	+	Efflux ABC transporter%2C permease/ATP-binding protein	6666666.367387.peg.34
+TDT0000002.1	34327	35016	+	hypothetical protein	6666666.367387.peg.35
+TDT0000002.1	35108	35311	+	Uncharacterized protein RT0563	6666666.367387.peg.36
+TDT0000002.1	35322	37370	+	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)	6666666.367387.peg.37
+TDT0000002.1	37423	37701	+	LSU ribosomal protein L21p	6666666.367387.peg.38
+TDT0000002.1	37712	37987	+	LSU ribosomal protein L27p	6666666.367387.peg.39
+TDT0000002.1	38226	39392	+	hypothetical protein	6666666.367387.peg.40
+TDT0000002.1	39488	39787	+	hypothetical protein	6666666.367387.peg.41
+TDT0000002.1	40042	41067	+	hypothetical protein	6666666.367387.peg.42
+TDT0000002.1	41140	41370	+	Mobile element protein	6666666.367387.peg.43
+TDT0000002.1	41485	42363	+	hypothetical protein	6666666.367387.peg.44
+TDT0000002.1	42499	43711	+	Lipoprotein releasing system transmembrane protein LolC/LolE	6666666.367387.peg.45
+TDT0000002.1	43712	44436	+	hypothetical protein	6666666.367387.peg.46
+TDT0000002.1	44437	45672	+	Membrane-bound protoheme IX biogenesis protein%2C HemY	6666666.367387.peg.47
+TDT0000002.1	45728	47068	-	hypothetical protein	6666666.367387.peg.48
+TDT0000002.1	47544	48716	+	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	6666666.367387.peg.49
+TDT0000002.1	48824	50194	+	hypothetical protein	6666666.367387.peg.50
+TDT0000002.1	50306	52150	+	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)	6666666.367387.peg.51
+TDT0000002.1	52326	53645	+	hypothetical protein	6666666.367387.peg.52
+TDT0000002.1	53646	55678	-	hypothetical protein	6666666.367387.peg.53
+TDT0000002.1	55679	55806	-	hypothetical protein	6666666.367387.peg.54
+TDT0000002.1	55807	57339	-	hypothetical protein	6666666.367387.peg.55
+TDT0000002.1	57442	57711	-	hypothetical protein	6666666.367387.peg.56
+TDT0000002.1	57746	59566	-	hypothetical protein	6666666.367387.peg.57
+TDT0000002.1	59572	59904	-	hypothetical protein	6666666.367387.peg.58
+TDT0000002.1	60148	60699	+	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	6666666.367387.peg.59
+TDT0000002.1	60769	61311	-	hypothetical protein	6666666.367387.peg.60
+TDT0000002.1	61367	62842	-	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)	6666666.367387.peg.61
+TDT0000002.1	63066	64139	+	hypothetical protein	6666666.367387.peg.62
+TDT0000002.1	64168	64412	+	hypothetical protein	6666666.367387.peg.63
+TDT0000002.1	64413	64781	+	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	6666666.367387.peg.64
+TDT0000002.1	64800	65153	+	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	6666666.367387.peg.65
+TDT0000002.1	65158	65665	+	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	6666666.367387.peg.66
+TDT0000002.1	65666	66250	+	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)	6666666.367387.peg.67
+TDT0000002.1	66308	66745	+	FIG01207622: hypothetical protein	6666666.367387.peg.68
+TDT0000002.1	66772	67278	+	hypothetical protein	6666666.367387.peg.69
+TDT0000002.1	67300	68370	+	DNA recombination and repair protein RecF	6666666.367387.peg.70
+TDT0000002.1	68468	69991	+	Type I secretion membrane fusion protein%2C HlyD family	6666666.367387.peg.71
+TDT0000002.1	70028	70615	+	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	6666666.367387.peg.72
+TDT0000002.1	70661	71221	+	membrane protein CvpA%2C putative	6666666.367387.peg.73
+TDT0000002.1	71276	71392	-	hypothetical protein	6666666.367387.peg.74
+TDT0000002.1	71406	72746	-	hypothetical protein	6666666.367387.peg.75
+TDT0000002.1	72807	74048	+	hypothetical protein	6666666.367387.peg.76
+TDT0000002.1	74056	74940	-	tRNA dimethylallyltransferase (EC 2.5.1.75)	6666666.367387.peg.77
+TDT0000002.1	75023	75505	+	hypothetical protein	6666666.367387.peg.78
+TDT0000002.1	75727	76098	+	Mobile element protein	6666666.367387.peg.79
+TDT0000002.1	76240	77067	+	Mobile element protein	6666666.367387.peg.80
+TDT0000002.1	77102	78037	-	Thioredoxin reductase (EC 1.8.1.9)	6666666.367387.peg.81
+TDT0000002.1	78038	78637	-	Alkyl hydroperoxide reductase subunit C-like protein	6666666.367387.peg.82
+TDT0000002.1	78721	79459	-	Cell division protein FtsQ	6666666.367387.peg.83
+TDT0000002.1	79460	80431	-	D-alanine--D-alanine ligase (EC 6.3.2.4)	6666666.367387.peg.84
+TDT0000002.1	80432	83821	-	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)	6666666.367387.peg.85
+TDT0000002.1	83954	84886	-	hypothetical protein	6666666.367387.peg.86
+TDT0000002.1	84924	85514	-	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)	6666666.367387.peg.87
+TDT0000002.1	85594	86893	-	peptidase%2C M16 family%2C putative	6666666.367387.peg.88
+TDT0000002.1	86894	88225	-	Protease%2C insulinase family	6666666.367387.peg.89
+TDT0000002.1	88230	88676	-	Lipoprotein signal peptidase (EC 3.4.23.36)	6666666.367387.peg.90
+TDT0000002.1	88703	89647	-	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	6666666.367387.peg.91
+TDT0000002.1	89717	90106	+	Glutaredoxin	6666666.367387.peg.92
+TDT0000002.1	90327	91154	-	Mobile element protein	6666666.367387.peg.93
+TDT0000002.1	91296	91667	-	Mobile element protein	6666666.367387.peg.94
+TDT0000002.1	91739	92122	-	hypothetical protein	6666666.367387.peg.95
+TDT0000002.1	92300	93172	-	hypothetical protein	6666666.367387.peg.96
+TDT0000002.1	93345	94310	+	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	6666666.367387.peg.97
+TDT0000002.1	94317	94937	+	Ribonuclease HII (EC 3.1.26.4)	6666666.367387.peg.98
+TDT0000002.1	95023	96141	+	Parvulin-like peptidyl-prolyl isomerase%2C SurA	6666666.367387.peg.99
+TDT0000002.1	96233	96400	+	hypothetical protein	6666666.367387.peg.100
+TDT0000002.1	96437	97840	-	Dioxygenases related to 2-nitropropane dioxygenase	6666666.367387.peg.101
+TDT0000002.1	97917	98353	-	Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly	6666666.367387.peg.102
+TDT0000002.1	98354	98752	-	Protein of unknown function DUF55	6666666.367387.peg.103
+TDT0000002.1	98752	99945	-	Cell division protein FtsZ	6666666.367387.peg.104
+TDT0000002.1	100059	102743	-	Alanyl-tRNA synthetase (EC 6.1.1.7)	6666666.367387.peg.105
+TDT0000002.1	102918	103036	+	hypothetical protein	6666666.367387.peg.106
+TDT0000002.1	103037	103456	+	hypothetical protein	6666666.367387.peg.107
+TDT0000002.1	103599	104468	-	Mobile element protein	6666666.367387.peg.108
+TDT0000002.1	104955	106331	+	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.109
+TDT0000002.1	106781	106953	+	hypothetical protein	6666666.367387.peg.110
+TDT0000002.1	106954	107076	+	hypothetical protein	6666666.367387.peg.111
+TDT0000002.1	107170	107895	+	ATP synthase F0 sector subunit a (EC 3.6.3.14)	6666666.367387.peg.112
+TDT0000002.1	107950	108168	+	ATP synthase F0 sector subunit c (EC 3.6.3.14)	6666666.367387.peg.113
+TDT0000002.1	108172	108651	+	ATP synthase F0 sector subunit b' (EC 3.6.3.14)	6666666.367387.peg.114
+TDT0000002.1	108663	109142	+	hypothetical protein	6666666.367387.peg.115
+TDT0000002.1	109147	109536	+	Glycosyl transferase%2C group 2 family	6666666.367387.peg.116
+TDT0000002.1	109871	110236	-	Transposase	6666666.367387.peg.117
+TDT0000002.1	110263	111255	+	Glycosyl transferase%2C group 2 family	6666666.367387.peg.118
+TDT0000002.1	111275	112144	-	Mobile element protein	6666666.367387.peg.119
+TDT0000002.1	112631	114007	+	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.120
+TDT0000002.1	114457	114629	+	hypothetical protein	6666666.367387.peg.121
+TDT0000002.1	114630	114752	+	hypothetical protein	6666666.367387.peg.122
+TDT0000002.1	114846	115571	+	ATP synthase F0 sector subunit a (EC 3.6.3.14)	6666666.367387.peg.123
+TDT0000002.1	115626	115844	+	ATP synthase F0 sector subunit c (EC 3.6.3.14)	6666666.367387.peg.124
+TDT0000002.1	115848	116327	+	ATP synthase F0 sector subunit b' (EC 3.6.3.14)	6666666.367387.peg.125
+TDT0000002.1	116339	116818	+	hypothetical protein	6666666.367387.peg.126
+TDT0000002.1	116823	117212	+	Glycosyl transferase%2C group 2 family	6666666.367387.peg.127
+TDT0000002.1	117547	117912	-	Transposase	6666666.367387.peg.128
+TDT0000002.1	117939	118931	+	Glycosyl transferase%2C group 2 family	6666666.367387.peg.129
+TDT0000002.1	118951	119820	-	Mobile element protein	6666666.367387.peg.130
+TDT0000002.1	120307	121683	+	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.131
+TDT0000002.1	121994	122959	+	Heme A synthase%2C cytochrome oxidase biogenesis protein Cox15-CtaA	6666666.367387.peg.132
+TDT0000002.1	123052	123270	+	hypothetical protein	6666666.367387.peg.133
+TDT0000002.1	123480	124091	+	hypothetical protein	6666666.367387.peg.134
+TDT0000002.1	124097	125053	-	Mobile element protein	6666666.367387.peg.135
+TDT0000002.1	125319	125690	-	Mobile element protein	6666666.367387.peg.136
+TDT0000002.1	125982	126476	-	hypothetical protein	6666666.367387.peg.137
+TDT0000002.1	126676	127767	+	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	6666666.367387.peg.138
+TDT0000002.1	128111	129283	+	Translation elongation factor Tu	6666666.367387.peg.139
+TDT0000002.1	129298	129653	+	SSU ribosomal protein S10p (S20e)	6666666.367387.peg.140
+TDT0000002.1	129654	130382	+	LSU ribosomal protein L3p (L3e)	6666666.367387.peg.141
+TDT0000002.1	130385	130995	+	LSU ribosomal protein L4p (L1e)	6666666.367387.peg.142
+TDT0000002.1	130996	131283	+	LSU ribosomal protein L23p (L23Ae)	6666666.367387.peg.143
+TDT0000002.1	131285	132109	+	LSU ribosomal protein L2p (L8e)	6666666.367387.peg.144
+TDT0000002.1	132113	132397	+	SSU ribosomal protein S19p (S15e)	6666666.367387.peg.145
+TDT0000002.1	132403	132750	+	LSU ribosomal protein L22p (L17e)	6666666.367387.peg.146
+TDT0000002.1	132789	133409	+	SSU ribosomal protein S3p (S3e)	6666666.367387.peg.147
+TDT0000002.1	133421	133828	+	LSU ribosomal protein L16p (L10e)	6666666.367387.peg.148
+TDT0000002.1	133840	134035	+	LSU ribosomal protein L29p (L35e)	6666666.367387.peg.149
+TDT0000002.1	134036	134268	+	SSU ribosomal protein S17p (S11e)	6666666.367387.peg.150
+TDT0000002.1	134269	134628	+	LSU ribosomal protein L14p (L23e)	6666666.367387.peg.151
+TDT0000002.1	134628	134945	+	LSU ribosomal protein L24p (L26e)	6666666.367387.peg.152
+TDT0000002.1	134945	135478	+	LSU ribosomal protein L5p (L11e)	6666666.367387.peg.153
+TDT0000002.1	135491	135799	+	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e)%2C zinc-independent	6666666.367387.peg.154
+TDT0000002.1	135821	136216	+	SSU ribosomal protein S8p (S15Ae)	6666666.367387.peg.155
+TDT0000002.1	136233	136769	+	LSU ribosomal protein L6p (L9e)	6666666.367387.peg.156
+TDT0000002.1	136775	137146	+	LSU ribosomal protein L18p (L5e)	6666666.367387.peg.157
+TDT0000002.1	137161	137673	+	SSU ribosomal protein S5p (S2e)	6666666.367387.peg.158
+TDT0000002.1	137680	138141	+	LSU ribosomal protein L15p (L27Ae)	6666666.367387.peg.159
+TDT0000002.1	138145	139472	+	Protein translocase subunit SecY	6666666.367387.peg.160
+TDT0000002.1	139473	140114	+	Adenylate kinase (EC 2.7.4.3)	6666666.367387.peg.161
+TDT0000002.1	140174	140542	+	SSU ribosomal protein S13p (S18e)	6666666.367387.peg.162
+TDT0000002.1	140566	140952	+	SSU ribosomal protein S11p (S14e)	6666666.367387.peg.163
+TDT0000002.1	140960	142024	+	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	6666666.367387.peg.164
+TDT0000002.1	142032	142442	+	LSU ribosomal protein L17p	6666666.367387.peg.165
+TDT0000002.1	142460	142807	+	hypothetical protein	6666666.367387.peg.166
+TDT0000002.1	142814	143370	+	ATP synthase delta chain (EC 3.6.3.14)	6666666.367387.peg.167
+TDT0000002.1	143371	144912	+	ATP synthase alpha chain (EC 3.6.3.14)	6666666.367387.peg.168
+TDT0000002.1	144922	145416	+	Transcription elongation factor GreA	6666666.367387.peg.169
+TDT0000002.1	145421	146071	+	3%2C4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)	6666666.367387.peg.170
+TDT0000002.1	146148	147467	+	Peptidase%2C M48 family	6666666.367387.peg.171
+TDT0000002.1	147526	149043	-	hypothetical protein	6666666.367387.peg.172
+TDT0000002.1	149159	149362	+	hypothetical protein	6666666.367387.peg.173
+TDT0000002.1	149444	150457	+	HflK protein	6666666.367387.peg.174
+TDT0000002.1	150460	151332	+	HflC protein	6666666.367387.peg.175
+TDT0000002.1	151336	152844	+	HtrA protease/chaperone protein	6666666.367387.peg.176
+TDT0000002.1	152867	153844	-	Quinone oxidoreductase (EC 1.6.5.5)	6666666.367387.peg.177
+TDT0000002.1	154323	155684	+	Mobile element protein	6666666.367387.peg.178
+TDT0000002.1	155876	157036	+	Fic domain protein%2C Pden_3305 type	6666666.367387.peg.179
+TDT0000002.1	157122	157415	+	hypothetical protein	6666666.367387.peg.180
+TDT0000002.1	157480	157611	+	hypothetical protein	6666666.367387.peg.181
+TDT0000002.1	157849	159189	+	hypothetical protein	6666666.367387.peg.182
+TDT0000002.1	159234	160037	+	Mobile element protein	6666666.367387.peg.183
+TDT0000002.1	160053	160415	-	Transposase	6666666.367387.peg.184
+TDT0000002.1	160457	160822	-	Transposase	6666666.367387.peg.185
+TDT0000002.1	160878	161048	+	Mobile element protein	6666666.367387.peg.186
+TDT0000002.1	161305	161901	+	hypothetical protein	6666666.367387.peg.187
+TDT0000002.1	162118	163458	+	hypothetical protein	6666666.367387.peg.188
+TDT0000002.1	163489	166125	-	Protein translocase subunit SecA	6666666.367387.peg.189
+TDT0000002.1	166139	167746	+	Proposed peptidoglycan lipid II flippase MurJ	6666666.367387.peg.190
+TDT0000002.1	167750	170265	+	hypothetical protein	6666666.367387.peg.191
+TDT0000002.1	170266	171048	-	Outer membrane and periplasm component of type IV secretion of T-DNA complex%2C has secretin-like domain%2C VirB9	6666666.367387.peg.192
+TDT0000002.1	171261	171703	+	hypothetical protein	6666666.367387.peg.193
+TDT0000002.1	171704	172222	+	hypothetical protein	6666666.367387.peg.194
+TDT0000002.1	172309	173061	+	Signal peptidase I (EC 3.4.21.89)	6666666.367387.peg.195
+TDT0000002.1	173133	173750	+	Putative dioxygenase	6666666.367387.peg.196
+TDT0000002.1	173814	175277	+	Cytosol aminopeptidase PepA (EC 3.4.11.1)	6666666.367387.peg.197
+TDT0000002.1	175356	176819	+	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)	6666666.367387.peg.198
+TDT0000002.1	177006	178342	+	hypothetical protein	6666666.367387.peg.199
+TDT0000002.1	178343	179155	-	hypothetical protein	6666666.367387.peg.200
+TDT0000002.1	179326	180201	-	Ankyrin 1	6666666.367387.peg.201
+TDT0000002.1	180240	180569	-	hypothetical protein	6666666.367387.peg.202
+TDT0000002.1	180613	181848	-	5-aminolevulinate synthase (EC 2.3.1.37)	6666666.367387.peg.203
+TDT0000002.1	181895	184699	-	hypothetical protein	6666666.367387.peg.204
+TDT0000002.1	184773	186677	-	Chaperone protein HtpG	6666666.367387.peg.205
+TDT0000002.1	186830	187555	+	hypothetical protein	6666666.367387.peg.206
+TDT0000002.1	187656	188996	+	hypothetical protein	6666666.367387.peg.207
+TDT0000002.1	189010	189708	+	hypothetical protein	6666666.367387.peg.208
+TDT0000002.1	190159	191115	-	Mobile element protein	6666666.367387.peg.209
+TDT0000002.1	191188	191808	-	hypothetical protein	6666666.367387.peg.210
+TDT0000002.1	191878	192927	-	Rod shape-determining protein RodA	6666666.367387.peg.211
+TDT0000002.1	192983	194512	-	hypothetical protein	6666666.367387.peg.212
+TDT0000002.1	194651	195991	+	hypothetical protein	6666666.367387.peg.213
+TDT0000002.1	196096	197511	-	hypothetical protein	6666666.367387.peg.214
+TDT0000002.1	197596	198936	-	hypothetical protein	6666666.367387.peg.215
+TDT0000002.1	199070	202468	-	Helicase%2C UvrD/Rep/AddA family	6666666.367387.peg.216
+TDT0000002.1	202553	203419	+	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	6666666.367387.peg.217
+TDT0000002.1	203423	203788	+	hypothetical protein	6666666.367387.peg.218
+TDT0000002.1	203790	204599	+	High-affinity zinc uptake system membrane protein znuB	6666666.367387.peg.219
+TDT0000002.1	204777	206117	-	hypothetical protein	6666666.367387.peg.220
+TDT0000002.1	206319	207218	-	hypothetical protein	6666666.367387.peg.221
+TDT0000002.1	207337	208866	+	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)%3B Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)	6666666.367387.peg.222
+TDT0000002.1	209082	209888	+	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	6666666.367387.peg.223
+TDT0000002.1	209953	211293	-	hypothetical protein	6666666.367387.peg.224
+TDT0000002.1	211427	212788	-	Mobile element protein	6666666.367387.peg.225
+TDT0000002.1	213056	214417	-	Mobile element protein	6666666.367387.peg.226
+TDT0000002.1	214728	215873	-	DNA polymerase III beta subunit (EC 2.7.7.7)	6666666.367387.peg.227
+TDT0000002.1	215923	217791	-	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG	6666666.367387.peg.228
+TDT0000002.1	217946	218785	-	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)	6666666.367387.peg.229
+TDT0000002.1	218890	220161	-	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	6666666.367387.peg.230
+TDT0000002.1	220192	221466	-	Seryl-tRNA synthetase (EC 6.1.1.11)	6666666.367387.peg.231
+TDT0000002.1	221640	223517	-	hypothetical protein	6666666.367387.peg.232
+TDT0000002.1	223993	224678	+	hypothetical protein	6666666.367387.peg.233
+TDT0000002.1	224679	226427	+	hypothetical protein	6666666.367387.peg.234
+TDT0000002.1	226428	227384	-	Mobile element protein	6666666.367387.peg.235
+TDT0000002.1	227699	230548	+	hypothetical protein	6666666.367387.peg.236
+TDT0000002.1	230591	231931	+	hypothetical protein	6666666.367387.peg.237
+TDT0000002.1	231997	232308	+	hypothetical protein	6666666.367387.peg.238
+TDT0000002.1	232309	233235	-	Mobile element protein	6666666.367387.peg.239
+TDT0000002.1	233334	235268	-	Helicase PriA essential for oriC/DnaA-independent DNA replication	6666666.367387.peg.240
+TDT0000002.1	235324	236514	-	Phosphoglycerate kinase (EC 2.7.2.3)	6666666.367387.peg.241
+TDT0000002.1	236716	237687	+	hypothetical protein	6666666.367387.peg.242
+TDT0000002.1	237693	238649	-	Mobile element protein	6666666.367387.peg.243
+TDT0000002.1	239059	241071	+	ATP-dependent DNA helicase RecG (EC 3.6.4.12)	6666666.367387.peg.244
+TDT0000002.1	241101	242441	-	hypothetical protein	6666666.367387.peg.245
+TDT0000002.1	242543	243561	-	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)	6666666.367387.peg.246
+TDT0000002.1	243562	246201	-	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)	6666666.367387.peg.247
+TDT0000002.1	246278	246934	-	hypothetical protein	6666666.367387.peg.248
+TDT0000002.1	247000	248340	-	hypothetical protein	6666666.367387.peg.249
+TDT0000002.1	248417	249580	-	hypothetical protein	6666666.367387.peg.250
+TDT0000002.1	249627	250451	-	hypothetical protein	6666666.367387.peg.251
+TDT0000002.1	250616	251743	-	hypothetical protein	6666666.367387.peg.252
+TDT0000002.1	251940	252437	+	FIG01207604: hypothetical protein	6666666.367387.peg.253
+TDT0000002.1	252495	252751	+	FIG01207604: hypothetical protein	6666666.367387.peg.254
+TDT0000002.1	252752	253429	-	Septum-associated rare lipoprotein A	6666666.367387.peg.255
+TDT0000002.1	253507	255150	+	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6666666.367387.peg.256
+TDT0000002.1	255326	255637	+	hypothetical protein	6666666.367387.peg.257
+TDT0000002.1	255714	257042	+	hypothetical protein	6666666.367387.peg.258
+TDT0000002.1	257104	259479	-	DNA gyrase subunit B (EC 5.99.1.3)	6666666.367387.peg.259
+TDT0000002.1	259710	260003	-	hypothetical protein	6666666.367387.peg.260
+TDT0000002.1	260288	260722	-	hypothetical protein	6666666.367387.peg.261
+TDT0000002.1	260823	261980	-	hypothetical protein	6666666.367387.peg.262
+TDT0000002.1	262080	263288	-	ankyrin repeat domain protein	6666666.367387.peg.263
+TDT0000002.1	263363	264319	+	Mobile element protein	6666666.367387.peg.264
+TDT0000002.1	264477	264860	+	hypothetical protein	6666666.367387.peg.265
+TDT0000002.1	265113	265673	+	hypothetical protein	6666666.367387.peg.266
+TDT0000002.1	265704	267092	-	Fumarate hydratase class II (EC 4.2.1.2)	6666666.367387.peg.267
+TDT0000002.1	267277	268080	+	FAD/FMN-containing dehydrogenases	6666666.367387.peg.268
+TDT0000002.1	268147	269538	-	hypothetical protein	6666666.367387.peg.269
+TDT0000002.1	269704	270120	+	hypothetical protein	6666666.367387.peg.270
+TDT0000002.1	270167	270532	+	Transposase	6666666.367387.peg.271
+TDT0000002.1	270574	270936	+	Transposase	6666666.367387.peg.272
+TDT0000002.1	271030	271347	+	hypothetical protein	6666666.367387.peg.273
+TDT0000002.1	271564	272322	+	hypothetical protein	6666666.367387.peg.274
+TDT0000002.1	272610	273950	+	hypothetical protein	6666666.367387.peg.275
+TDT0000002.1	274044	274544	+	hypothetical protein	6666666.367387.peg.276
+TDT0000002.1	274777	275239	-	hypothetical protein	6666666.367387.peg.277
+TDT0000002.1	275240	276253	-	hypothetical protein	6666666.367387.peg.278
+TDT0000002.1	276591	278246	-	Heat shock protein 60 family chaperone GroEL	6666666.367387.peg.279
+TDT0000002.1	278341	278634	-	Heat shock protein 60 family co-chaperone GroES	6666666.367387.peg.280
+TDT0000002.1	278744	279594	+	tRNA-modifying protein YgfZ	6666666.367387.peg.281
+TDT0000002.1	279595	280487	+	Diaminopimelate epimerase (EC 5.1.1.7)	6666666.367387.peg.282
+TDT0000002.1	280488	281375	-	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	6666666.367387.peg.283
+TDT0000002.1	281381	282541	-	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)	6666666.367387.peg.284
+TDT0000002.1	282556	282786	-	SSU ribosomal protein S21p	6666666.367387.peg.285
+TDT0000002.1	282842	284032	-	FIG01208520: hypothetical protein	6666666.367387.peg.286
+TDT0000002.1	284041	284637	-	Recombination protein RecR	6666666.367387.peg.287
+TDT0000002.1	284900	285637	+	hypothetical protein	6666666.367387.peg.288
+TDT0000002.1	285638	286594	-	Mobile element protein	6666666.367387.peg.289
+TDT0000002.1	286635	287564	+	hypothetical protein	6666666.367387.peg.290
+TDT0000002.1	287718	288089	+	Mobile element protein	6666666.367387.peg.291
+TDT0000002.1	288231	289058	+	Mobile element protein	6666666.367387.peg.292
+TDT0000002.1	289118	289615	-	16S rRNA processing protein RimM	6666666.367387.peg.293
+TDT0000002.1	289679	290392	-	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	6666666.367387.peg.294
+TDT0000002.1	290514	291671	+	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)	6666666.367387.peg.295
+TDT0000002.1	291867	293207	+	hypothetical protein	6666666.367387.peg.296
+TDT0000002.1	293414	294675	+	Enolase (EC 4.2.1.11)	6666666.367387.peg.297
+TDT0000002.1	294676	295686	+	GTP-binding protein Obg	6666666.367387.peg.298
+TDT0000002.1	295758	297098	+	hypothetical protein	6666666.367387.peg.299
+TDT0000002.1	297136	298050	-	Surface antigen-related protein	6666666.367387.peg.300
+TDT0000002.1	298108	299382	-	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)	6666666.367387.peg.301
+TDT0000002.1	299484	300680	-	Ribonuclease D (EC 3.1.26.3)	6666666.367387.peg.302
+TDT0000002.1	300736	302070	-	Dihydroorotase (EC 3.5.2.3)	6666666.367387.peg.303
+TDT0000002.1	302208	302642	+	hypothetical protein	6666666.367387.peg.304
+TDT0000002.1	302907	303062	+	hypothetical protein	6666666.367387.peg.305
+TDT0000002.1	303090	305357	-	hypothetical protein	6666666.367387.peg.306
+TDT0000002.1	305700	306350	+	hypothetical protein	6666666.367387.peg.307
+TDT0000002.1	306392	307660	+	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)	6666666.367387.peg.308
+TDT0000002.1	307728	308434	+	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase (EC 2.1.1.201)	6666666.367387.peg.309
+TDT0000002.1	308435	309541	+	Cell division protein FtsW	6666666.367387.peg.310
+TDT0000002.1	309594	310961	+	Malonyl-CoA decarboxylase (EC 4.1.1.9)	6666666.367387.peg.311
+TDT0000002.1	311031	311699	-	hypothetical protein	6666666.367387.peg.312
+TDT0000002.1	311874	314327	-	DNA topoisomerase I (EC 5.99.1.2)	6666666.367387.peg.313
+TDT0000002.1	314532	315473	-	hypothetical protein	6666666.367387.peg.314
+TDT0000002.1	315566	316477	-	Methionyl-tRNA formyltransferase (EC 2.1.2.9)	6666666.367387.peg.315
+TDT0000002.1	316508	316882	-	LSU ribosomal protein L20p	6666666.367387.peg.316
+TDT0000002.1	316901	317104	-	LSU ribosomal protein L35p	6666666.367387.peg.317
+TDT0000002.1	317164	317616	-	hypothetical protein	6666666.367387.peg.318
+TDT0000002.1	317818	318771	+	hypothetical protein	6666666.367387.peg.319
+TDT0000002.1	318830	320167	+	hypothetical protein	6666666.367387.peg.320
+TDT0000002.1	320317	321273	-	Mobile element protein	6666666.367387.peg.321
+TDT0000002.1	321476	321937	+	Periplasmic thiol:disulfide oxidoreductase DsbB%2C required for DsbA reoxidation	6666666.367387.peg.322
+TDT0000002.1	322052	323392	+	hypothetical protein	6666666.367387.peg.323
+TDT0000002.1	323479	324435	-	Mobile element protein	6666666.367387.peg.324
+TDT0000002.1	324510	325271	+	ankyrin repeat domain protein	6666666.367387.peg.325
+TDT0000002.1	325321	326313	-	hypothetical protein	6666666.367387.peg.326
+TDT0000002.1	326391	327731	-	hypothetical protein	6666666.367387.peg.327
+TDT0000002.1	327928	328770	+	hypothetical protein	6666666.367387.peg.328
+TDT0000002.1	328834	329096	-	Cell division protein FtsL	6666666.367387.peg.329
+TDT0000002.1	329097	329969	-	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)	6666666.367387.peg.330
+TDT0000002.1	330180	330986	+	hypothetical protein	6666666.367387.peg.331
+TDT0000002.1	331971	332363	+	hypothetical protein	6666666.367387.peg.332
+TDT0000002.1	332690	333934	+	Uncharacterized MFS-type transporter	6666666.367387.peg.333
+TDT0000002.1	334075	335577	+	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)	6666666.367387.peg.334
+TDT0000002.1	335583	336104	-	hypothetical protein	6666666.367387.peg.335
+TDT0000002.1	336297	337715	+	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)	6666666.367387.peg.336
+TDT0000002.1	337817	337975	-	Mobile element protein	6666666.367387.peg.337
+TDT0000002.1	338067	338438	+	Mobile element protein	6666666.367387.peg.338
+TDT0000002.1	338662	339027	+	Transposase	6666666.367387.peg.339
+TDT0000002.1	339069	339431	+	Transposase	6666666.367387.peg.340
+TDT0000002.1	339510	340265	+	Mobile element protein	6666666.367387.peg.341
+TDT0000002.1	340546	340773	-	hypothetical protein	6666666.367387.peg.342
+TDT0000002.1	340842	341840	-	Ferrochelatase%2C protoheme ferro-lyase (EC 4.99.1.1)	6666666.367387.peg.343
+TDT0000002.1	341983	342549	+	Translation elongation factor P	6666666.367387.peg.344
+TDT0000002.1	342554	343255	+	Inositol-1-monophosphatase (EC 3.1.3.25)	6666666.367387.peg.345
+TDT0000002.1	343722	344492	-	Transcriptional activator protein	6666666.367387.peg.346
+TDT0000002.1	344809	345789	+	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	6666666.367387.peg.347
+TDT0000002.1	345801	346275	+	Phosphatidylglycerophosphatase A (EC 3.1.3.27)	6666666.367387.peg.348
+TDT0000002.1	346276	347046	+	Acetyltransferase%2C GNAT family	6666666.367387.peg.349
+TDT0000002.1	347095	348231	+	Probably membrane associated protein containing PAS/PAC domain	6666666.367387.peg.350
+TDT0000002.1	348333	350243	+	Chaperone protein DnaK	6666666.367387.peg.351
+TDT0000002.1	350411	351613	+	N-succinyl-L%2CL-diaminopimelate desuccinylase (EC 3.5.1.18)	6666666.367387.peg.352
+TDT0000002.1	351626	352294	-	Periplasmic thiol:disulfide interchange protein DsbA	6666666.367387.peg.353
+TDT0000002.1	352349	352792	-	Ribosome association toxin RatA	6666666.367387.peg.354
+TDT0000002.1	353151	354470	+	Sodium:alanine symporter family protein	6666666.367387.peg.355
+TDT0000002.1	354471	355934	+	Sodium:alanine symporter family protein	6666666.367387.peg.356
+TDT0000002.1	356043	356618	+	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)	6666666.367387.peg.357
+TDT0000002.1	356619	357197	-	Dephospho-CoA kinase (EC 2.7.1.24)	6666666.367387.peg.358
+TDT0000002.1	357201	357620	-	hypothetical protein	6666666.367387.peg.359
+TDT0000002.1	357667	358453	+	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	6666666.367387.peg.360
+TDT0000002.1	358454	359650	-	Cysteine desulfurase (EC 2.8.1.7)	6666666.367387.peg.361
+TDT0000002.1	359701	360939	-	Cell division protein FtsA	6666666.367387.peg.362
+TDT0000002.1	361087	361609	+	Peptide deformylase (EC 3.5.1.88)	6666666.367387.peg.363
+TDT0000002.1	361610	362452	+	Uracil-DNA glycosylase%2C family 4 (EC 3.2.2.27)	6666666.367387.peg.364
+TDT0000002.1	362543	363151	+	Superoxide dismutase [Fe] (EC 1.15.1.1)	6666666.367387.peg.365
+TDT0000002.1	363162	364433	+	Mitochondrial processing peptidase-like protein (EC 3.4.24.64)	6666666.367387.peg.366
+TDT0000002.1	364438	364758	-	hypothetical protein	6666666.367387.peg.367
+TDT0000002.1	364890	366182	+	Putrescine-ornithine antiporter	6666666.367387.peg.368
+TDT0000002.1	366198	366693	+	Na+/H+ ion antiporter family protein	6666666.367387.peg.369
+TDT0000002.1	366694	367110	-	hypothetical protein	6666666.367387.peg.370
+TDT0000002.1	367290	367978	-	hypothetical protein	6666666.367387.peg.371
+TDT0000002.1	367979	369374	-	hypothetical protein	6666666.367387.peg.372
+TDT0000002.1	369375	370736	-	Mobile element protein	6666666.367387.peg.373
+TDT0000002.1	370941	371300	-	hypothetical protein	6666666.367387.peg.374
+TDT0000002.1	371618	372637	+	Phage portal protein	6666666.367387.peg.375
+TDT0000002.1	372818	375478	-	hypothetical protein	6666666.367387.peg.376
+TDT0000002.1	375660	376616	+	Mobile element protein	6666666.367387.peg.377
+TDT0000002.1	376650	376979	+	hypothetical protein	6666666.367387.peg.378
+TDT0000002.1	377056	378396	+	hypothetical protein	6666666.367387.peg.379
+TDT0000002.1	378470	378697	-	hypothetical protein	6666666.367387.peg.380
+TDT0000002.1	378909	379865	+	Mobile element protein	6666666.367387.peg.381
+TDT0000002.1	379951	381243	-	Adenylosuccinate synthetase (EC 6.3.4.4)	6666666.367387.peg.382
+TDT0000002.1	381423	382478	-	Mobile element protein	6666666.367387.peg.383
+TDT0000002.1	382529	383869	-	hypothetical protein	6666666.367387.peg.384
+TDT0000002.1	384088	385131	-	hypothetical protein	6666666.367387.peg.385
+TDT0000002.1	385298	387463	+	Phage Host Specificity Protein	6666666.367387.peg.386
+TDT0000002.1	387529	388323	+	Phage Host Specificity Protein	6666666.367387.peg.387
+TDT0000002.1	388515	389348	+	hypothetical protein	6666666.367387.peg.388
+TDT0000002.1	389554	390870	+	hypothetical protein	6666666.367387.peg.389
+TDT0000002.1	390954	392144	-	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)	6666666.367387.peg.390
+TDT0000002.1	392330	393064	+	Disulfide oxidoreductase	6666666.367387.peg.391
+TDT0000002.1	393160	393830	+	Phosphatidylserine decarboxylase (EC 4.1.1.65)	6666666.367387.peg.392
+TDT0000002.1	393831	394592	+	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) @ Archaetidylserine synthase (EC 2.7.8.38)	6666666.367387.peg.393
+TDT0000002.1	394602	395294	+	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	6666666.367387.peg.394
+TDT0000002.1	395393	396052	+	hypothetical protein	6666666.367387.peg.395
+TDT0000002.1	396192	396344	+	hypothetical protein	6666666.367387.peg.396
+TDT0000002.1	396364	397320	+	hypothetical protein	6666666.367387.peg.397
+TDT0000002.1	397515	398528	+	Ferric iron ABC transporter%2C iron-binding protein	6666666.367387.peg.398
+TDT0000002.1	398722	399882	+	Phage major capsid protein	6666666.367387.peg.399
+TDT0000002.1	400007	400810	-	Mobile element protein	6666666.367387.peg.400
+TDT0000002.1	400952	401323	-	Mobile element protein	6666666.367387.peg.401
+TDT0000002.1	401643	402537	+	SSU ribosomal protein S2p (SAe)	6666666.367387.peg.402
+TDT0000002.1	402538	403407	+	Translation elongation factor Ts	6666666.367387.peg.403
+TDT0000002.1	403410	404141	+	Uridine monophosphate kinase (EC 2.7.4.22)	6666666.367387.peg.404
+TDT0000002.1	404145	404702	+	Ribosome recycling factor	6666666.367387.peg.405
+TDT0000002.1	404703	405396	+	Undecaprenyl diphosphate synthase (EC 2.5.1.31)	6666666.367387.peg.406
+TDT0000002.1	405397	406023	+	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	6666666.367387.peg.407
+TDT0000002.1	406041	406918	-	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)	6666666.367387.peg.408
+TDT0000002.1	406919	407797	-	Porphobilinogen deaminase (EC 2.5.1.61)	6666666.367387.peg.409
+TDT0000002.1	407890	409026	-	hypothetical protein	6666666.367387.peg.410
+TDT0000002.1	409036	411045	-	hypothetical protein	6666666.367387.peg.411
+TDT0000002.1	411052	411492	-	hypothetical protein	6666666.367387.peg.412
+TDT0000002.1	411617	411754	-	hypothetical protein	6666666.367387.peg.413
+TDT0000002.1	411785	412648	-	hypothetical protein	6666666.367387.peg.414
+TDT0000002.1	412792	414117	+	Phosphoglucosamine mutase (EC 5.4.2.10)	6666666.367387.peg.415
+TDT0000002.1	414189	414515	+	SSU ribosomal protein S16p	6666666.367387.peg.416
+TDT0000002.1	414525	415493	+	Decaprenyl diphosphate synthase (EC 2.5.1.91)	6666666.367387.peg.417
+TDT0000002.1	415555	416121	+	Heat shock protein GrpE	6666666.367387.peg.418
+TDT0000002.1	416128	417120	+	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6666666.367387.peg.419
+TDT0000002.1	417498	418838	+	hypothetical protein	6666666.367387.peg.420
+TDT0000002.1	418919	419830	-	Signal recognition particle receptor FtsY	6666666.367387.peg.421
+TDT0000002.1	420180	420563	-	hypothetical protein	6666666.367387.peg.422
+TDT0000002.1	420709	420865	-	Mobile element protein	6666666.367387.peg.423
+TDT0000002.1	420866	422050	-	hypothetical protein	6666666.367387.peg.424
+TDT0000002.1	422127	423035	-	hypothetical protein	6666666.367387.peg.425
+TDT0000002.1	423181	423987	-	hypothetical protein	6666666.367387.peg.426
+TDT0000002.1	424160	425926	+	DNA primase (EC 2.7.7.-)	6666666.367387.peg.427
+TDT0000002.1	425974	426711	+	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)	6666666.367387.peg.428
+TDT0000002.1	426816	428660	+	hypothetical protein	6666666.367387.peg.429
+TDT0000002.1	428795	430156	-	Mobile element protein	6666666.367387.peg.430
+TDT0000002.1	430433	430807	+	hypothetical protein	6666666.367387.peg.431
+TDT0000002.1	430959	432698	+	Alkaline protease secretion ATP-binding protein AprD	6666666.367387.peg.432
+TDT0000002.1	432881	433735	+	hypothetical protein	6666666.367387.peg.433
+TDT0000002.1	433879	434421	+	hypothetical protein	6666666.367387.peg.434
+TDT0000002.1	434609	435523	-	Mobile element protein	6666666.367387.peg.435
+TDT0000002.1	435612	435977	+	Transposase	6666666.367387.peg.436
+TDT0000002.1	436019	436381	+	Transposase	6666666.367387.peg.437
+TDT0000002.1	436589	437929	+	hypothetical protein	6666666.367387.peg.438
+TDT0000002.1	438005	438588	-	Septum formation protein Maf	6666666.367387.peg.439
+TDT0000002.1	438589	438819	-	Translation initiation factor 1	6666666.367387.peg.440
+TDT0000002.1	439164	439736	+	hypothetical protein	6666666.367387.peg.441
+TDT0000002.1	439737	441077	-	hypothetical protein	6666666.367387.peg.442
+TDT0000002.1	441285	442241	+	Mobile element protein	6666666.367387.peg.443
+TDT0000002.1	442247	443257	-	hypothetical protein	6666666.367387.peg.444
+TDT0000002.1	443393	446066	+	RecB family exonuclease	6666666.367387.peg.445
+TDT0000002.1	446067	446888	-	hypothetical protein	6666666.367387.peg.446
+TDT0000002.1	446935	447906	-	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)	6666666.367387.peg.447
+TDT0000002.1	448014	448394	+	Protoporphyrinogen IX oxidase%2C novel form%2C HemJ (EC 1.3.-.-)	6666666.367387.peg.448
+TDT0000002.1	448571	449326	-	hypothetical protein	6666666.367387.peg.449
+TDT0000002.1	449408	450547	-	Glutamate--cysteine ligase (EC 6.3.2.2)%2C divergent%2C of Alpha- and Beta-proteobacteria type	6666666.367387.peg.450
+TDT0000002.1	450654	451208	+	ATP-dependent protease subunit HslV (EC 3.4.25.2)	6666666.367387.peg.451
+TDT0000002.1	451210	452679	+	ATP-dependent hsl protease ATP-binding subunit HslU	6666666.367387.peg.452
+TDT0000002.1	452781	453266	+	hypothetical protein	6666666.367387.peg.453
+TDT0000002.1	453307	453669	+	hypothetical protein	6666666.367387.peg.454
+TDT0000002.1	453743	455308	+	GMP synthase [glutamine-hydrolyzing]%2C amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing]%2C ATP pyrophosphatase subunit (EC 6.3.5.2)	6666666.367387.peg.455
+TDT0000002.1	455453	456409	+	Mobile element protein	6666666.367387.peg.456
+TDT0000002.1	456429	457928	-	hypothetical protein	6666666.367387.peg.457
+TDT0000002.1	458020	459787	-	Pentapeptide repeat family protein	6666666.367387.peg.458
+TDT0000002.1	459788	460975	-	Ankyrin repeat domain protein	6666666.367387.peg.459
+TDT0000002.1	461164	462270	+	hypothetical protein	6666666.367387.peg.460
+TDT0000002.1	462338	463678	-	hypothetical protein	6666666.367387.peg.461
+TDT0000002.1	463750	464220	-	hypothetical protein	6666666.367387.peg.462
+TDT0000002.1	464442	465179	-	5'-nucleotidase SurE (EC 3.1.3.5)	6666666.367387.peg.463
+TDT0000002.1	465743	467059	-	hypothetical protein	6666666.367387.peg.464
+TDT0000002.1	467177	468352	-	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)	6666666.367387.peg.465
+TDT0000002.1	468353	468853	-	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)	6666666.367387.peg.466
+TDT0000002.1	468961	470477	-	Penicillin-binding protein PBP2a%2C methicillin resistance determinant MecA%2C transpeptidase	6666666.367387.peg.467
+TDT0000002.1	470478	470780	-	Putative polysaccharide deacetylase	6666666.367387.peg.468
+TDT0000002.1	470841	471293	-	Putative polysaccharide deacetylase	6666666.367387.peg.469
+TDT0000002.1	471384	471941	-	hypothetical protein	6666666.367387.peg.470
+TDT0000002.1	471951	473291	-	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein	6666666.367387.peg.471
+TDT0000002.1	473536	474876	-	hypothetical protein	6666666.367387.peg.472
+TDT0000002.1	475096	476367	-	3-oxoacyl-[acyl-carrier-protein] synthase%2C KASII (EC 2.3.1.179)	6666666.367387.peg.473
+TDT0000002.1	476382	476639	-	Acyl carrier protein	6666666.367387.peg.474
+TDT0000002.1	476755	477538	+	(2E%2C6E)-farnesyl diphosphate synthase (EC 2.5.1.10)	6666666.367387.peg.475
+TDT0000002.1	477539	478408	+	hypothetical protein	6666666.367387.peg.476
+TDT0000002.1	478440	479138	+	Ribonuclease III (EC 3.1.26.3)	6666666.367387.peg.477
+TDT0000002.1	479161	479505	-	hypothetical protein	6666666.367387.peg.478
+TDT0000002.1	479572	480399	-	Mobile element protein	6666666.367387.peg.479
+TDT0000002.1	480541	480912	-	Mobile element protein	6666666.367387.peg.480
+TDT0000002.1	481076	483454	-	hypothetical protein	6666666.367387.peg.481
+TDT0000002.1	483524	483727	-	hypothetical protein	6666666.367387.peg.482
+TDT0000002.1	484198	485154	-	Mobile element protein	6666666.367387.peg.483
+TDT0000002.1	485485	486741	-	hypothetical protein	6666666.367387.peg.484
+TDT0000002.1	486852	488786	-	Excinuclease ABC subunit B	6666666.367387.peg.485
+TDT0000002.1	488998	489666	+	hypothetical protein	6666666.367387.peg.486
+TDT0000002.1	489672	490628	-	Mobile element protein	6666666.367387.peg.487
+TDT0000002.1	490672	490812	-	hypothetical protein	6666666.367387.peg.488
+TDT0000002.1	490844	491293	+	hypothetical protein	6666666.367387.peg.489
+TDT0000002.1	491332	491917	+	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)	6666666.367387.peg.490
+TDT0000002.1	491918	492748	+	DNA polymerase III delta prime subunit (EC 2.7.7.7)	6666666.367387.peg.491
+TDT0000002.1	492813	493604	+	hypothetical protein	6666666.367387.peg.492
+TDT0000002.1	493632	494282	+	Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB8	6666666.367387.peg.493
+TDT0000002.1	494368	494781	+	hypothetical protein	6666666.367387.peg.494
+TDT0000002.1	494934	496274	+	hypothetical protein	6666666.367387.peg.495
+TDT0000002.1	496355	497086	-	Glutathione S-transferase family protein	6666666.367387.peg.496
+TDT0000002.1	497178	498686	+	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	6666666.367387.peg.497
+TDT0000002.1	498690	499022	+	Nucleoid-associated protein YaaK	6666666.367387.peg.498
+TDT0000002.1	499079	499510	+	Transcriptional regulator	6666666.367387.peg.499
+TDT0000002.1	499608	500336	+	surface antigen Wsp	6666666.367387.peg.500
+TDT0000002.1	500703	501716	+	hypothetical protein	6666666.367387.peg.501
+TDT0000002.1	501755	502250	+	Phosphoprotein phosphatase	6666666.367387.peg.502
+TDT0000002.1	502251	503066	+	Phosphoprotein phosphatase	6666666.367387.peg.503
+TDT0000002.1	503152	503319	+	hypothetical protein	6666666.367387.peg.504
+TDT0000002.1	503436	504551	+	hypothetical protein	6666666.367387.peg.505
+TDT0000002.1	504684	505358	-	Mobile element protein	6666666.367387.peg.506
+TDT0000002.1	505500	505871	-	Mobile element protein	6666666.367387.peg.507
+TDT0000002.1	506011	506562	-	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)	6666666.367387.peg.508
+TDT0000002.1	506792	507184	+	Substrate-specific component BioY of biotin ECF transporter	6666666.367387.peg.509
+TDT0000002.1	507213	507575	+	hypothetical protein	6666666.367387.peg.510
+TDT0000002.1	507755	508619	+	RNA polymerase sigma factor RpoH	6666666.367387.peg.511
+TDT0000002.1	508620	509132	+	hypothetical protein	6666666.367387.peg.512
+TDT0000002.1	509181	510663	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase (EC 6.3.2.13)	6666666.367387.peg.513
+TDT0000002.1	510664	511896	-	Cystathionine beta-lyase (EC 4.4.1.8)	6666666.367387.peg.514
+TDT0000002.1	511904	512191	-	Cell division protein BolA	6666666.367387.peg.515
+TDT0000002.1	512398	512863	+	hypothetical protein	6666666.367387.peg.516
+TDT0000002.1	512864	513301	+	hypothetical protein	6666666.367387.peg.517
+TDT0000002.1	513370	514710	-	hypothetical protein	6666666.367387.peg.518
+TDT0000002.1	514831	516178	-	Pole remodelling regulatory diguanylate cyclase	6666666.367387.peg.519
+TDT0000002.1	516179	516480	-	hypothetical protein	6666666.367387.peg.520
+TDT0000002.1	516481	521238	-	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)%2C large form	6666666.367387.peg.521
+TDT0000002.1	521266	523821	-	ClpB protein	6666666.367387.peg.522
+TDT0000002.1	523952	524311	+	hypothetical protein	6666666.367387.peg.523
+TDT0000002.1	524319	525168	-	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)	6666666.367387.peg.524
+TDT0000002.1	525169	525519	-	Ribosome-binding factor A	6666666.367387.peg.525
+TDT0000002.1	525521	527806	-	Translation initiation factor 2	6666666.367387.peg.526
+TDT0000002.1	527811	529340	-	Transcription termination protein NusA	6666666.367387.peg.527
+TDT0000002.1	529548	531758	-	RND multidrug efflux transporter%3B Acriflavin resistance protein	6666666.367387.peg.528
+TDT0000002.1	531825	532466	-	multidrug resistance protein D	6666666.367387.peg.529
+TDT0000002.1	532742	533698	-	Mobile element protein	6666666.367387.peg.530
+TDT0000002.1	534189	534842	-	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)	6666666.367387.peg.531
+TDT0000002.1	534948	536588	+	SSU ribosomal protein S1p	6666666.367387.peg.532
+TDT0000002.1	536594	536866	+	DNA-binding protein%2C HU family	6666666.367387.peg.533
+TDT0000002.1	536889	537203	+	hypothetical protein	6666666.367387.peg.534
+TDT0000002.1	537212	537631	-	Nucleoside diphosphate kinase (EC 2.7.4.6)	6666666.367387.peg.535
+TDT0000002.1	537741	537920	+	hypothetical protein	6666666.367387.peg.536
+TDT0000002.1	538191	539018	-	Mobile element protein	6666666.367387.peg.537
+TDT0000002.1	539160	539531	-	Mobile element protein	6666666.367387.peg.538
+TDT0000002.1	539592	540309	+	hypothetical protein	6666666.367387.peg.539
+TDT0000002.1	540310	540672	-	Transposase	6666666.367387.peg.540
+TDT0000002.1	540714	541079	-	Transposase	6666666.367387.peg.541
+TDT0000002.1	541290	542465	+	hypothetical protein	6666666.367387.peg.542
+TDT0000002.1	542537	543877	+	hypothetical protein	6666666.367387.peg.543
+TDT0000002.1	544135	545157	-	hypothetical protein	6666666.367387.peg.544
+TDT0000002.1	545245	546039	-	NAD kinase (EC 2.7.1.23)	6666666.367387.peg.545
+TDT0000002.1	546074	546292	-	LSU ribosomal protein L31p @ LSU ribosomal protein L31p%2C zinc-independent	6666666.367387.peg.546
+TDT0000002.1	546412	547377	+	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	6666666.367387.peg.547
+TDT0000002.1	547607	548794	-	hypothetical protein	6666666.367387.peg.548
+TDT0000002.1	548989	549309	-	hypothetical protein	6666666.367387.peg.549
+TDT0000002.1	549318	549689	-	hypothetical protein	6666666.367387.peg.550
+TDT0000002.1	549723	550679	-	Mobile element protein	6666666.367387.peg.551
+TDT0000002.1	550723	551970	-	hypothetical protein	6666666.367387.peg.552
+TDT0000002.1	551971	553548	-	hypothetical protein	6666666.367387.peg.553
+TDT0000002.1	553621	554646	-	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)	6666666.367387.peg.554
+TDT0000002.1	554797	555822	+	hypothetical protein	6666666.367387.peg.555
+TDT0000002.1	556041	556997	+	Mobile element protein	6666666.367387.peg.556
+TDT0000002.1	557084	558424	-	hypothetical protein	6666666.367387.peg.557
+TDT0000002.1	558467	558796	-	FIG01208104: hypothetical protein	6666666.367387.peg.558
+TDT0000002.1	558901	559503	-	hypothetical protein	6666666.367387.peg.559
+TDT0000002.1	559696	560061	+	Transposase	6666666.367387.peg.560
+TDT0000002.1	560103	560465	+	Transposase	6666666.367387.peg.561
+TDT0000002.1	560515	561444	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)	6666666.367387.peg.562
+TDT0000002.1	561465	563003	+	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	6666666.367387.peg.563
+TDT0000002.1	563084	563476	+	hypothetical protein	6666666.367387.peg.564
+TDT0000002.1	563526	564782	-	hypothetical protein	6666666.367387.peg.565
+TDT0000002.1	564891	566099	-	hypothetical protein	6666666.367387.peg.566
+TDT0000002.1	566277	567602	-	hypothetical protein	6666666.367387.peg.567
+TDT0000002.1	567637	569415	-	hypothetical protein	6666666.367387.peg.568
+TDT0000002.1	569541	569825	-	hypothetical protein	6666666.367387.peg.569
+TDT0000002.1	569989	571935	-	hypothetical protein	6666666.367387.peg.570
+TDT0000002.1	572165	572896	-	Mobile element protein	6666666.367387.peg.571
+TDT0000002.1	573038	573409	-	Mobile element protein	6666666.367387.peg.572
+TDT0000002.1	573567	574211	-	hypothetical protein	6666666.367387.peg.573
+TDT0000002.1	574489	575004	-	hypothetical protein	6666666.367387.peg.574
+TDT0000002.1	575266	576411	+	hypothetical protein	6666666.367387.peg.575
+TDT0000002.1	576510	577058	+	ankyrin repeat domain protein	6666666.367387.peg.576
+TDT0000002.1	577139	577948	+	hypothetical protein	6666666.367387.peg.577
+TDT0000002.1	578024	579004	+	hypothetical protein	6666666.367387.peg.578
+TDT0000002.1	579052	581559	+	hypothetical protein	6666666.367387.peg.579
+TDT0000002.1	581602	582938	+	hypothetical protein	6666666.367387.peg.580
+TDT0000002.1	582939	583253	-	hypothetical protein	6666666.367387.peg.581
+TDT0000002.1	583262	585070	-	hypothetical protein	6666666.367387.peg.582
+TDT0000002.1	585188	586147	-	hypothetical protein	6666666.367387.peg.583
+TDT0000002.1	586374	588152	+	DNA mismatch repair protein MutL	6666666.367387.peg.584
+TDT0000002.1	588173	589414	-	Tol-Pal system beta propeller repeat protein TolB	6666666.367387.peg.585
+TDT0000002.1	589420	591054	-	Ribonuclease J (endonuclease and 5' exonuclease)	6666666.367387.peg.586
+TDT0000002.1	591159	591932	-	hypothetical protein	6666666.367387.peg.587
+TDT0000002.1	591998	592645	-	hypothetical protein	6666666.367387.peg.588
+TDT0000002.1	592745	592996	-	hypothetical protein	6666666.367387.peg.589
+TDT0000002.1	593123	594090	+	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	6666666.367387.peg.590
+TDT0000002.1	594091	594837	+	Twin-arginine translocation protein TatC	6666666.367387.peg.591
+TDT0000002.1	595051	595422	+	Mobile element protein	6666666.367387.peg.592
+TDT0000002.1	595564	596377	+	Mobile element protein	6666666.367387.peg.593
+TDT0000002.1	596378	596551	-	Mobile element protein	6666666.367387.peg.594
+TDT0000002.1	596557	597561	-	Predicted glutamine amidotransferases	6666666.367387.peg.595
+TDT0000002.1	597809	598327	+	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	6666666.367387.peg.596
+TDT0000002.1	598377	598577	+	hypothetical protein	6666666.367387.peg.597
+TDT0000002.1	598676	598963	-	hypothetical protein	6666666.367387.peg.598
+TDT0000002.1	599055	599426	+	Mobile element protein	6666666.367387.peg.599
+TDT0000002.1	599568	600395	+	Mobile element protein	6666666.367387.peg.600
+TDT0000002.1	600607	601158	+	hypothetical protein	6666666.367387.peg.601
+TDT0000002.1	601207	602217	+	hypothetical protein	6666666.367387.peg.602
+TDT0000002.1	602293	602679	+	hypothetical protein	6666666.367387.peg.603
+TDT0000002.1	602680	603636	-	Mobile element protein	6666666.367387.peg.604
+TDT0000002.1	603705	604049	-	hypothetical protein	6666666.367387.peg.605
+TDT0000002.1	604052	604276	-	hypothetical protein	6666666.367387.peg.606
+TDT0000002.1	604465	604749	-	hypothetical protein	6666666.367387.peg.607
+TDT0000002.1	604998	605645	+	Uncharacterized SAM-dependent O-methyltransferase	6666666.367387.peg.608
+TDT0000002.1	605801	607162	+	hypothetical protein	6666666.367387.peg.609
+TDT0000002.1	607184	607699	-	Inorganic pyrophosphatase (EC 3.6.1.1)	6666666.367387.peg.610
+TDT0000002.1	607786	609078	-	hypothetical protein	6666666.367387.peg.611
+TDT0000002.1	609159	610277	-	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)	6666666.367387.peg.612
+TDT0000002.1	610362	610937	-	Tol-Pal system peptidoglycan-associated lipoprotein PAL	6666666.367387.peg.613
+TDT0000002.1	611089	612474	+	hypothetical protein	6666666.367387.peg.614
+TDT0000002.1	612488	613564	+	Rod shape-determining protein MreB	6666666.367387.peg.615
+TDT0000002.1	613625	614965	-	hypothetical protein	6666666.367387.peg.616
+TDT0000002.1	615069	615524	-	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	6666666.367387.peg.617
+TDT0000002.1	615596	616945	-	hypothetical protein	6666666.367387.peg.618
+TDT0000002.1	617024	618044	+	Thioredoxin reductase (EC 1.8.1.9)	6666666.367387.peg.619
+TDT0000002.1	618045	620501	-	ATP-dependent protease La (EC 3.4.21.53) Type I	6666666.367387.peg.620
+TDT0000002.1	620517	621794	-	ATP-dependent Clp protease ATP-binding subunit ClpX	6666666.367387.peg.621
+TDT0000002.1	621794	622414	-	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	6666666.367387.peg.622
+TDT0000002.1	622427	623770	-	Cell division trigger factor (EC 5.2.1.8)	6666666.367387.peg.623
+TDT0000002.1	624129	624725	+	Putative periplasmic protein	6666666.367387.peg.624
+TDT0000002.1	624740	625657	+	Glutathione synthetase (EC 6.3.2.3)	6666666.367387.peg.625
+TDT0000002.1	625750	626253	-	hypothetical protein	6666666.367387.peg.626
+TDT0000002.1	626351	627058	-	hypothetical protein	6666666.367387.peg.627
+TDT0000002.1	627125	627352	-	hypothetical protein	6666666.367387.peg.628
+TDT0000002.1	627466	628701	+	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	6666666.367387.peg.629
+TDT0000002.1	628914	630250	+	hypothetical protein	6666666.367387.peg.630
+TDT0000002.1	630251	631507	-	hypothetical protein	6666666.367387.peg.631
+TDT0000002.1	631750	632401	-	hypothetical protein	6666666.367387.peg.632
+TDT0000002.1	632402	632743	-	hypothetical protein	6666666.367387.peg.633
+TDT0000002.1	632829	634151	-	DNA recombination protein RmuC	6666666.367387.peg.634
+TDT0000002.1	634250	635776	+	Na(+) H(+) antiporter subunit A	6666666.367387.peg.635
+TDT0000002.1	636058	637908	+	GTP-binding protein TypA/BipA	6666666.367387.peg.636
+TDT0000002.1	638052	639236	-	hypothetical protein	6666666.367387.peg.637
+TDT0000002.1	639569	640318	-	hypothetical protein	6666666.367387.peg.638
+TDT0000002.1	640336	641280	-	Malate dehydrogenase (EC 1.1.1.37)	6666666.367387.peg.639
+TDT0000002.1	641341	641940	-	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)	6666666.367387.peg.640
+TDT0000002.1	642204	644036	-	Cell division protein FtsH	6666666.367387.peg.641
+TDT0000002.1	644136	644786	-	Hydrolase%2C haloacid dehalogenase-like family	6666666.367387.peg.642
+TDT0000002.1	644939	645577	+	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)	6666666.367387.peg.643
+TDT0000002.1	645583	646539	-	Mobile element protein	6666666.367387.peg.644
+TDT0000002.1	646560	647042	+	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)	6666666.367387.peg.645
+TDT0000002.1	647119	647872	+	hypothetical protein	6666666.367387.peg.646
+TDT0000002.1	647873	648460	+	Mobile element protein	6666666.367387.peg.647
+TDT0000002.1	648516	650468	-	RNA polymerase sigma factor RpoD	6666666.367387.peg.648
+TDT0000002.1	650589	650877	-	Na(+) H(+) antiporter subunit C	6666666.367387.peg.649
+TDT0000002.1	650878	651945	-	Na(+) H(+) antiporter subunit B	6666666.367387.peg.650
+TDT0000002.1	652153	652390	-	FIG01207846: hypothetical protein	6666666.367387.peg.651
+TDT0000002.1	652391	652804	-	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)	6666666.367387.peg.652
+TDT0000002.1	652946	653239	-	hypothetical protein	6666666.367387.peg.653
+TDT0000002.1	653558	654112	+	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)	6666666.367387.peg.654
+TDT0000002.1	654209	654532	-	hypothetical protein	6666666.367387.peg.655
+TDT0000002.1	654660	654950	-	Putative oxidoreductase	6666666.367387.peg.656
+TDT0000002.1	655120	655767	+	Phospholipase/carboxylesterase family protein	6666666.367387.peg.657
+TDT0000002.1	655846	657186	-	hypothetical protein	6666666.367387.peg.658
+TDT0000002.1	657410	658015	-	ABC transporter involved in cytochrome c biogenesis%2C ATPase component CcmA	6666666.367387.peg.659
+TDT0000002.1	658019	658456	-	hypothetical protein	6666666.367387.peg.660
+TDT0000002.1	658569	659513	-	hypothetical protein	6666666.367387.peg.661
+TDT0000002.1	659568	660905	-	Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	6666666.367387.peg.662
+TDT0000002.1	661026	664049	+	Phosphoribosylformylglycinamidine synthase%2C PurS subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase%2C synthetase subunit (EC 6.3.5.3)	6666666.367387.peg.663
+TDT0000002.1	664156	665496	-	hypothetical protein	6666666.367387.peg.664
+TDT0000002.1	665640	667061	-	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	6666666.367387.peg.665
+TDT0000002.1	667199	668047	-	hypothetical protein	6666666.367387.peg.666
+TDT0000002.1	668212	669114	-	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)	6666666.367387.peg.667
+TDT0000002.1	669271	670014	-	hypothetical protein	6666666.367387.peg.668
+TDT0000002.1	670264	670725	-	probable iron binding protein from the HesB_IscA_SufA family	6666666.367387.peg.669
+TDT0000002.1	670776	671978	+	dNTP triphosphohydrolase%2C broad substrate specificity	6666666.367387.peg.670
+TDT0000002.1	671978	673141	+	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)	6666666.367387.peg.671
+TDT0000002.1	673142	674482	-	hypothetical protein	6666666.367387.peg.672
+TDT0000002.1	674722	675594	-	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	6666666.367387.peg.673
+TDT0000002.1	675598	676059	-	Single-stranded DNA-binding protein	6666666.367387.peg.674
+TDT0000002.1	676141	677199	-	hypothetical protein	6666666.367387.peg.675
+TDT0000002.1	677377	678521	+	Outer membrane receptor proteins%2C mostly Fe transport	6666666.367387.peg.676
+TDT0000002.1	678522	679880	-	General secretion pathway protein D	6666666.367387.peg.677
+TDT0000002.1	680083	680334	-	hypothetical protein	6666666.367387.peg.678
+TDT0000002.1	680535	681875	-	hypothetical protein	6666666.367387.peg.679
+TDT0000002.1	682051	682392	+	Major pilus subunit of type IV secretion complex%2C VirB2	6666666.367387.peg.680
+TDT0000002.1	682536	682923	+	Major pilus subunit of type IV secretion complex%2C VirB2	6666666.367387.peg.681
+TDT0000002.1	682924	683943	-	Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)	6666666.367387.peg.682
+TDT0000002.1	684055	684534	-	ankyrin repeat domain protein	6666666.367387.peg.683
+TDT0000002.1	684550	685218	-	FIG01207620: hypothetical protein	6666666.367387.peg.684
+TDT0000002.1	685397	686776	-	DNA repair protein RadA	6666666.367387.peg.685
+TDT0000002.1	686826	687083	+	hypothetical protein	6666666.367387.peg.686
+TDT0000002.1	687089	688045	-	Mobile element protein	6666666.367387.peg.687
+TDT0000002.1	688118	689557	-	hypothetical protein	6666666.367387.peg.688
+TDT0000002.1	689689	690618	-	Fructose-1%2C6-bisphosphatase%2C GlpX type (EC 3.1.3.11)	6666666.367387.peg.689
+TDT0000002.1	690913	692253	-	hypothetical protein	6666666.367387.peg.690
+TDT0000002.1	692455	692829	-	4Fe-4S dicluster domain / Domain of unknown function DUF3470	6666666.367387.peg.691
+TDT0000002.1	692958	693125	+	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake	6666666.367387.peg.692
+TDT0000002.1	693225	694079	+	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake	6666666.367387.peg.693
+TDT0000002.1	694097	695899	-	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)	6666666.367387.peg.694
+TDT0000002.1	696076	697203	-	Chaperone protein DnaJ	6666666.367387.peg.695
+TDT0000002.1	697347	698807	-	FIG01207620: hypothetical protein	6666666.367387.peg.696
+TDT0000002.1	698879	700240	-	Mobile element protein	6666666.367387.peg.697
+TDT0000002.1	700589	701545	-	Mobile element protein	6666666.367387.peg.698
+TDT0000002.1	701589	702413	-	hypothetical protein	6666666.367387.peg.699
+TDT0000002.1	702474	703814	+	hypothetical protein	6666666.367387.peg.700
+TDT0000002.1	703956	704159	+	hypothetical protein	6666666.367387.peg.701
+TDT0000002.1	704327	704911	+	hypothetical protein	6666666.367387.peg.702
+TDT0000002.1	704995	705390	+	hypothetical protein	6666666.367387.peg.703
+TDT0000002.1	705557	707132	+	hypothetical protein	6666666.367387.peg.704
+TDT0000002.1	707133	708503	+	Phage tail fiber protein	6666666.367387.peg.705
+TDT0000002.1	708547	709503	+	Mobile element protein	6666666.367387.peg.706
+TDT0000002.1	709509	709703	-	hypothetical protein	6666666.367387.peg.707
+TDT0000002.1	710257	711585	+	Trk potassium uptake system protein TrkH	6666666.367387.peg.708
+TDT0000002.1	711654	712606	+	Mobile element protein	6666666.367387.peg.709
+TDT0000002.1	712607	712819	+	Trk potassium uptake system protein TrkH	6666666.367387.peg.710
+TDT0000002.1	712952	713353	-	hypothetical protein	6666666.367387.peg.711
+TDT0000002.1	713497	714018	+	Cytochrome b561	6666666.367387.peg.712
+TDT0000002.1	714024	715058	+	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)	6666666.367387.peg.713
+TDT0000002.1	715393	716733	-	hypothetical protein	6666666.367387.peg.714
+TDT0000002.1	716854	717136	+	FIG01207941: hypothetical protein	6666666.367387.peg.715
+TDT0000002.1	717137	717526	+	hypothetical protein	6666666.367387.peg.716
+TDT0000002.1	717579	717911	+	hypothetical protein	6666666.367387.peg.717
+TDT0000002.1	717982	718350	+	hypothetical protein	6666666.367387.peg.718
+TDT0000002.1	718351	719073	-	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	6666666.367387.peg.719
+TDT0000002.1	719175	724364	-	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	6666666.367387.peg.720
+TDT0000002.1	724492	726837	-	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	6666666.367387.peg.721
+TDT0000002.1	726881	727309	-	LSU ribosomal protein L7p/L12p (P1/P2)	6666666.367387.peg.722
+TDT0000002.1	727312	727830	-	LSU ribosomal protein L10p (P0)	6666666.367387.peg.723
+TDT0000002.1	727842	728489	-	LSU ribosomal protein L1p (L10Ae)	6666666.367387.peg.724
+TDT0000002.1	728494	728940	-	LSU ribosomal protein L11p (L12e)	6666666.367387.peg.725
+TDT0000002.1	728944	729762	-	Transcription antitermination protein NusG	6666666.367387.peg.726
+TDT0000002.1	730057	731244	-	Translation elongation factor Tu	6666666.367387.peg.727
+TDT0000002.1	731250	733328	-	Translation elongation factor G	6666666.367387.peg.728
+TDT0000002.1	733349	733828	-	SSU ribosomal protein S7p (S5e)	6666666.367387.peg.729
+TDT0000002.1	733835	734209	-	SSU ribosomal protein S12p (S23e)	6666666.367387.peg.730
+TDT0000002.1	734430	737264	+	hypothetical protein	6666666.367387.peg.731
+TDT0000002.1	737388	740078	+	DNA gyrase subunit A (EC 5.99.1.3)	6666666.367387.peg.732
+TDT0000002.1	740167	740652	+	hypothetical protein	6666666.367387.peg.733
+TDT0000002.1	740793	740909	-	hypothetical protein	6666666.367387.peg.734
+TDT0000002.1	740914	742314	-	GTP-binding protein EngA	6666666.367387.peg.735
+TDT0000002.1	742398	743510	+	hypothetical protein	6666666.367387.peg.736
+TDT0000002.1	743664	744023	+	Mobile element protein	6666666.367387.peg.737
+TDT0000002.1	744165	744992	+	Mobile element protein	6666666.367387.peg.738
+TDT0000002.1	745040	745510	-	Thiol peroxidase%2C Bcp-type (EC 1.11.1.15)	6666666.367387.peg.739
+TDT0000002.1	745729	746991	+	L-Proline/Glycine betaine transporter ProP	6666666.367387.peg.740
+TDT0000002.1	747108	748505	+	hypothetical protein	6666666.367387.peg.741
+TDT0000002.1	748627	749967	+	hypothetical protein	6666666.367387.peg.742
+TDT0000002.1	750233	752836	-	Aconitate hydratase (EC 4.2.1.3)	6666666.367387.peg.743
+TDT0000002.1	753227	755932	+	hypothetical protein	6666666.367387.peg.744
+TDT0000002.1	756009	757349	+	hypothetical protein	6666666.367387.peg.745
+TDT0000002.1	757498	758280	-	Exodeoxyribonuclease III (EC 3.1.11.2)	6666666.367387.peg.746
+TDT0000002.1	758280	758987	-	Uroporphyrinogen-III synthase (EC 4.2.1.75)	6666666.367387.peg.747
+TDT0000002.1	759116	760441	-	TldE protein%2C part of TldE/TldD proteolytic complex	6666666.367387.peg.748
+TDT0000002.1	760460	761332	-	ATP synthase gamma chain (EC 3.6.3.14)	6666666.367387.peg.749
+TDT0000002.1	761450	761905	+	hypothetical protein	6666666.367387.peg.750
+TDT0000002.1	762080	762451	+	Mobile element protein	6666666.367387.peg.751
+TDT0000002.1	762593	763420	+	Mobile element protein	6666666.367387.peg.752
+TDT0000002.1	763460	764476	+	ankyrin repeat domain protein	6666666.367387.peg.753
+TDT0000002.1	764743	765192	+	tmRNA-binding protein SmpB	6666666.367387.peg.754
+TDT0000002.1	765199	765975	+	Prolipoprotein diacylglyceryl transferase	6666666.367387.peg.755
+TDT0000002.1	766034	767032	+	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)	6666666.367387.peg.756
+TDT0000002.1	767103	767486	-	hypothetical protein	6666666.367387.peg.757
+TDT0000002.1	767626	768966	+	hypothetical protein	6666666.367387.peg.758
+TDT0000002.1	769022	769525	+	hypothetical protein	6666666.367387.peg.759
+TDT0000002.1	769969	771699	-	Single-stranded-DNA-specific exonuclease RecJ	6666666.367387.peg.760
+TDT0000002.1	771816	773201	+	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	6666666.367387.peg.761
+TDT0000002.1	773298	773576	+	Mobile element protein	6666666.367387.peg.762
+TDT0000002.1	773582	774538	-	Mobile element protein	6666666.367387.peg.763
+TDT0000002.1	774613	775758	+	hypothetical protein	6666666.367387.peg.764
+TDT0000002.1	775868	776143	-	hypothetical protein	6666666.367387.peg.765
+TDT0000002.1	776288	777064	-	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)	6666666.367387.peg.766
+TDT0000002.1	777075	777623	-	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	6666666.367387.peg.767
+TDT0000002.1	777623	778957	-	Sodium:alanine symporter family protein	6666666.367387.peg.768
+TDT0000002.1	779021	780022	-	DNA polymerase III delta subunit (EC 2.7.7.7)	6666666.367387.peg.769
+TDT0000002.1	780028	780213	-	hypothetical protein	6666666.367387.peg.770
+TDT0000002.1	780371	780562	-	hypothetical protein	6666666.367387.peg.771
+TDT0000002.1	780954	781883	+	Auxin efflux carrier family protein	6666666.367387.peg.772
+TDT0000002.1	781913	782851	-	hypothetical protein	6666666.367387.peg.773
+TDT0000002.1	783029	783606	+	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)	6666666.367387.peg.774
+TDT0000002.1	783607	783915	+	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	6666666.367387.peg.775
+TDT0000002.1	783920	785773	+	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	6666666.367387.peg.776
+TDT0000002.1	785810	787215	+	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	6666666.367387.peg.777
+TDT0000002.1	787216	788607	+	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	6666666.367387.peg.778
+TDT0000002.1	788611	789320	+	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)	6666666.367387.peg.779
+TDT0000002.1	789321	789435	+	FIG01207646: hypothetical protein	6666666.367387.peg.780
+TDT0000002.1	789436	789846	+	Cytochrome c-type biogenesis protein CcmE%2C heme chaperone	6666666.367387.peg.781
+TDT0000002.1	789928	791268	-	hypothetical protein	6666666.367387.peg.782
+TDT0000002.1	791494	792117	-	hypothetical protein	6666666.367387.peg.783
+TDT0000002.1	792259	794175	+	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)	6666666.367387.peg.784
+TDT0000002.1	794310	794528	+	RelB/StbD replicon stabilization protein (antitoxin to RelE/StbE)	6666666.367387.peg.785
+TDT0000002.1	794783	795481	+	hypothetical protein	6666666.367387.peg.786
+TDT0000002.1	795485	796123	+	Mobile element protein	6666666.367387.peg.787
+TDT0000002.1	796202	796351	+	hypothetical protein	6666666.367387.peg.788
+TDT0000002.1	796599	797822	+	Ubiquinol-cytochrome C reductase%2C cytochrome B subunit (EC 1.10.2.2)	6666666.367387.peg.789
+TDT0000002.1	797822	798580	+	Ubiquinol-cytochrome C reductase%2C cytochrome C1 subunit	6666666.367387.peg.790
+TDT0000002.1	798676	800271	+	Ferric iron ABC transporter%2C permease protein	6666666.367387.peg.791
+TDT0000002.1	800278	800388	+	hypothetical protein	6666666.367387.peg.792
+TDT0000002.1	800598	801938	-	hypothetical protein	6666666.367387.peg.793
+TDT0000002.1	802015	804246	-	hypothetical protein	6666666.367387.peg.794
+TDT0000002.1	804443	804811	+	hypothetical protein	6666666.367387.peg.795
+TDT0000002.1	804877	805116	+	ankyrin repeat domain protein	6666666.367387.peg.796
+TDT0000002.1	805155	808040	+	hypothetical protein	6666666.367387.peg.797
+TDT0000002.1	808117	808737	+	hypothetical protein	6666666.367387.peg.798
+TDT0000002.1	808738	809694	-	Mobile element protein	6666666.367387.peg.799
+TDT0000002.1	809735	810552	+	Mobile element protein	6666666.367387.peg.800
+TDT0000002.1	810553	811122	-	Peptidyl-tRNA hydrolase (EC 3.1.1.29)	6666666.367387.peg.801
+TDT0000002.1	811122	811745	-	LSU ribosomal protein L25p	6666666.367387.peg.802
+TDT0000002.1	811895	812761	+	Protein translocase subunit SecF	6666666.367387.peg.803
+TDT0000002.1	813372	813743	+	Mobile element protein	6666666.367387.peg.804
+TDT0000002.1	813885	814125	+	transposase-like	6666666.367387.peg.805
+TDT0000002.1	814126	814713	+	Mobile element protein	6666666.367387.peg.806
+TDT0000002.1	815077	815232	-	hypothetical protein	6666666.367387.peg.807
+TDT0000002.1	815254	815952	-	Hydrolase SMc00528%2C alpha/beta fold family	6666666.367387.peg.808
+TDT0000002.1	816236	816877	+	Transaldolase (EC 2.2.1.2)	6666666.367387.peg.809
+TDT0000002.1	817017	817868	+	hypothetical protein	6666666.367387.peg.810
+TDT0000002.1	818091	819078	+	Scaffold protein for [4Fe-4S] cluster assembly ApbC%2C MRP-like	6666666.367387.peg.811
+TDT0000002.1	819079	820242	+	2-polyprenyl-6-methoxyphenol hydroxylase	6666666.367387.peg.812
+TDT0000002.1	820379	821719	-	hypothetical protein	6666666.367387.peg.813
+TDT0000002.1	821791	822289	-	hypothetical protein	6666666.367387.peg.814
+TDT0000002.1	822290	822718	-	hypothetical protein	6666666.367387.peg.815
+TDT0000002.1	822945	824393	+	ATP synthase beta chain (EC 3.6.3.14)	6666666.367387.peg.816
+TDT0000002.1	824399	824723	+	ATP synthase epsilon chain (EC 3.6.3.14)	6666666.367387.peg.817
+TDT0000002.1	824724	825578	+	hypothetical protein	6666666.367387.peg.818
+TDT0000002.1	825660	827000	-	hypothetical protein	6666666.367387.peg.819
+TDT0000002.1	827159	827326	-	Twin-arginine translocation protein TatA	6666666.367387.peg.820
+TDT0000002.1	827435	828187	-	ABC transporter%2C ATP-binding protein	6666666.367387.peg.821
+TDT0000002.1	828402	829754	-	hypothetical protein	6666666.367387.peg.822
+TDT0000002.1	829826	830401	-	hypothetical protein	6666666.367387.peg.823
+TDT0000002.1	830547	831329	+	tRNA pseudouridine(55) synthase (EC 5.4.99.25)	6666666.367387.peg.824
+TDT0000002.1	831373	832329	+	Mobile element protein	6666666.367387.peg.825
+TDT0000002.1	832363	832692	+	hypothetical protein	6666666.367387.peg.826
+TDT0000002.1	832769	834109	+	hypothetical protein	6666666.367387.peg.827
+TDT0000002.1	834163	835154	-	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)	6666666.367387.peg.828
+TDT0000002.1	835155	835733	-	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)	6666666.367387.peg.829
+TDT0000002.1	835840	836322	-	hypothetical protein	6666666.367387.peg.830
+TDT0000002.1	836414	837750	+	hypothetical protein	6666666.367387.peg.831
+TDT0000002.1	837751	837927	-	hypothetical protein	6666666.367387.peg.832
+TDT0000002.1	838205	839632	+	TldD protein%2C part of TldE/TldD proteolytic complex	6666666.367387.peg.833
+TDT0000002.1	839864	840463	+	hypothetical protein	6666666.367387.peg.834
+TDT0000002.1	840507	841463	+	Mobile element protein	6666666.367387.peg.835
+TDT0000002.1	841497	841716	+	transposase-like	6666666.367387.peg.836
+TDT0000002.1	841717	842283	+	Mobile element protein	6666666.367387.peg.837
+TDT0000002.1	842284	843225	-	hypothetical protein	6666666.367387.peg.838
+TDT0000002.1	843402	843628	+	Mobile element protein	6666666.367387.peg.839
+TDT0000002.1	843629	845095	-	NADP-dependent malic enzyme (EC 1.1.1.40)	6666666.367387.peg.840
+TDT0000002.1	845106	845648	+	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	6666666.367387.peg.841
+TDT0000002.1	845753	847093	-	hypothetical protein	6666666.367387.peg.842
+TDT0000002.1	847292	848035	-	hypothetical protein	6666666.367387.peg.843
+TDT0000002.1	848142	849020	-	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	6666666.367387.peg.844
+TDT0000002.1	849024	849579	-	Flavin prenyltransferase UbiX	6666666.367387.peg.845
+TDT0000002.1	849580	849849	-	hypothetical protein	6666666.367387.peg.846
+TDT0000002.1	849863	851146	-	Hemolysins and related proteins containing CBS domains	6666666.367387.peg.847
+TDT0000002.1	851767	853107	-	hypothetical protein	6666666.367387.peg.848
+TDT0000002.1	853419	853745	+	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase) (EC 3.2.1.17)	6666666.367387.peg.849
+TDT0000002.1	853851	854288	-	3-hydroxyacyl-[acyl-carrier-protein] dehydratase%2C FabZ form (EC 4.2.1.59)	6666666.367387.peg.850
+TDT0000002.1	854291	854848	-	Outer membrane protein H precursor	6666666.367387.peg.851
+TDT0000002.1	854849	857200	-	Outer membrane protein assembly factor YaeT	6666666.367387.peg.852
+TDT0000002.1	857201	858313	-	Intramembrane protease RasP/YluC%2C implicated in cell division based on FtsL cleavage	6666666.367387.peg.853
+TDT0000002.1	858401	858652	+	Succinate dehydrogenase flavin-adding protein%2C antitoxin of CptAB toxin-antitoxin	6666666.367387.peg.854
+TDT0000002.1	858710	859197	-	hypothetical protein	6666666.367387.peg.855
+TDT0000002.1	859198	860154	-	Mobile element protein	6666666.367387.peg.856
+TDT0000002.1	860175	861419	+	hypothetical protein	6666666.367387.peg.857
+TDT0000002.1	861473	862813	-	hypothetical protein	6666666.367387.peg.858
+TDT0000002.1	863204	864028	-	hypothetical protein	6666666.367387.peg.859
+TDT0000002.1	864180	865655	-	Amidophosphoribosyltransferase (EC 2.4.2.14)	6666666.367387.peg.860
+TDT0000002.1	866387	867343	+	Mobile element protein	6666666.367387.peg.861
+TDT0000002.1	867559	870360	+	Excinuclease ABC subunit A	6666666.367387.peg.862
+TDT0000002.1	870426	870809	+	hypothetical protein	6666666.367387.peg.863
+TDT0000002.1	870868	871014	+	hypothetical protein	6666666.367387.peg.864
+TDT0000002.1	871131	872471	+	hypothetical protein	6666666.367387.peg.865
+TDT0000002.1	872524	873039	-	Carbonic anhydrase%2C gamma class (EC 4.2.1.1)	6666666.367387.peg.866
+TDT0000002.1	873146	874384	+	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)	6666666.367387.peg.867
+TDT0000002.1	874399	876597	+	hypothetical protein	6666666.367387.peg.868
+TDT0000002.1	876674	878014	-	hypothetical protein	6666666.367387.peg.869
+TDT0000002.1	878091	879404	-	hypothetical protein	6666666.367387.peg.870
+TDT0000002.1	879538	881031	-	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain	6666666.367387.peg.871
+TDT0000002.1	881199	882704	+	Protein translocase subunit SecD	6666666.367387.peg.872
+TDT0000002.1	882782	883006	-	hypothetical protein	6666666.367387.peg.873
+TDT0000002.1	883083	883844	+	UPF0118 membrane protein RT0621	6666666.367387.peg.874
+TDT0000002.1	883849	884490	+	DnaA inactivator Hda (shorter homolog of DnaA)	6666666.367387.peg.875
+TDT0000002.1	884656	884815	+	FIG01208142: hypothetical protein	6666666.367387.peg.876
+TDT0000002.1	884816	885814	+	Site-specific tyrosine recombinase XerD	6666666.367387.peg.877
+TDT0000002.1	885878	886567	+	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	6666666.367387.peg.878
+TDT0000002.1	886659	887615	-	Mobile element protein	6666666.367387.peg.879
+TDT0000002.1	888082	889422	+	hypothetical protein	6666666.367387.peg.880
+TDT0000002.1	889468	890217	-	DNA recombination and repair protein RecO	6666666.367387.peg.881
+TDT0000002.1	890329	891522	+	hypothetical protein	6666666.367387.peg.882
+TDT0000002.1	891580	893553	+	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase%3B Propionyl-CoA carboxylase alpha chain (EC 6.4.1.3)	6666666.367387.peg.883
+TDT0000002.1	893566	895368	-	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	6666666.367387.peg.884
+TDT0000002.1	895393	895815	-	Protein translocase subunit YajC	6666666.367387.peg.885
+TDT0000002.1	895879	896313	-	ApaG protein	6666666.367387.peg.886
+TDT0000002.1	896405	897073	-	hypothetical protein	6666666.367387.peg.887
+TDT0000002.1	897184	898170	-	Ribonucleotide reductase of class Ia (aerobic)%2C beta subunit (EC 1.17.4.1)	6666666.367387.peg.888
+TDT0000002.1	898296	898640	+	putative lipoprotein	6666666.367387.peg.889
+TDT0000002.1	898806	899177	+	Mobile element protein	6666666.367387.peg.890
+TDT0000002.1	899319	899643	+	transposase-like	6666666.367387.peg.891
+TDT0000002.1	899644	900984	-	hypothetical protein	6666666.367387.peg.892
+TDT0000002.1	901084	901980	-	Acetylglutamate kinase (EC 2.7.2.8)	6666666.367387.peg.893
+TDT0000002.1	901985	902569	-	GTP-binding protein EngB	6666666.367387.peg.894
+TDT0000002.1	902653	903732	+	Peptide chain release factor 1	6666666.367387.peg.895
+TDT0000002.1	903861	904181	+	Multidrug and toxin extrusion (MATE) family efflux pump YdhE/NorM%2C homolog	6666666.367387.peg.896
+TDT0000002.1	904184	904513	+	small multidrug resistance family (SMR) protein	6666666.367387.peg.897
+TDT0000002.1	905125	906081	-	Mobile element protein	6666666.367387.peg.898
+TDT0000002.1	906235	907143	+	hypothetical protein	6666666.367387.peg.899
+TDT0000002.1	907220	908560	+	hypothetical protein	6666666.367387.peg.900
+TDT0000002.1	908618	909181	-	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	6666666.367387.peg.901
+TDT0000002.1	909222	910458	-	Tyrosyl-tRNA synthetase (EC 6.1.1.1)	6666666.367387.peg.902
+TDT0000002.1	910459	911392	-	hypothetical protein	6666666.367387.peg.903
+TDT0000002.1	911393	913030	-	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.904
+TDT0000002.1	913784	914296	-	hypothetical protein	6666666.367387.peg.905
+TDT0000002.1	914530	915870	-	hypothetical protein	6666666.367387.peg.906
+TDT0000002.1	915947	916276	-	hypothetical protein	6666666.367387.peg.907
+TDT0000002.1	916310	917266	-	Mobile element protein	6666666.367387.peg.908
+TDT0000002.1	917494	918711	+	Putative permease	6666666.367387.peg.909
+TDT0000002.1	918889	919827	+	hypothetical protein	6666666.367387.peg.910
+TDT0000002.1	920471	920629	+	hypothetical protein	6666666.367387.peg.911
+TDT0000002.1	920669	921916	+	Serine hydroxymethyltransferase (EC 2.1.2.1)	6666666.367387.peg.912
+TDT0000002.1	921944	923320	+	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	6666666.367387.peg.913
+TDT0000002.1	923321	924427	-	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	6666666.367387.peg.914
+TDT0000002.1	924494	924985	-	Smr domain family protein	6666666.367387.peg.915
+TDT0000002.1	925064	925593	+	hypothetical protein	6666666.367387.peg.916
+TDT0000002.1	925594	926346	+	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)	6666666.367387.peg.917
+TDT0000002.1	926423	927145	+	Integral membrane protein	6666666.367387.peg.918
+TDT0000002.1	927146	927682	+	Cytochrome oxidase biogenesis protein Cox11-CtaG%2C copper delivery to Cox1	6666666.367387.peg.919
+TDT0000002.1	928010	928820	+	S-adenosylmethionine synthetase (EC 2.5.1.6)	6666666.367387.peg.920
+TDT0000002.1	928821	929162	+	S-adenosylmethionine synthetase (EC 2.5.1.6)	6666666.367387.peg.921
+TDT0000002.1	929366	930706	-	hypothetical protein	6666666.367387.peg.922
+TDT0000002.1	930834	931536	+	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety%2C TenA subgroup with Cys in active site	6666666.367387.peg.923
+TDT0000002.1	931537	932181	+	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety%2C TenA subgroup with Cys in active site	6666666.367387.peg.924
+TDT0000002.1	932288	933614	+	hypothetical protein	6666666.367387.peg.925
+TDT0000002.1	933615	934031	-	Ribonuclease HII (EC 3.1.26.4)	6666666.367387.peg.926
+TDT0000002.1	934631	936307	-	Xaa-Pro aminopeptidase (EC 3.4.11.9)	6666666.367387.peg.927
+TDT0000002.1	936416	938174	-	Chaperone protein HscA	6666666.367387.peg.928
+TDT0000002.1	938175	938634	-	Chaperone protein HscB	6666666.367387.peg.929
+TDT0000002.1	938635	939016	-	Iron-sulfur cluster assembly iron binding protein IscA	6666666.367387.peg.930
+TDT0000002.1	939017	939436	-	Iron-sulfur cluster assembly scaffold protein IscU	6666666.367387.peg.931
+TDT0000002.1	939565	940755	+	Multidrug resistance transporter%2C Bcr/CflA family	6666666.367387.peg.932
+TDT0000002.1	940756	941199	-	hypothetical protein	6666666.367387.peg.933
+TDT0000002.1	941418	941780	-	Transposase	6666666.367387.peg.934
+TDT0000002.1	941822	942187	-	Transposase	6666666.367387.peg.935
+TDT0000002.1	942206	942559	-	hypothetical protein	6666666.367387.peg.936
+TDT0000002.1	942691	943248	+	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	6666666.367387.peg.937
+TDT0000002.1	943332	944033	+	competence lipoprotein ComL%2C putative	6666666.367387.peg.938
+TDT0000002.1	944044	944496	-	hypothetical protein	6666666.367387.peg.939
+TDT0000002.1	944510	945077	-	Mobile element protein	6666666.367387.peg.940
+TDT0000002.1	945078	945851	-	hypothetical protein	6666666.367387.peg.941
+TDT0000002.1	945923	946117	-	hypothetical protein	6666666.367387.peg.942
+TDT0000002.1	946123	946629	-	hypothetical protein	6666666.367387.peg.943
+TDT0000002.1	946797	948025	-	Histidyl-tRNA synthetase (EC 6.1.1.21)	6666666.367387.peg.944
+TDT0000002.1	948026	948589	-	NifU domain protein	6666666.367387.peg.945
+TDT0000002.1	948687	949004	+	DnaJ domain protein	6666666.367387.peg.946
+TDT0000002.1	949187	950143	-	Mobile element protein	6666666.367387.peg.947
+TDT0000002.1	950212	950748	-	hypothetical protein	6666666.367387.peg.948
+TDT0000002.1	950882	952883	+	Cytochrome c heme lyase subunit CcmF	6666666.367387.peg.949
+TDT0000002.1	952884	954014	-	putative membrane protein	6666666.367387.peg.950
+TDT0000002.1	954164	955504	-	hypothetical protein	6666666.367387.peg.951
+TDT0000002.1	955746	957077	-	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE	6666666.367387.peg.952
+TDT0000002.1	957211	957786	+	hypothetical protein	6666666.367387.peg.953
+TDT0000002.1	957824	957973	-	hypothetical protein	6666666.367387.peg.954
+TDT0000002.1	958038	958841	+	hypothetical protein	6666666.367387.peg.955
+TDT0000002.1	958882	959328	-	Competence protein F homolog%2C phosphoribosyltransferase domain%3B protein YhgH required for utilization of DNA as sole source of carbon and energy	6666666.367387.peg.956
+TDT0000002.1	959527	960846	+	hypothetical protein	6666666.367387.peg.957
+TDT0000002.1	960847	961485	-	hypothetical protein	6666666.367387.peg.958
+TDT0000002.1	961570	963339	-	Efflux ABC transporter%2C permease/ATP-binding protein	6666666.367387.peg.959
+TDT0000002.1	963391	964773	-	Chromosomal replication initiator protein DnaA	6666666.367387.peg.960
+TDT0000002.1	965073	965813	+	Putative glutamine synthetase%2C Rickettsiales type (EC 6.3.1.2)	6666666.367387.peg.961
+TDT0000002.1	965870	967210	-	hypothetical protein	6666666.367387.peg.962
+TDT0000002.1	967371	967661	-	Excinuclease ABC%2C C subunit-like	6666666.367387.peg.963
+TDT0000002.1	967780	968736	+	Mobile element protein	6666666.367387.peg.964
+TDT0000002.1	968904	969194	-	hypothetical protein	6666666.367387.peg.965
+TDT0000002.1	969444	969794	-	hypothetical protein	6666666.367387.peg.966
+TDT0000002.1	969935	970915	+	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)	6666666.367387.peg.967
+TDT0000002.1	970958	972298	+	hypothetical protein	6666666.367387.peg.968
+TDT0000002.1	972338	974734	-	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	6666666.367387.peg.969
+TDT0000002.1	974825	975559	-	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	6666666.367387.peg.970
+TDT0000002.1	975628	978099	-	Sensory box histidine kinase/response regulator	6666666.367387.peg.971
+TDT0000002.1	978219	979043	+	Coproporphyrinogen III oxidase%2C aerobic (EC 1.3.3.3)	6666666.367387.peg.972
+TDT0000002.1	979087	979930	+	Aspartate carbamoyltransferase (EC 2.1.3.2)	6666666.367387.peg.973
+TDT0000002.1	979931	980650	+	Ribonuclease D related protein	6666666.367387.peg.974
+TDT0000002.1	980696	981064	+	Thioredoxin	6666666.367387.peg.975
+TDT0000002.1	981289	982629	+	hypothetical protein	6666666.367387.peg.976
+TDT0000002.1	982693	983085	-	hypothetical protein	6666666.367387.peg.977
+TDT0000002.1	983143	983787	-	hypothetical protein	6666666.367387.peg.978
+TDT0000002.1	983843	984208	+	Transposase	6666666.367387.peg.979
+TDT0000002.1	984250	984612	+	Transposase	6666666.367387.peg.980
+TDT0000002.1	984716	985996	-	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	6666666.367387.peg.981
+TDT0000002.1	986067	986501	+	hypothetical protein shared among alpha-Proteobacteria	6666666.367387.peg.982
+TDT0000002.1	986504	987148	-	hypothetical protein	6666666.367387.peg.983
+TDT0000002.1	987273	987935	+	Lipoprotein-releasing system ATP-binding protein LolD	6666666.367387.peg.984
+TDT0000002.1	988136	989476	-	hypothetical protein	6666666.367387.peg.985
+TDT0000002.1	989761	990228	+	DNA internalization-related competence protein ComEC/Rec2	6666666.367387.peg.986
+TDT0000002.1	990294	991271	+	DNA internalization-related competence protein ComEC/Rec2	6666666.367387.peg.987
+TDT0000002.1	991315	991911	+	DNA internalization-related competence protein ComEC/Rec2	6666666.367387.peg.988
+TDT0000002.1	991973	992554	+	hypothetical protein	6666666.367387.peg.989
+TDT0000002.1	992560	993516	-	Mobile element protein	6666666.367387.peg.990
+TDT0000002.1	993591	994206	+	hypothetical protein	6666666.367387.peg.991
+TDT0000002.1	994207	994521	+	hypothetical protein	6666666.367387.peg.992
+TDT0000002.1	994584	995411	+	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)	6666666.367387.peg.993
+TDT0000002.1	995567	997014	+	hypothetical protein	6666666.367387.peg.994
+TDT0000002.1	997015	997779	-	TPR domain protein	6666666.367387.peg.995
+TDT0000002.1	998009	999001	+	Porphobilinogen synthase (EC 4.2.1.24)	6666666.367387.peg.996
+TDT0000002.1	999100	1000440	+	hypothetical protein	6666666.367387.peg.997
+TDT0000002.1	1000539	1001879	+	hypothetical protein	6666666.367387.peg.998
+TDT0000002.1	1001939	1002457	-	Translation initiation factor 3	6666666.367387.peg.999
+TDT0000002.1	1002470	1004371	-	Threonyl-tRNA synthetase (EC 6.1.1.3)	6666666.367387.peg.1000
+TDT0000002.1	1004381	1004863	-	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	6666666.367387.peg.1001
+TDT0000002.1	1004939	1005502	-	DNA-3-methyladenine glycosylase	6666666.367387.peg.1002
+TDT0000002.1	1005924	1006076	+	hypothetical protein	6666666.367387.peg.1003
+TDT0000002.1	1006159	1007115	-	Mobile element protein	6666666.367387.peg.1004
+TDT0000002.1	1007184	1008188	-	hypothetical protein	6666666.367387.peg.1005
+TDT0000002.1	1008347	1009081	-	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)	6666666.367387.peg.1006
+TDT0000002.1	1009081	1009608	-	cytochrome c-1	6666666.367387.peg.1007
+TDT0000002.1	1009767	1010565	+	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)	6666666.367387.peg.1008
+TDT0000002.1	1010566	1011066	+	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)	6666666.367387.peg.1009
+TDT0000002.1	1011090	1011443	+	Periplasmic divalent cation tolerance protein CutA	6666666.367387.peg.1010
+TDT0000002.1	1011707	1012285	+	hypothetical protein	6666666.367387.peg.1011
+TDT0000002.1	1012424	1013697	+	Prolyl-tRNA synthetase (EC 6.1.1.15)%2C bacterial type	6666666.367387.peg.1012
+TDT0000002.1	1013698	1014061	+	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)	6666666.367387.peg.1013
+TDT0000002.1	1014062	1014178	+	hypothetical protein	6666666.367387.peg.1014
+TDT0000002.1	1014238	1015944	+	Arginyl-tRNA synthetase (EC 6.1.1.19)	6666666.367387.peg.1015
+TDT0000002.1	1016071	1016943	+	hypothetical protein	6666666.367387.peg.1016
+TDT0000002.1	1017105	1017593	+	hypothetical protein	6666666.367387.peg.1017
+TDT0000002.1	1017696	1019036	-	hypothetical protein	6666666.367387.peg.1018
+TDT0000002.1	1019097	1019390	+	hypothetical protein	6666666.367387.peg.1019
+TDT0000002.1	1019437	1020987	-	Methionyl-tRNA synthetase (EC 6.1.1.10)	6666666.367387.peg.1020
+TDT0000002.1	1021142	1021516	-	Major pilus subunit of type IV secretion complex%2C VirB2	6666666.367387.peg.1021
+TDT0000002.1	1021620	1022071	-	Phospholipid ABC transporter substrate-binding protein MlaD	6666666.367387.peg.1022
+TDT0000002.1	1022072	1022371	-	NADH:ubiquinone oxidoreductase 17.2 kD subunit	6666666.367387.peg.1023
+TDT0000002.1	1022429	1023859	+	Na(+) H(+) antiporter subunit D	6666666.367387.peg.1024
+TDT0000002.1	1024045	1024800	-	FIG01208444: hypothetical protein	6666666.367387.peg.1025
+TDT0000002.1	1024908	1027538	-	Leucyl-tRNA synthetase (EC 6.1.1.4)	6666666.367387.peg.1026
+TDT0000002.1	1027552	1028178	-	Murein hydrolase activator NlpD	6666666.367387.peg.1027
+TDT0000002.1	1028220	1029365	+	Aspartokinase (EC 2.7.2.4)	6666666.367387.peg.1028
+TDT0000002.1	1029381	1030604	-	hypothetical protein	6666666.367387.peg.1029
+TDT0000002.1	1031053	1031427	-	Succinate dehydrogenase cytochrome b-556 subunit	6666666.367387.peg.1030
+TDT0000002.1	1033276	1033803	+	hypothetical protein	6666666.367387.peg.1031
+TDT0000002.1	1033823	1034713	-	Peptide chain release factor 2 @ programmed frameshift-containing	6666666.367387.peg.1032
+TDT0000002.1	1035079	1036449	+	Mg/Co/Ni transporter MgtE%2C CBS domain-containing	6666666.367387.peg.1033
+TDT0000002.1	1036475	1039388	-	hypothetical protein	6666666.367387.peg.1034
+TDT0000002.1	1039389	1041707	-	Type IV secretory pathway%2C VirB4 components	6666666.367387.peg.1035
+TDT0000002.1	1041777	1042166	-	hypothetical protein	6666666.367387.peg.1036
+TDT0000002.1	1042290	1043237	-	Site-specific tyrosine recombinase XerC	6666666.367387.peg.1037
+TDT0000002.1	1043240	1044617	-	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	6666666.367387.peg.1038
+TDT0000002.1	1044618	1045673	-	PQQ enzyme repeat family protein	6666666.367387.peg.1039
+TDT0000002.1	1049184	1050197	+	TPR domain protein	6666666.367387.peg.1040
+TDT0000002.1	1050246	1052030	+	Ribonucleotide reductase of class Ia (aerobic)%2C alpha subunit (EC 1.17.4.1)	6666666.367387.peg.1041
+TDT0000002.1	1052047	1053063	-	SAM-dependent methyltransferase%2C MidA	6666666.367387.peg.1042
+TDT0000002.1	1053144	1053515	+	hypothetical protein	6666666.367387.peg.1043
+TDT0000002.1	1053516	1053812	+	hypothetical protein	6666666.367387.peg.1044
+TDT0000002.1	1053884	1054288	-	hypothetical protein	6666666.367387.peg.1045
+TDT0000002.1	1054409	1055209	-	Phosphoribosylformylglycinamidine synthase%2C glutamine amidotransferase subunit (EC 6.3.5.3)	6666666.367387.peg.1046
+TDT0000002.1	1055216	1056457	-	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	6666666.367387.peg.1047
+TDT0000002.1	1056504	1056865	-	LSU ribosomal protein L19p	6666666.367387.peg.1048
+TDT0000002.1	1056866	1057564	-	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)	6666666.367387.peg.1049
+TDT0000002.1	1057646	1058044	-	Major pilus subunit of type IV secretion complex%2C VirB2	6666666.367387.peg.1050
+TDT0000002.1	1058071	1058583	-	Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)	6666666.367387.peg.1051
+TDT0000002.1	1058591	1059547	-	Mobile element protein	6666666.367387.peg.1052
+TDT0000002.1	1059620	1060408	-	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)	6666666.367387.peg.1053
+TDT0000002.1	1060602	1061489	+	NADH-ubiquinone oxidoreductase%2C putative	6666666.367387.peg.1054
+TDT0000002.1	1061865	1062017	+	hypothetical protein	6666666.367387.peg.1055
+TDT0000002.1	1062311	1062682	+	Mobile element protein	6666666.367387.peg.1056
+TDT0000002.1	1062824	1063637	+	Mobile element protein	6666666.367387.peg.1057
+TDT0000002.1	1063638	1064828	-	hypothetical protein	6666666.367387.peg.1058
+TDT0000002.1	1064873	1066087	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)	6666666.367387.peg.1059
+TDT0000002.1	1066172	1066366	+	hypothetical protein	6666666.367387.peg.1060
+TDT0000002.1	1066487	1067827	-	hypothetical protein	6666666.367387.peg.1061
+TDT0000002.1	1067919	1068290	+	FIG01207537: hypothetical protein	6666666.367387.peg.1062
+TDT0000002.1	1068408	1070204	+	Translation elongation factor LepA	6666666.367387.peg.1063
+TDT0000002.1	1070213	1071540	-	Signal recognition particle protein Ffh	6666666.367387.peg.1064
+TDT0000002.1	1071541	1073061	-	Na(+) H(+) antiporter subunit A	6666666.367387.peg.1065
+TDT0000002.1	1073381	1073731	-	hypothetical protein	6666666.367387.peg.1066
+TDT0000002.1	1074047	1074361	-	hypothetical protein	6666666.367387.peg.1067
+TDT0000002.1	1074575	1075710	-	hypothetical protein	6666666.367387.peg.1068
+TDT0000002.1	1075711	1076073	-	Transposase	6666666.367387.peg.1069
+TDT0000002.1	1076115	1076480	-	Transposase	6666666.367387.peg.1070
+TDT0000002.1	1076759	1077529	-	hypothetical protein	6666666.367387.peg.1071
+TDT0000002.1	1077692	1078105	-	hypothetical protein	6666666.367387.peg.1072
+TDT0000002.1	1078108	1079388	-	Cysteinyl-tRNA synthetase (EC 6.1.1.16)	6666666.367387.peg.1073
+TDT0000002.1	1079473	1080123	-	exopolysaccharide synthesis protein ExoD-related protein	6666666.367387.peg.1074
+TDT0000002.1	1080446	1081183	+	hypothetical protein	6666666.367387.peg.1075
+TDT0000002.1	1081248	1082306	-	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)	6666666.367387.peg.1076
+TDT0000002.1	1082539	1083495	-	Mobile element protein	6666666.367387.peg.1077
+TDT0000002.1	1083810	1086659	+	hypothetical protein	6666666.367387.peg.1078
+TDT0000002.1	1086702	1087739	+	hypothetical protein	6666666.367387.peg.1079
+TDT0000002.1	1087812	1088042	+	Mobile element protein	6666666.367387.peg.1080
+TDT0000002.1	1088108	1088419	+	hypothetical protein	6666666.367387.peg.1081
+TDT0000002.1	1088420	1089376	-	Mobile element protein	6666666.367387.peg.1082
+TDT0000002.1	1089858	1091402	-	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)	6666666.367387.peg.1083
+TDT0000002.1	1091515	1091811	+	Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB3	6666666.367387.peg.1084
+TDT0000002.1	1091827	1094224	+	ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB4	6666666.367387.peg.1085
+TDT0000002.1	1094225	1096762	+	Inner membrane protein of type IV secretion of T-DNA complex%2C VirB6	6666666.367387.peg.1086
+TDT0000002.1	1096771	1099545	+	Inner membrane protein of type IV secretion of T-DNA complex%2C VirB6	6666666.367387.peg.1087
+TDT0000002.1	1099549	1102470	+	Inner membrane protein of type IV secretion of T-DNA complex%2C VirB6	6666666.367387.peg.1088
+TDT0000002.1	1102635	1105823	+	Inner membrane protein of type IV secretion of T-DNA complex%2C VirB6	6666666.367387.peg.1089
+TDT0000002.1	1105824	1106489	+	hypothetical protein	6666666.367387.peg.1090
+TDT0000002.1	1106569	1107909	-	hypothetical protein	6666666.367387.peg.1091
+TDT0000002.1	1108241	1109317	-	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)	6666666.367387.peg.1092
+TDT0000002.1	1109509	1109877	+	Ribonuclease P protein component (EC 3.1.26.5)	6666666.367387.peg.1093
+TDT0000002.1	1109968	1110204	+	hypothetical protein	6666666.367387.peg.1094
+TDT0000002.1	1110296	1110814	+	2-polyprenyl-3-methyl-6-methoxy-1%2C4-benzoquinol hydroxylase%2C coq7 type	6666666.367387.peg.1095
+TDT0000002.1	1111462	1112939	+	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.1096
+TDT0000002.1	1112940	1113098	+	hypothetical protein	6666666.367387.peg.1097
+TDT0000002.1	1113146	1113961	+	Rhodanese domain protein UPF0176%2C Rickettsiales subgroup	6666666.367387.peg.1098
+TDT0000002.1	1114048	1114635	+	hypothetical protein	6666666.367387.peg.1099
+TDT0000002.1	1114807	1116225	+	Transcription termination factor Rho	6666666.367387.peg.1100
+TDT0000002.1	1116730	1117736	+	hypothetical protein	6666666.367387.peg.1101
+TDT0000002.1	1117737	1119077	-	hypothetical protein	6666666.367387.peg.1102
+TDT0000002.1	1119235	1120101	-	Thymidylate synthase ThyX (EC 2.1.1.148)	6666666.367387.peg.1103
+TDT0000002.1	1120111	1121379	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	6666666.367387.peg.1104
+TDT0000002.1	1121489	1122243	-	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)	6666666.367387.peg.1105
+TDT0000002.1	1122244	1123032	-	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)	6666666.367387.peg.1106
+TDT0000002.1	1123091	1126564	-	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6666666.367387.peg.1107
+TDT0000002.1	1126631	1126954	-	Uncharacterized monothiol glutaredoxin ycf64-like	6666666.367387.peg.1108
+TDT0000002.1	1127063	1127653	-	Orotate phosphoribosyltransferase (EC 2.4.2.10)	6666666.367387.peg.1109
+TDT0000002.1	1127662	1128846	-	Proton/glutamate symporter @ Sodium/glutamate symporter	6666666.367387.peg.1110
+TDT0000002.1	1128953	1129477	-	hypothetical protein	6666666.367387.peg.1111
+TDT0000002.1	1129898	1131966	+	hypothetical protein	6666666.367387.peg.1112
+TDT0000002.1	1131967	1133019	-	RecA protein	6666666.367387.peg.1113
+TDT0000002.1	1133118	1133940	-	Polysaccharide biosynthesis protein WlaX	6666666.367387.peg.1114
+TDT0000002.1	1133941	1134825	-	GTP-binding protein Era	6666666.367387.peg.1115
+TDT0000002.1	1134927	1135694	-	hypothetical protein	6666666.367387.peg.1116
+TDT0000002.1	1135714	1136226	-	hypothetical protein	6666666.367387.peg.1117
+TDT0000002.1	1136326	1136997	-	Triosephosphate isomerase (EC 5.3.1.1)	6666666.367387.peg.1118
+TDT0000002.1	1137167	1137769	-	homologue of Rhodobacter capsulatus gene transfer agent (GTA) orfg12	6666666.367387.peg.1119
+TDT0000002.1	1137877	1138098	-	hypothetical protein	6666666.367387.peg.1120
+TDT0000002.1	1138175	1138423	-	Cell division protein DivIC (FtsB)%2C stabilizes FtsL against RasP cleavage	6666666.367387.peg.1121
+TDT0000002.1	1138492	1138620	-	LSU ribosomal protein L36p @ LSU ribosomal protein L36p%2C zinc-independent	6666666.367387.peg.1122
+TDT0000002.1	1138826	1140433	+	hypothetical protein	6666666.367387.peg.1123
+TDT0000002.1	1140459	1141277	-	Phosphoenolpyruvate synthase regulatory protein	6666666.367387.peg.1124
+TDT0000002.1	1141326	1141880	-	FIG01208644: hypothetical protein	6666666.367387.peg.1125
+TDT0000002.1	1141921	1142624	+	Mobile element protein	6666666.367387.peg.1126
+TDT0000002.1	1142625	1142876	+	Mobile element protein	6666666.367387.peg.1127
+TDT0000002.1	1143402	1145204	+	hypothetical protein	6666666.367387.peg.1128
+TDT0000002.1	1145287	1146255	+	tRNA-dihydrouridine synthase DusB	6666666.367387.peg.1129
+TDT0000002.1	1146381	1147571	+	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase (EC 4.6.1.12)	6666666.367387.peg.1130
+TDT0000002.1	1147675	1148022	+	hypothetical protein	6666666.367387.peg.1131
+TDT0000002.1	1148023	1148974	-	3-oxoacyl-[acyl-carrier-protein] synthase%2C KASIII (EC 2.3.1.180)	6666666.367387.peg.1132
+TDT0000002.1	1148975	1150003	-	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)	6666666.367387.peg.1133
+TDT0000002.1	1150014	1150196	-	LSU ribosomal protein L32p @ LSU ribosomal protein L32p%2C zinc-independent	6666666.367387.peg.1134
+TDT0000002.1	1150642	1151598	-	Mobile element protein	6666666.367387.peg.1135
+TDT0000002.1	1151667	1151987	-	11L protein	6666666.367387.peg.1136
+TDT0000002.1	1152044	1152703	-	hypothetical protein	6666666.367387.peg.1137
+TDT0000002.1	1153071	1153894	-	hypothetical protein	6666666.367387.peg.1138
+TDT0000002.1	1153895	1154455	-	hypothetical protein	6666666.367387.peg.1139
+TDT0000002.1	1155674	1157014	+	hypothetical protein	6666666.367387.peg.1140
+TDT0000002.1	1157149	1157757	-	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC%2C thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center	6666666.367387.peg.1141
+TDT0000002.1	1157803	1158486	-	DNA polymerase III epsilon subunit (EC 2.7.7.7)	6666666.367387.peg.1142
+TDT0000002.1	1158513	1159163	-	Tim44-like domain protein	6666666.367387.peg.1143
+TDT0000002.1	1159303	1159803	+	Protein-export protein SecB (maintains pre-export unfolded state)	6666666.367387.peg.1144
+TDT0000002.1	1159817	1160077	-	Diacylglycerol kinase (EC 2.7.1.107)	6666666.367387.peg.1145
+TDT0000002.1	1160219	1161256	+	hypothetical protein	6666666.367387.peg.1146
+TDT0000002.1	1161329	1161559	+	Mobile element protein	6666666.367387.peg.1147
+TDT0000002.1	1161903	1162224	+	hypothetical protein	6666666.367387.peg.1148
+TDT0000002.1	1162225	1163648	+	hypothetical protein	6666666.367387.peg.1149
+TDT0000002.1	1163649	1164989	-	hypothetical protein	6666666.367387.peg.1150
+TDT0000002.1	1165122	1165412	+	hypothetical protein	6666666.367387.peg.1151
+TDT0000002.1	1165448	1166701	-	DEAD-box ATP-dependent RNA helicase DeaD ( CshA) (EC 3.6.4.13)	6666666.367387.peg.1152
+TDT0000002.1	1166725	1167000	-	Cold shock protein of CSP family	6666666.367387.peg.1153
+TDT0000002.1	1167248	1167745	-	Cytochrome oxidase biogenesis protein Surf1%2C facilitates heme A insertion	6666666.367387.peg.1154
+TDT0000002.1	1167849	1168325	-	Bacterioferritin (EC 1.16.3.1)	6666666.367387.peg.1155
+TDT0000002.1	1168607	1169512	+	hypothetical protein	6666666.367387.peg.1156
+TDT0000002.1	1169564	1170751	-	Uncharacterized MFS-type transporter	6666666.367387.peg.1157
+TDT0000002.1	1170958	1171737	+	hypothetical protein	6666666.367387.peg.1158
+TDT0000002.1	1171892	1175056	+	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)	6666666.367387.peg.1159
+TDT0000002.1	1175074	1175856	-	Methionine aminopeptidase (EC 3.4.11.18)	6666666.367387.peg.1160
+TDT0000002.1	1175899	1176180	-	hypothetical protein	6666666.367387.peg.1161
+TDT0000002.1	1176183	1176383	-	LSU ribosomal protein L33p @ LSU ribosomal protein L33p%2C zinc-independent	6666666.367387.peg.1162
+TDT0000002.1	1176538	1178262	+	Ribonuclease E (EC 3.1.26.12)	6666666.367387.peg.1163
+TDT0000002.1	1178351	1179801	+	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	6666666.367387.peg.1164
+TDT0000002.1	1179802	1180416	+	hypothetical protein	6666666.367387.peg.1165
+TDT0000002.1	1180563	1180793	-	Mobile element protein	6666666.367387.peg.1166
+TDT0000002.1	1180866	1181903	-	hypothetical protein	6666666.367387.peg.1167
+TDT0000002.1	1181946	1182146	-	hypothetical protein	6666666.367387.peg.1168
+TDT0000002.1	1182149	1182975	-	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	6666666.367387.peg.1169
+TDT0000002.1	1182976	1183755	-	Hydroxyethylthiazole kinase (EC 2.7.1.50)	6666666.367387.peg.1170
+TDT0000002.1	1183761	1184428	-	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	6666666.367387.peg.1171
+TDT0000002.1	1184429	1185540	-	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)	6666666.367387.peg.1172
+TDT0000002.1	1185541	1186982	-	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7) / Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	6666666.367387.peg.1173
+TDT0000002.1	1186983	1187774	-	Thiazole synthase (EC 2.8.1.10)	6666666.367387.peg.1174
+TDT0000002.1	1187778	1187915	-	hypothetical protein	6666666.367387.peg.1175
+TDT0000002.1	1187959	1189046	-	Glycine oxidase ThiO (EC 1.4.3.19)	6666666.367387.peg.1176
+TDT0000002.1	1189047	1190894	-	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)	6666666.367387.peg.1177
+TDT0000002.1	1191311	1191529	-	hypothetical protein	6666666.367387.peg.1178
+TDT0000002.1	1191609	1191746	+	hypothetical protein	6666666.367387.peg.1179
+TDT0000002.1	1192200	1192904	-	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	6666666.367387.peg.1180
+TDT0000002.1	1192996	1194322	+	hypothetical protein	6666666.367387.peg.1181
+TDT0000002.1	1194323	1194631	-	hypothetical protein	6666666.367387.peg.1182
+TDT0000002.1	1194824	1195679	-	Lipoyl synthase (EC 2.8.1.8)	6666666.367387.peg.1183
+TDT0000002.1	1195680	1195994	-	LSU ribosomal protein L28p @ LSU ribosomal protein L28p%2C zinc-independent	6666666.367387.peg.1184
+TDT0000002.1	1196033	1196374	-	Zn-ribbon-containing%2C possibly RNA-binding protein and truncated derivatives	6666666.367387.peg.1185
+TDT0000002.1	1196381	1197799	-	Sensor histidine kinase	6666666.367387.peg.1186
+TDT0000002.1	1197866	1199026	+	Acetylornithine aminotransferase (EC 2.6.1.11)	6666666.367387.peg.1187
+TDT0000002.1	1199112	1199819	+	hypothetical protein	6666666.367387.peg.1188
+TDT0000002.1	1200051	1200275	+	hypothetical protein	6666666.367387.peg.1189
+TDT0000002.1	1200318	1200431	+	hypothetical protein	6666666.367387.peg.1190
+TDT0000002.1	1200476	1201411	+	hypothetical protein	6666666.367387.peg.1191
+TDT0000002.1	1201427	1201657	+	Mobile element protein	6666666.367387.peg.1192
+TDT0000002.1	1201710	1202594	-	hypothetical protein	6666666.367387.peg.1193
+TDT0000002.1	1202716	1205208	+	Valyl-tRNA synthetase (EC 6.1.1.9)	6666666.367387.peg.1194
+TDT0000002.1	1205319	1205870	+	hypothetical protein	6666666.367387.peg.1195
+TDT0000002.1	1205905	1207245	-	hypothetical protein	6666666.367387.peg.1196
+TDT0000002.1	1207420	1208846	-	Ubiquinone biosynthesis regulatory protein kinase UbiB	6666666.367387.peg.1197
+TDT0000002.1	1208847	1209578	-	Zinc ABC transporter%2C ATP-binding protein ZnuC	6666666.367387.peg.1198
+TDT0000002.1	1209579	1210472	+	Zinc ABC transporter%2C substrate-binding protein ZnuA	6666666.367387.peg.1199
+TDT0000002.1	1210592	1210720	+	hypothetical protein	6666666.367387.peg.1200
+TDT0000002.1	1210767	1211132	+	Transposase	6666666.367387.peg.1201
+TDT0000002.1	1211174	1211536	+	Transposase	6666666.367387.peg.1202
+TDT0000002.1	1211660	1211857	+	hypothetical protein	6666666.367387.peg.1203
+TDT0000002.1	1212016	1213356	-	hypothetical protein	6666666.367387.peg.1204
+TDT0000002.1	1213687	1214622	-	DNA-damage-inducible protein d	6666666.367387.peg.1205
+TDT0000002.1	1214905	1215150	-	hypothetical protein	6666666.367387.peg.1206
+TDT0000002.1	1215214	1215576	-	Transposase	6666666.367387.peg.1207
+TDT0000002.1	1215618	1215983	-	Transposase	6666666.367387.peg.1208
+TDT0000002.1	1216030	1216293	-	hypothetical protein	6666666.367387.peg.1209
+TDT0000002.1	1216471	1216614	+	hypothetical protein	6666666.367387.peg.1210
+TDT0000002.1	1216674	1216874	+	hypothetical protein	6666666.367387.peg.1211
+TDT0000002.1	1216990	1217292	+	hypothetical protein	6666666.367387.peg.1212
+TDT0000002.1	1217822	1218589	-	Pantoate--beta-alanine ligase (EC 6.3.2.1)	6666666.367387.peg.1213
+TDT0000002.1	1218703	1219563	-	hypothetical protein	6666666.367387.peg.1214
+TDT0000002.1	1219615	1219974	-	Aspartate 1-decarboxylase (EC 4.1.1.11)	6666666.367387.peg.1215
+TDT0000002.1	1220020	1220811	-	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	6666666.367387.peg.1216
+TDT0000002.1	1220882	1221928	-	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)	6666666.367387.peg.1217
+TDT0000002.1	1222219	1223413	+	Cysteine desulfurase (EC 2.8.1.7) > IscS	6666666.367387.peg.1218
+TDT0000002.1	1223414	1224268	+	AdoMet-AdoHcy transporter 2	6666666.367387.peg.1219
+TDT0000002.1	1224308	1225258	-	Biotin synthase (EC 2.8.1.6)	6666666.367387.peg.1220
+TDT0000002.1	1225314	1226419	+	8-amino-7-oxononanoate synthase (EC 2.3.1.47)	6666666.367387.peg.1221
+TDT0000002.1	1226420	1227038	+	hypothetical protein	6666666.367387.peg.1222
+TDT0000002.1	1227039	1227772	+	hypothetical protein	6666666.367387.peg.1223
+TDT0000002.1	1227773	1228390	+	Dethiobiotin synthetase (EC 6.3.3.3)	6666666.367387.peg.1224
+TDT0000002.1	1228390	1229660	+	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)	6666666.367387.peg.1225
+TDT0000002.1	1229661	1230038	-	Iron-sulfur cluster assembly iron binding protein IscA	6666666.367387.peg.1226
+TDT0000002.1	1230038	1230469	-	Iron-sulfur cluster assembly scaffold protein IscU	6666666.367387.peg.1227
+TDT0000002.1	1230931	1231125	-	hypothetical protein	6666666.367387.peg.1228
+TDT0000002.1	1231372	1231508	+	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	6666666.367387.peg.1229
+TDT0000002.1	1231509	1232210	+	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	6666666.367387.peg.1230
+TDT0000002.1	1232220	1232768	+	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	6666666.367387.peg.1231
+TDT0000002.1	1232852	1233117	+	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	6666666.367387.peg.1232
+TDT0000002.1	1233118	1234458	-	hypothetical protein	6666666.367387.peg.1233
+TDT0000002.1	1234707	1236659	-	DNA ligase (NAD(+)) (EC 6.5.1.2)	6666666.367387.peg.1234
+TDT0000002.1	1236689	1236982	-	hypothetical protein	6666666.367387.peg.1235
+TDT0000002.1	1236990	1238861	-	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.1236
+TDT0000002.1	1239445	1240785	+	hypothetical protein	6666666.367387.peg.1237
+TDT0000002.1	1240876	1241514	-	Endonuclease III (EC 4.2.99.18)	6666666.367387.peg.1238
+TDT0000002.1	1241536	1242843	-	hypothetical protein	6666666.367387.peg.1239
+TDT0000002.1	1243041	1244219	+	some similarities to phage related proteins	6666666.367387.peg.1240
+TDT0000002.1	1244232	1244375	+	Phage uncharacterized protein	6666666.367387.peg.1241
+TDT0000002.1	1244539	1245336	-	CBS domain protein	6666666.367387.peg.1242
+TDT0000002.1	1245753	1246766	+	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)	6666666.367387.peg.1243
+TDT0000002.1	1246802	1247587	-	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	6666666.367387.peg.1244
+TDT0000002.1	1247633	1247911	-	FIG01207933: hypothetical protein	6666666.367387.peg.1245
+TDT0000002.1	1247992	1248282	-	hypothetical protein	6666666.367387.peg.1246
+TDT0000002.1	1248418	1249422	+	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	6666666.367387.peg.1247
+TDT0000002.1	1249535	1250875	+	hypothetical protein	6666666.367387.peg.1248
+TDT0000002.1	1251204	1253318	+	DNA translocase FtsK	6666666.367387.peg.1249
+TDT0000002.1	1253330	1254049	-	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	6666666.367387.peg.1250
+TDT0000002.1	1254167	1254784	+	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)	6666666.367387.peg.1251
+TDT0000002.1	1255197	1255406	+	hypothetical protein	6666666.367387.peg.1252
+TDT0000002.1	1255425	1256183	+	hypothetical protein	6666666.367387.peg.1253
+TDT0000002.1	1256281	1257621	-	hypothetical protein	6666666.367387.peg.1254
+TDT0000002.1	1257750	1258775	-	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	6666666.367387.peg.1255
+TDT0000002.1	1259047	1260321	+	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)	6666666.367387.peg.1256
+TDT0000002.1	1260428	1261103	+	hypothetical protein	6666666.367387.peg.1257
+TDT0000002.1	1261104	1263158	+	hypothetical protein	6666666.367387.peg.1258
+TDT0000002.1	1263279	1263689	-	hypothetical protein	6666666.367387.peg.1259
+TDT0000002.1	1263831	1264856	+	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	6666666.367387.peg.1260
+TDT0000002.1	1264930	1267254	-	ATP-dependent Clp protease ATP-binding subunit ClpA	6666666.367387.peg.1261
+TDT0000002.1	1267469	1268908	+	hypothetical protein	6666666.367387.peg.1262
+TDT0000002.1	1268913	1269521	+	hypothetical protein	6666666.367387.peg.1263
+TDT0000002.1	1269523	1270323	+	hypothetical protein	6666666.367387.peg.1264
+TDT0000002.1	1270335	1271045	-	Cytochrome c-type biogenesis protein CcmC%2C putative heme lyase for CcmE	6666666.367387.peg.1265
+TDT0000002.1	1271112	1271588	-	Putative pre-16S rRNA nuclease Yqg	6666666.367387.peg.1266
+TDT0000002.1	1271624	1271966	-	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)	6666666.367387.peg.1267
+TDT0000002.1	1271967	1272881	-	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	6666666.367387.peg.1268
+TDT0000002.1	1273046	1273870	-	Putative outer membrane protein	6666666.367387.peg.1269
+TDT0000002.1	1274031	1274900	+	hypothetical protein	6666666.367387.peg.1270
+TDT0000002.1	1275195	1276151	-	Mobile element protein	6666666.367387.peg.1271
+TDT0000002.1	1276172	1276477	+	Mobile element protein	6666666.367387.peg.1272
+TDT0000002.1	1276619	1276804	+	transposase-like	6666666.367387.peg.1273
+TDT0000002.1	1276808	1277446	+	Mobile element protein	6666666.367387.peg.1274
+TDT0000002.1	1277523	1279034	-	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	6666666.367387.peg.1275
+TDT0000002.1	1279591	1282281	+	Pyruvate%2Cphosphate dikinase (EC 2.7.9.1)	6666666.367387.peg.1276
+TDT0000002.1	1282367	1283236	+	hypothetical protein	6666666.367387.peg.1277
+TDT0000002.1	1283333	1283731	+	hypothetical protein	6666666.367387.peg.1278
+TDT0000002.1	1283739	1284098	+	hypothetical protein	6666666.367387.peg.1279
+TDT0000002.1	1284273	1285613	+	hypothetical protein	6666666.367387.peg.1280
+TDT0000002.1	1285653	1286129	-	hypothetical protein	6666666.367387.peg.1281
+TDT0000002.1	1286196	1286675	-	hypothetical protein	6666666.367387.peg.1282
+TDT0000002.1	1286975	1288018	-	hypothetical protein	6666666.367387.peg.1283
+TDT0000002.1	1288146	1289018	-	Mobile element protein	6666666.367387.peg.1284
+TDT0000002.1	1289190	1289576	-	hypothetical protein	6666666.367387.peg.1285
+TDT0000002.1	1289710	1290468	-	hypothetical protein	6666666.367387.peg.1286
+TDT0000002.1	1290601	1293060	+	DNA mismatch repair protein MutS	6666666.367387.peg.1287
+TDT0000002.1	1293150	1294085	+	hypothetical protein	6666666.367387.peg.1288
+TDT0000002.1	1294198	1295154	-	Mobile element protein	6666666.367387.peg.1289
+TDT0000002.1	1295255	1295512	+	hypothetical protein	6666666.367387.peg.1290
+TDT0000002.1	1295596	1295893	+	Integration host factor alpha subunit	6666666.367387.peg.1291
+TDT0000002.1	1295894	1296220	+	Transcriptional regulator%2C MerR family	6666666.367387.peg.1292
+TDT0000002.1	1296347	1296985	-	Mobile element protein	6666666.367387.peg.1293
+TDT0000002.1	1296989	1297687	-	hypothetical protein	6666666.367387.peg.1294
+TDT0000002.1	1297805	1298303	-	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	6666666.367387.peg.1295
+TDT0000002.1	1298304	1298921	-	hypothetical protein	6666666.367387.peg.1296
+TDT0000002.1	1299101	1300549	+	hypothetical protein	6666666.367387.peg.1297
+TDT0000002.1	1300553	1301638	+	Phage tail fiber protein	6666666.367387.peg.1298
+TDT0000002.1	1301784	1302299	+	FIG01208381: hypothetical protein	6666666.367387.peg.1299
+TDT0000002.1	1302545	1302976	-	hypothetical protein	6666666.367387.peg.1300
+TDT0000002.1	1303533	1304189	+	Putative preQ0 transporter YhhQ	6666666.367387.peg.1301
+TDT0000002.1	1304213	1304851	-	Mobile element protein	6666666.367387.peg.1302
+TDT0000002.1	1304855	1305553	-	hypothetical protein	6666666.367387.peg.1303
+TDT0000002.1	1305630	1307675	-	Transketolase (EC 2.2.1.1)	6666666.367387.peg.1304
+TDT0000002.1	1307732	1308403	+	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e)%2C zinc-independent	6666666.367387.peg.1305
+TDT0000002.1	1308490	1308720	+	Protein IscX%2C believed to be involved in assembly of Fe-S clusters	6666666.367387.peg.1306
+TDT0000002.1	1308767	1309594	-	Mobile element protein	6666666.367387.peg.1307
+TDT0000002.1	1309736	1310041	-	Mobile element protein	6666666.367387.peg.1308
+TDT0000002.1	1310062	1311018	+	Mobile element protein	6666666.367387.peg.1309
+TDT0000002.1	1311121	1311276	-	hypothetical protein	6666666.367387.peg.1310
+TDT0000002.1	1311295	1312476	-	hypothetical protein	6666666.367387.peg.1311
+TDT0000002.1	1312597	1313178	-	hypothetical protein	6666666.367387.peg.1312
+TDT0000002.1	1313307	1314350	+	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	6666666.367387.peg.1313
+TDT0000002.1	1314355	1315638	+	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	6666666.367387.peg.1314
+TDT0000002.1	1315810	1316181	+	Mobile element protein	6666666.367387.peg.1315
+TDT0000002.1	1316323	1317136	+	Mobile element protein	6666666.367387.peg.1316
+TDT0000002.1	1317137	1317487	-	putative cytochrome c-type biogenesis protein	6666666.367387.peg.1317
+TDT0000002.1	1317513	1318544	-	hypothetical protein	6666666.367387.peg.1318
+TDT0000002.1	1318547	1318906	-	Ferredoxin%2C 2Fe-2S	6666666.367387.peg.1319
+TDT0000002.1	1318940	1319191	-	hypothetical protein	6666666.367387.peg.1320
+TDT0000002.1	1319287	1320399	-	hypothetical protein	6666666.367387.peg.1321
+TDT0000002.1	1320605	1320879	-	hypothetical protein	6666666.367387.peg.1322
+TDT0000002.1	1320880	1321533	-	hypothetical protein	6666666.367387.peg.1323
+TDT0000002.1	1322795	1323889	-	GTP-binding and nucleic acid-binding protein YchF	6666666.367387.peg.1324
+TDT0000002.1	1324021	1324166	+	hypothetical protein	6666666.367387.peg.1325
+TDT0000002.1	1324167	1325300	+	FIG01208342: hypothetical protein	6666666.367387.peg.1326
+TDT0000002.1	1325395	1326222	-	Mobile element protein	6666666.367387.peg.1327
+TDT0000002.1	1326364	1326576	-	Mobile element protein	6666666.367387.peg.1328
+TDT0000002.1	1326621	1326734	-	hypothetical protein	6666666.367387.peg.1329
+TDT0000002.1	1326880	1327839	-	hypothetical protein	6666666.367387.peg.1330
+TDT0000002.1	1328066	1329871	+	DNA mismatch repair protein MutL	6666666.367387.peg.1331
+TDT0000002.1	1329948	1330158	+	hypothetical protein	6666666.367387.peg.1332
+TDT0000002.1	1330159	1330494	+	hypothetical protein	6666666.367387.peg.1333
+TDT0000002.1	1330795	1331433	-	Mobile element protein	6666666.367387.peg.1334
+TDT0000002.1	1331437	1331622	-	transposase-like	6666666.367387.peg.1335
+TDT0000002.1	1331764	1332098	-	Mobile element protein	6666666.367387.peg.1336
+TDT0000002.1	1332099	1332461	-	Transposase	6666666.367387.peg.1337
+TDT0000002.1	1332503	1332868	-	Transposase	6666666.367387.peg.1338
+TDT0000002.1	1333162	1336078	-	hypothetical protein	6666666.367387.peg.1339
+TDT0000002.1	1336079	1336516	-	Ribonuclease HI (EC 3.1.26.4)	6666666.367387.peg.1340
+TDT0000002.1	1336692	1337579	-	Heme O synthase%2C protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB	6666666.367387.peg.1341
+TDT0000002.1	1337581	1339131	-	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	6666666.367387.peg.1342
+TDT0000002.1	1339141	1339911	-	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	6666666.367387.peg.1343
+TDT0000002.1	1340366	1341193	-	Mobile element protein	6666666.367387.peg.1344
+TDT0000002.1	1341335	1341706	-	Mobile element protein	6666666.367387.peg.1345
+TDT0000002.1	1342014	1342577	-	hypothetical protein	6666666.367387.peg.1346
+TDT0000002.1	1343037	1343318	+	hypothetical protein	6666666.367387.peg.1347
+TDT0000002.1	1343419	1343880	+	hypothetical protein	6666666.367387.peg.1348
+TDT0000002.1	1344069	1344221	+	hypothetical protein	6666666.367387.peg.1349
+TDT0000002.1	1344290	1344442	+	hypothetical protein	6666666.367387.peg.1350
+TDT0000002.1	1344632	1345045	+	hypothetical protein	6666666.367387.peg.1351
+TDT0000002.1	1345150	1346613	+	Replicative DNA helicase (DnaB) (EC 3.6.4.12)	6666666.367387.peg.1352
+TDT0000002.1	1346614	1347441	-	Mobile element protein	6666666.367387.peg.1353
+TDT0000002.1	1347590	1347934	-	Mobile element protein	6666666.367387.peg.1354
+TDT0000002.1	1348011	1348331	-	hypothetical protein	6666666.367387.peg.1355
+TDT0000002.1	1348456	1348611	-	hypothetical protein	6666666.367387.peg.1356
+TDT0000002.1	1348703	1350029	+	hypothetical protein	6666666.367387.peg.1357
+TDT0000002.1	1350030	1350629	-	hypothetical protein	6666666.367387.peg.1358
+TDT0000002.1	1350827	1351360	-	hypothetical protein	6666666.367387.peg.1359
+TDT0000002.1	1351563	1353560	+	DNA ligase (NAD(+)) (EC 6.5.1.2)	6666666.367387.peg.1360
+TDT0000002.1	1353617	1354786	+	Multidrug resistance transporter%2C Bcr/CflA family	6666666.367387.peg.1361
+TDT0000002.1	1354872	1355594	-	membrane protein%2C TerC family	6666666.367387.peg.1362
+TDT0000002.1	1355759	1356067	+	Ribosomal silencing factor RsfA	6666666.367387.peg.1363
+TDT0000002.1	1356164	1357039	+	hypothetical protein	6666666.367387.peg.1364
+TDT0000002.1	1357108	1357782	+	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	6666666.367387.peg.1365
+TDT0000002.1	1357819	1358646	-	Mobile element protein	6666666.367387.peg.1366
+TDT0000002.1	1358788	1359159	-	Mobile element protein	6666666.367387.peg.1367
+TDT0000002.1	1359313	1359732	-	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)	6666666.367387.peg.1368
+TDT0000002.1	1359915	1360130	-	hypothetical protein	6666666.367387.peg.1369
+TDT0000002.1	1360170	1361761	-	CTP synthase (EC 6.3.4.2)	6666666.367387.peg.1370
+TDT0000002.1	1361762	1362136	-	Protein translocase membrane subunit SecG	6666666.367387.peg.1371
+TDT0000002.1	1362216	1362893	+	UPF0758 family protein	6666666.367387.peg.1372
+TDT0000002.1	1362945	1363094	-	hypothetical protein	6666666.367387.peg.1373
+TDT0000002.1	1363370	1363645	+	SSU ribosomal protein S20p	6666666.367387.peg.1374
+TDT0000002.1	1363649	1364902	+	Citrate synthase (si) (EC 2.3.3.1)	6666666.367387.peg.1375
+TDT0000002.1	1364993	1365775	+	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)	6666666.367387.peg.1376
+TDT0000002.1	1365779	1366469	+	Probable transcriptional regulatory protein YebC	6666666.367387.peg.1377
+TDT0000002.1	1366470	1367387	+	M23/M37 peptidase domain protein	6666666.367387.peg.1378
+TDT0000002.1	1367424	1368293	+	Membrane protease family protein BA0301	6666666.367387.peg.1379
+TDT0000002.1	1368374	1370176	+	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)	6666666.367387.peg.1380
+TDT0000002.1	1370264	1370887	-	hypothetical protein	6666666.367387.peg.1381
+TDT0000002.1	1371000	1371362	-	Transposase	6666666.367387.peg.1382
+TDT0000002.1	1371404	1371769	-	Transposase	6666666.367387.peg.1383
+TDT0000002.1	1372136	1373476	+	hypothetical protein	6666666.367387.peg.1384
+TDT0000002.1	1373753	1374061	-	DNA-binding protein%2C HU family	6666666.367387.peg.1385
+TDT0000002.1	1374191	1374628	-	SSU ribosomal protein S9p (S16e)	6666666.367387.peg.1386
+TDT0000002.1	1374639	1375097	-	LSU ribosomal protein L13p (L13Ae)	6666666.367387.peg.1387
+TDT0000002.1	1375230	1376483	+	Outer membrane protein	6666666.367387.peg.1388
+TDT0000002.1	1376502	1377023	+	Cell division organizing protein PopZ	6666666.367387.peg.1389
+TDT0000002.1	1377070	1377671	+	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)	6666666.367387.peg.1390
+TDT0000002.1	1377672	1378322	-	Heme exporter protein B	6666666.367387.peg.1391
+TDT0000002.1	1378423	1378806	+	RNA polymerase-binding transcription factor DksA	6666666.367387.peg.1392
+TDT0000002.1	1379022	1379630	+	Guanylate kinase (EC 2.7.4.8)	6666666.367387.peg.1393
+TDT0000002.1	1379649	1380242	-	Thymidylate kinase (EC 2.7.4.9)	6666666.367387.peg.1394
+TDT0000002.1	1380346	1380918	+	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein	6666666.367387.peg.1395
+TDT0000002.1	1380924	1382639	+	Inner membrane protein%2C KefB/KefC family	6666666.367387.peg.1396
+TDT0000002.1	1382686	1383513	-	Mobile element protein	6666666.367387.peg.1397
+TDT0000002.1	1383655	1384026	-	Mobile element protein	6666666.367387.peg.1398
+TDT0000002.1	1384288	1385529	+	hypothetical protein	6666666.367387.peg.1399
+TDT0000002.1	1386102	1387085	+	hypothetical protein	6666666.367387.peg.1400
+TDT0000002.1	1387372	1387821	+	Small heat shock protein	6666666.367387.peg.1401
+TDT0000002.1	1388125	1388634	+	FIG01208608: hypothetical protein	6666666.367387.peg.1402
+TDT0000002.1	1388834	1389202	-	transcriptional regulator%2C putative	6666666.367387.peg.1403
+TDT0000002.1	1389207	1389956	-	Mobile element protein	6666666.367387.peg.1404
+TDT0000002.1	1390166	1390531	+	Transposase	6666666.367387.peg.1405
+TDT0000002.1	1390573	1390935	+	Transposase	6666666.367387.peg.1406
+TDT0000002.1	1391094	1391893	-	Baseplate assembly protein J	6666666.367387.peg.1407
+TDT0000002.1	1391894	1392229	-	prophage LambdaW5%2C baseplate assembly protein W%2C putative	6666666.367387.peg.1408
+TDT0000002.1	1392337	1392591	-	hypothetical protein	6666666.367387.peg.1409
+TDT0000002.1	1392597	1393047	-	FIG01207810: hypothetical protein	6666666.367387.peg.1410
+TDT0000002.1	1393048	1393517	-	hypothetical protein	6666666.367387.peg.1411
+TDT0000002.1	1393518	1395596	-	hypothetical protein	6666666.367387.peg.1412
+TDT0000002.1	1395642	1396973	-	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.1413
+TDT0000002.1	1397486	1398780	-	hypothetical protein	6666666.367387.peg.1414
+TDT0000002.1	1398781	1399275	-	hypothetical protein	6666666.367387.peg.1415
+TDT0000002.1	1399331	1400125	-	hypothetical protein	6666666.367387.peg.1416
+TDT0000002.1	1400143	1400982	-	hypothetical protein	6666666.367387.peg.1417
+TDT0000002.1	1401234	1401722	-	hypothetical protein	6666666.367387.peg.1418
+TDT0000002.1	1401952	1402443	-	FIG01207706: hypothetical protein	6666666.367387.peg.1419
+TDT0000002.1	1402571	1403632	-	Filamentation induced by cAMP protein Fic	6666666.367387.peg.1420
+TDT0000002.1	1405308	1405820	+	Phage protein	6666666.367387.peg.1421
+TDT0000002.1	1406049	1407284	+	DNA modification methylase	6666666.367387.peg.1422
+TDT0000002.1	1407318	1407797	+	hypothetical protein	6666666.367387.peg.1423
+TDT0000002.1	1407818	1409393	+	hypothetical protein	6666666.367387.peg.1424
+TDT0000002.1	1409394	1411223	+	Phage terminase%2C large subunit	6666666.367387.peg.1425
+TDT0000002.1	1411224	1411448	+	hypothetical protein	6666666.367387.peg.1426
+TDT0000002.1	1411608	1413019	+	Phage portal protein	6666666.367387.peg.1427
+TDT0000002.1	1413020	1414135	+	Head-tail preconnector protein GP5	6666666.367387.peg.1428
+TDT0000002.1	1414218	1414592	+	hypothetical protein	6666666.367387.peg.1429
+TDT0000002.1	1414595	1415599	+	Phage protein	6666666.367387.peg.1430
+TDT0000002.1	1415701	1416000	+	hypothetical protein	6666666.367387.peg.1431
+TDT0000002.1	1416003	1416515	+	prophage LambdaW5%2C minor tail protein Z%2C putative	6666666.367387.peg.1432
+TDT0000002.1	1416578	1416976	-	hypothetical protein	6666666.367387.peg.1433
+TDT0000002.1	1417104	1417787	+	hypothetical protein	6666666.367387.peg.1434
+TDT0000002.1	1417814	1419763	+	Virulence-associated protein	6666666.367387.peg.1435
+TDT0000002.1	1419797	1420999	+	hypothetical protein	6666666.367387.peg.1436
+TDT0000002.1	1421001	1421197	+	FIG01208363: hypothetical protein	6666666.367387.peg.1437
+TDT0000002.1	1421198	1422540	+	hypothetical protein	6666666.367387.peg.1438
+TDT0000002.1	1422541	1423176	+	FIG01207608: hypothetical protein	6666666.367387.peg.1439
+TDT0000002.1	1423315	1424514	+	Phage tail sheath monomer	6666666.367387.peg.1440
+TDT0000002.1	1424564	1425070	+	prophage P2W3%2C contractile tail tube protein	6666666.367387.peg.1441
+TDT0000002.1	1425111	1425368	+	hypothetical protein	6666666.367387.peg.1442
+TDT0000002.1	1425478	1427823	+	Phage tail length tape-measure protein	6666666.367387.peg.1443
+TDT0000002.1	1427823	1428175	+	prophage P2W3%2C tail protein U%2C putative	6666666.367387.peg.1444
+TDT0000002.1	1428176	1428391	+	prophage P2W3%2C tail protein X%2C putative	6666666.367387.peg.1445
+TDT0000002.1	1428392	1429333	+	Gene D protein	6666666.367387.peg.1446
+TDT0000002.1	1429394	1429915	+	ankyrin repeat domain protein	6666666.367387.peg.1447
+TDT0000002.1	1429974	1430207	+	hypothetical protein	6666666.367387.peg.1448
+TDT0000002.1	1430242	1431171	+	patatin family protein	6666666.367387.peg.1449
+TDT0000002.1	1431313	1431531	+	Unknown	6666666.367387.peg.1450
+TDT0000002.1	1431570	1431824	+	hypothetical protein	6666666.367387.peg.1451
+TDT0000002.1	1432159	1432293	-	hypothetical protein	6666666.367387.peg.1452
+TDT0000002.1	1432543	1433324	+	ankyrin repeat domain protein	6666666.367387.peg.1453
+TDT0000002.1	1433325	1433573	+	hypothetical protein	6666666.367387.peg.1454
+TDT0000002.1	1433589	1435535	+	DNA ligase (NAD(+)) (EC 6.5.1.2)	6666666.367387.peg.1455
+TDT0000002.1	1435688	1435978	+	hypothetical protein	6666666.367387.peg.1456
+TDT0000002.1	1436914	1438534	+	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	6666666.367387.peg.1457
+TDT0000002.1	1438535	1439467	+	hypothetical protein	6666666.367387.peg.1458
+TDT0000002.1	1439485	1440390	-	hypothetical protein	6666666.367387.peg.1459
+TDT0000002.1	1440410	1441090	-	UPF0758 family protein	6666666.367387.peg.1460
+TDT0000002.1	1441907	1443268	+	Mobile element protein	6666666.367387.peg.1461
+TDT0000002.1	1443346	1444692	+	Mobile element protein	6666666.367387.peg.1462
+TDT0000002.1	1444701	1445021	+	hypothetical protein	6666666.367387.peg.1463
+TDT0000002.1	1445404	1446288	+	SAM-dependent methyltransferase DSY4148 (UbiE paralog)	6666666.367387.peg.1464
+TDT0000002.1	1447031	1447162	-	hypothetical protein	6666666.367387.peg.1465
+TDT0000002.1	1447479	1447601	+	hypothetical protein	6666666.367387.peg.1466
+TDT0000002.1	1447841	1448251	-	hypothetical protein	6666666.367387.peg.1467
+TDT0000002.1	1448422	1449747	-	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)	6666666.367387.peg.1468
+TDT0000002.1	1449907	1450863	+	Mobile element protein	6666666.367387.peg.1469
+TDT0000002.1	1450871	1451206	+	tRNA pseudouridine synthase B (EC 4.2.1.70)	6666666.367387.peg.1470
+TDT0000002.1	1451220	1451492	+	SSU ribosomal protein S15p (S13e)	6666666.367387.peg.1471
+TDT0000002.1	1451506	1453758	+	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	6666666.367387.peg.1472
+TDT0000002.1	1453853	1455019	+	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)	6666666.367387.peg.1473
+TDT0000002.1	1455126	1455497	+	Mobile element protein	6666666.367387.peg.1474
+TDT0000002.1	1455639	1456466	+	Mobile element protein	6666666.367387.peg.1475
+TDT0000002.1	1456539	1458372	-	Excinuclease ABC subunit C	6666666.367387.peg.1476
+TDT0000002.1	1458373	1460490	-	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	6666666.367387.peg.1477
+TDT0000002.1	1460494	1461333	-	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	6666666.367387.peg.1478
+TDT0000002.1	1461389	1462135	-	hypothetical protein	6666666.367387.peg.1479
+TDT0000002.1	1462248	1463951	-	hypothetical protein	6666666.367387.peg.1480
+TDT0000002.1	1464022	1464918	-	Zinc transporter ZitB	6666666.367387.peg.1481
+TDT0000002.1	1465031	1465727	-	Phospholipid ABC transporter ATP-binding protein MlaF	6666666.367387.peg.1482
+TDT0000002.1	1465728	1466510	-	Phospholipid ABC transporter permease protein MlaE	6666666.367387.peg.1483
+TDT0000002.1	1466719	1467582	+	Inner membrane protein YihY%2C formerly thought to be RNase BN	6666666.367387.peg.1484
+TDT0000002.1	1467595	1468332	+	Short-chain alcohol dehydrogenase family enzyme	6666666.367387.peg.1485
+TDT0000002.1	1468434	1469774	+	hypothetical protein	6666666.367387.peg.1486
+TDT0000002.1	1469799	1472939	-	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	6666666.367387.peg.1487
+TDT0000002.1	1473113	1473520	+	Acetyltransferase (EC 2.3.1.-)	6666666.367387.peg.1488
+TDT0000002.1	1473809	1474765	+	Mobile element protein	6666666.367387.peg.1489
+TDT0000002.1	1475242	1476618	+	Glutamyl-tRNA synthetase (EC 6.1.1.17)	6666666.367387.peg.1490
+TDT0000002.1	1476778	1477134	+	hypothetical protein	6666666.367387.peg.1491
+TDT0000002.1	1477182	1477691	+	hypothetical protein	6666666.367387.peg.1492
+TDT0000002.1	1477870	1478952	+	RND efflux system%2C membrane fusion protein	6666666.367387.peg.1493
+TDT0000002.1	1479032	1479424	-	hypothetical protein	6666666.367387.peg.1494
+TDT0000002.1	1479779	1481119	-	hypothetical protein	6666666.367387.peg.1495
+TDT0000002.1	1481317	1482605	-	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)	6666666.367387.peg.1496
+TDT0000002.1	1482606	1483172	-	LSU ribosomal protein L9p	6666666.367387.peg.1497
+TDT0000002.1	1483180	1483454	-	SSU ribosomal protein S18p @ SSU ribosomal protein S18p%2C zinc-independent	6666666.367387.peg.1498
+TDT0000002.1	1483455	1484219	-	SSU ribosomal protein S6p	6666666.367387.peg.1499
+TDT0000002.1	1484268	1487651	-	DNA polymerase III alpha subunit (EC 2.7.7.7)	6666666.367387.peg.1500
+TDT0000002.1	1487810	1488640	-	abortive infection protein family	6666666.367387.peg.1501
+TDT0000002.1	1488895	1489851	-	Mobile element protein	6666666.367387.peg.1502
+TDT0000002.1	1489975	1490127	-	hypothetical protein	6666666.367387.peg.1503
+TDT0000002.1	1490440	1491687	+	Cysteine desulfurase (EC 2.8.1.7) > IscS	6666666.367387.peg.1504
+TDT0000002.1	1491856	1492439	+	hypothetical protein	6666666.367387.peg.1505
+TDT0000002.1	1492440	1493768	+	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)	6666666.367387.peg.1506
+TDT0000002.1	1493775	1493900	-	hypothetical protein	6666666.367387.peg.1507
+TDT0000002.1	1494125	1494707	+	hypothetical protein	6666666.367387.peg.1508
+TDT0000002.1	1494708	1495538	-	Mobile element protein	6666666.367387.peg.1509

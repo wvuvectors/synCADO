@@ -1,0 +1,4 @@
+NZ_AP013028.1	1	1382	+	chromosomal replication initiator protein DnaA	WP_041044912.1	221	73FDFF	DnaA
+NZ_AP013028.1	2029	820581	--+	phosphoesterase-phenylalanine--tRNA ligase subunit alpha	WP_041044914.1-WP_041045978.1	992-167	f3f3f3	671
+NZ_AP013028.1	820582	821820	+	NTP transferase domain-containing protein	WP_041045980.1	468	006600	GlmU
+NZ_AP013028.1	821936	1249746	+--	IS5 family transposase-glutamine synthetase	WP_145971854.1-WP_041046497.1	-1-700	f3f3f3	339

@@ -1,0 +1,15 @@
+NC_007797.1	125	23530	+--	DNA polymerase I-phage portal protein	WP_021798967.1-WP_011450186.1	291-1021	f3f3f3	20
+NC_007797.1	23719	24477	+	methyltransferase domain-containing protein	WP_011450188.1	67	73FDFF	BioC
+NC_007797.1	24534	214888	+	quinolinate synthase NadA-hypothetical protein	WP_011450189.1-WP_155237505.1	740--1	f3f3f3	146
+NC_007797.1	216504	217458	-	biotin synthase BioB	WP_011450360.1	329	0096FF	BioB
+NC_007797.1	217459	509845	--+	hypothetical protein-YihY/virulence factor BrkB family protein	WP_157857196.1-WP_011450602.1	-1-727	f3f3f3	221
+NC_007797.1	509908	511179	+	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_011450603.1	401	FF2600	BioA
+NC_007797.1	511693	812804	+--	hypothetical protein-elongation factor 4	WP_011450604.1-WP_011450865.1	-1-190	f3f3f3	173
+NC_007797.1	813020	813805	-	methyltransferase domain-containing protein	WP_011450866.1	67	73FDFF	BioC
+NC_007797.1	813811	1037069	-	polyribonucleotide nucleotidyltransferase-Fe-S cluster assembly protein IscX	WP_011450867.1-WP_011451055.1	252-717	f3f3f3	137
+NC_007797.1	1037598	1038476	+	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	WP_080502906.1	105	FF9300	BioF
+NC_007797.1	1038813	1073845	-	P44/Msp2 family outer membrane protein-Na+/H+ antiporter subunit E	WP_020849031.1-WP_020849043.1	0-715	f3f3f3	25
+NC_007797.1	1074237	1075373	+	8-amino-7-oxononanoate synthase	WP_011451090.1	105	FF9300	BioF
+NC_007797.1	1075449	1297590	-	P44/Msp2 family outer membrane protein-signal recognition particle-docking protein FtsY	WP_011451091.1-WP_011451264.1	-1-182	f3f3f3	158
+NC_007797.1	1297664	1298341	+	dethiobiotin synthase	WP_011451265.1	119	D4FB79	BioD
+NC_007797.1	1299025	1471214	+--	P44/Msp2 family outer membrane protein-hypothetical protein	WP_011451266.1-WP_011451409.1	0--1	f3f3f3	132

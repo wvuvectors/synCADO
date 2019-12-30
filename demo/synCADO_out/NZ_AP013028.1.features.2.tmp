@@ -1,0 +1,1012 @@
+NZ_AP013028.1	153	1535	+	chromosomal replication initiator protein DnaA	WP_041044912.1	202
+NZ_AP013028.1	2182	3435	-	phosphoesterase	WP_041044914.1	-1
+NZ_AP013028.1	4110	5192	+	GTP cyclohydrolase II RibA	WP_041046499.1	72
+NZ_AP013028.1	5264	5936	+	type IV secretion system protein	WP_041044916.1	670
+NZ_AP013028.1	5937	6737	+	P-type conjugative transfer protein VirB9	WP_041044918.1	753
+NZ_AP013028.1	6754	8241	+	TrbI/VirB10 family protein	WP_041044920.1	1024
+NZ_AP013028.1	8243	9235	+	P-type DNA transfer ATPase VirB11	WP_041044922.1	115
+NZ_AP013028.1	9264	11402	+	TraM recognition domain-containing protein	WP_041044924.1	757
+NZ_AP013028.1	13005	13265	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	13875	16355	-	response regulator	WP_041044930.1	49
+NZ_AP013028.1	16470	17294	+	oxygen-dependent coproporphyrinogen oxidase	WP_041044932.1	595
+NZ_AP013028.1	17873	18655	+	hypothetical protein	WP_084221162.1	945
+NZ_AP013028.1	18661	21261	-	aconitate hydratase AcnA	WP_041044934.1	501
+NZ_AP013028.1	22049	23356	+	DnaJ domain-containing protein	WP_070104823.1	2
+NZ_AP013028.1	23967	26015	+	ATP-dependent DNA helicase RecG	WP_041044937.1	69
+NZ_AP013028.1	26828	27088	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	28278	28767	-	hypothetical protein	WP_041046503.1	-1
+NZ_AP013028.1	28768	29661	-	RNA polymerase sigma factor RpoH	WP_041044940.1	347
+NZ_AP013028.1	29933	30628	-	P44/Msp2 family outer membrane protein	WP_041044942.1	435
+NZ_AP013028.1	30963	31295	-	YbaB/EbfC family nucleoid-associated protein	WP_041044944.1	354
+NZ_AP013028.1	31299	32783	-	DNA polymerase III subunit gamma/tau	WP_041044946.1	103
+NZ_AP013028.1	32987	33640	+	glutathione S-transferase family protein	WP_041044948.1	1571
+NZ_AP013028.1	33642	34292	-	O-methyltransferase	WP_041044950.1	1001
+NZ_AP013028.1	34525	34803	+	hypothetical protein	WP_041044952.1	986
+NZ_AP013028.1	34832	35542	-	thioredoxin domain-containing protein	WP_041044953.1	666
+NZ_AP013028.1	35608	36057	-	type II toxin-antitoxin system RatA family toxin	WP_041044955.1	527
+NZ_AP013028.1	36353	36943	+	ABC transporter substrate-binding protein	WP_084221201.1	370
+NZ_AP013028.1	38162	39307	+	aspartate kinase	WP_041044957.1	129
+NZ_AP013028.1	39973	41046	+	AI-2E family transporter	WP_041044958.1	559
+NZ_AP013028.1	41151	41786	+	chorismate synthase	WP_041046507.1	765
+NZ_AP013028.1	41987	42146	+	hypothetical protein	WP_084221163.1	-1
+NZ_AP013028.1	42147	43133	+	tyrosine recombinase XerD	WP_041044960.1	178
+NZ_AP013028.1	43189	43914	+	1-acyl-sn-glycerol-3-phosphate acyltransferase	WP_041044962.1	96
+NZ_AP013028.1	43965	44234	+	30S ribosomal protein S20	WP_041044964.1	287
+NZ_AP013028.1	44315	45565	+	citrate synthase	WP_041044966.1	482
+NZ_AP013028.1	46616	47386	-	response regulator transcription factor	WP_041044968.1	74
+NZ_AP013028.1	47710	48687	+	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	WP_041044970.1	579
+NZ_AP013028.1	48707	49178	+	phosphatidylglycerophosphatase A	WP_041044972.1	398
+NZ_AP013028.1	49179	49958	+	GNAT family N-acetyltransferase	WP_041044974.1	681
+NZ_AP013028.1	52094	52366	-	IS5 family transposase	WP_041044978.1	446
+NZ_AP013028.1	52440	52877	+	hypothetical protein	WP_145971825.1	-1
+NZ_AP013028.1	52880	53668	-	succinate dehydrogenase iron-sulfur subunit	WP_041044980.1	520
+NZ_AP013028.1	53763	54208	-	rRNA maturation RNase YbeY	WP_041044982.1	361
+NZ_AP013028.1	54209	54607	-	EVE domain-containing protein	WP_041044984.1	693
+NZ_AP013028.1	54607	55797	-	cell division protein FtsZ	WP_041044986.1	330
+NZ_AP013028.1	56050	56634	-	hypothetical protein	WP_052463160.1	-1
+NZ_AP013028.1	56725	58218	-	YifB family Mg chelatase-like AAA ATPase	WP_041044988.1	526
+NZ_AP013028.1	58993	61554	-	ATP-dependent chaperone ClpB	WP_041044990.1	566
+NZ_AP013028.1	62176	63051	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041044992.1	17
+NZ_AP013028.1	63201	64694	-	IMP dehydrogenase	WP_041044994.1	543
+NZ_AP013028.1	64899	65780	+	tetratricopeptide repeat protein	WP_041044996.1	-1
+NZ_AP013028.1	66030	66413	-	leucine-rich repeat domain-containing protein	WP_052463161.1	-1
+NZ_AP013028.1	66419	66685	-	hypothetical protein	WP_145971826.1	-1
+NZ_AP013028.1	66878	68095	+	ankyrin repeat domain-containing protein	WP_070104838.1	-1
+NZ_AP013028.1	68132	69079	-	MFS transporter	WP_052463164.1	-1
+NZ_AP013028.1	69101	69349	-	MFS transporter	WP_052463165.1	-1
+NZ_AP013028.1	72333	73847	+	protein translocase subunit SecD	WP_041044998.1	376
+NZ_AP013028.1	73907	75091	+	dicarboxylate/amino acid:cation symporter	WP_041045000.1	98
+NZ_AP013028.1	75098	75700	+	orotate phosphoribosyltransferase	WP_041045002.1	503
+NZ_AP013028.1	76290	77228	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041045004.1	17
+NZ_AP013028.1	78480	80540	-	hypothetical protein	WP_145971827.1	-1
+NZ_AP013028.1	80600	81964	-	hypothetical protein	WP_052463168.1	-1
+NZ_AP013028.1	82197	82982	+	P-type conjugative transfer protein VirB9	WP_041045008.1	725
+NZ_AP013028.1	83546	84193	+	transcriptional regulator	WP_041045010.1	699
+NZ_AP013028.1	84206	84793	-	RlmE family RNA methyltransferase	WP_041045012.1	111
+NZ_AP013028.1	84867	85451	-	DUF2497 domain-containing protein	WP_041045015.1	1570
+NZ_AP013028.1	85471	86724	-	membrane protein	WP_041045017.1	528
+NZ_AP013028.1	86857	87315	+	50S ribosomal protein L13	WP_041046519.1	320
+NZ_AP013028.1	87326	87772	+	30S ribosomal protein S9	WP_041045019.1	360
+NZ_AP013028.1	87921	88224	+	HU family DNA-binding protein	WP_041045022.1	14
+NZ_AP013028.1	88225	88932	-	pyridoxine 5'-phosphate synthase	WP_041045024.1	674
+NZ_AP013028.1	90663	90956	+	hypothetical protein	WP_145971828.1	-1
+NZ_AP013028.1	90972	91166	+	hypothetical protein	WP_041045028.1	-1
+NZ_AP013028.1	91260	91460	+	hypothetical protein	WP_041045030.1	-1
+NZ_AP013028.1	91863	92912	+	Fic family protein	WP_041045032.1	1577
+NZ_AP013028.1	93007	93791	+	4-hydroxy-tetrahydrodipicolinate reductase	WP_041045034.1	630
+NZ_AP013028.1	93792	94546	+	phosphate ABC transporter ATP-binding protein	WP_041045036.1	53
+NZ_AP013028.1	94547	95725	-	1-deoxy-D-xylulose-5-phosphate reductoisomerase	WP_041045038.1	583
+NZ_AP013028.1	95785	96288	-	hypothetical protein	WP_041045040.1	-1
+NZ_AP013028.1	96399	96830	-	protoporphyrinogen oxidase HemJ	WP_041045043.1	737
+NZ_AP013028.1	96885	97868	+	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha	WP_041046521.1	776
+NZ_AP013028.1	98711	100138	-	metalloprotease TldD	WP_041045045.1	664
+NZ_AP013028.1	100350	100835	+	hypothetical protein	WP_041045047.1	-1
+NZ_AP013028.1	101073	101318	+	hypothetical protein	WP_041045049.1	-1
+NZ_AP013028.1	102148	103638	-	ATP-dependent protease ATPase subunit HslU	WP_041045051.1	395
+NZ_AP013028.1	103640	104194	-	ATP-dependent protease subunit HslV	WP_041045053.1	384
+NZ_AP013028.1	104310	105470	+	glutamate--cysteine ligase	WP_041045055.1	1016
+NZ_AP013028.1	107756	108769	-	ferrochelatase	WP_041045057.1	478
+NZ_AP013028.1	110125	110550	+	nucleoside-diphosphate kinase	WP_041045059.1	356
+NZ_AP013028.1	110584	111462	-	zinc ABC transporter solute-binding protein	WP_041045061.1	581
+NZ_AP013028.1	111463	112199	+	metal ABC transporter ATP-binding protein	WP_041045063.1	565
+NZ_AP013028.1	112200	113630	+	2-polyprenylphenol 6-hydroxylase	WP_041045065.1	484
+NZ_AP013028.1	113863	115092	+	cytochrome b/b6	WP_041045067.1	754
+NZ_AP013028.1	115284	116015	+	cytochrome c1	WP_041046525.1	723
+NZ_AP013028.1	116094	118043	+	excinuclease ABC subunit UvrB	WP_041045069.1	211
+NZ_AP013028.1	118608	119813	-	succinyl-diaminopimelate desuccinylase	WP_041045071.1	831
+NZ_AP013028.1	119856	121214	+	iron-containing alcohol dehydrogenase	WP_041045073.1	1009
+NZ_AP013028.1	121238	122020	-	hypothetical protein	WP_041045075.1	-1
+NZ_AP013028.1	122120	123184	-	DNA-protecting protein DprA	WP_041045077.1	388
+NZ_AP013028.1	123246	123620	+	ferredoxin family protein	WP_041045079.1	709
+NZ_AP013028.1	123851	124778	+	D-alanine--D-alanine ligase	WP_084221165.1	429
+NZ_AP013028.1	124779	125537	+	FtsQ-type POTRA domain-containing protein	WP_041045083.1	716
+NZ_AP013028.1	128743	129366	+	M23 family metallopeptidase	WP_041045087.1	77
+NZ_AP013028.1	129379	131922	+	leucine--tRNA ligase	WP_041045089.1	339
+NZ_AP013028.1	133264	133728	+	hypothetical protein	WP_052463170.1	-1
+NZ_AP013028.1	134650	135333	-	endonuclease III	WP_052463335.1	313
+NZ_AP013028.1	135353	136780	-	isocitrate dehydrogenase	WP_041045091.1	509
+NZ_AP013028.1	136937	137251	+	hypothetical protein	WP_084221203.1	-1
+NZ_AP013028.1	138097	138774	-	MFS transporter	WP_052463173.1	62
+NZ_AP013028.1	139024	139293	+	IS5 family transposase	WP_145971829.1	-1
+NZ_AP013028.1	140081	143221	+	bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA	WP_041045095.1	711
+NZ_AP013028.1	143569	144132	+	hypothetical protein	WP_041045098.1	1592
+NZ_AP013028.1	144133	145633	+	hypothetical protein	WP_084221166.1	1592
+NZ_AP013028.1	145634	147439	-	succinate dehydrogenase flavoprotein subunit	WP_041045103.1	73
+NZ_AP013028.1	148257	148553	+	hypothetical protein	WP_041045107.1	713
+NZ_AP013028.1	148561	149154	-	hypothetical protein	WP_041045109.1	998
+NZ_AP013028.1	149238	149573	-	divalent-cation tolerance protein CutA	WP_070104825.1	197
+NZ_AP013028.1	149781	150041	+	IS5 family transposase	WP_145971830.1	-1
+NZ_AP013028.1	150567	151268	-	hypothetical protein	WP_041045111.1	-1
+NZ_AP013028.1	151412	151621	+	hypothetical protein	WP_041045113.1	-1
+NZ_AP013028.1	151696	152730	+	FtsH protease activity modulator HflK	WP_041045115.1	171
+NZ_AP013028.1	152733	153605	+	protease modulator HflC	WP_041045117.1	301
+NZ_AP013028.1	153609	155096	+	DegQ family serine endoprotease	WP_041045119.1	110
+NZ_AP013028.1	156117	156551	+	DUF1016 family protein	WP_041046537.1	-1
+NZ_AP013028.1	157350	157679	-	ankyrin repeat domain-containing protein	WP_041045121.1	-1
+NZ_AP013028.1	157718	157897	-	ankyrin repeat domain-containing protein	WP_084221168.1	2
+NZ_AP013028.1	157943	158182	-	ankyrin repeat domain-containing protein	WP_052463174.1	2
+NZ_AP013028.1	158900	160435	+	methionine--tRNA ligase	WP_041045123.1	295
+NZ_AP013028.1	160448	160912	-	hypothetical protein	WP_041045125.1	1591
+NZ_AP013028.1	161026	162477	-	replicative DNA helicase	WP_041045127.1	123
+NZ_AP013028.1	162695	163303	+	RDD family protein	WP_041046539.1	763
+NZ_AP013028.1	167366	168232	+	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	WP_041045129.1	535
+NZ_AP013028.1	168245	168601	+	hypothetical protein	WP_052463336.1	-1
+NZ_AP013028.1	168603	169412	+	metal ABC transporter permease	WP_041045133.1	490
+NZ_AP013028.1	169472	170470	+	DNA polymerase III subunit delta	WP_041045135.1	764
+NZ_AP013028.1	170825	171286	+	dUTP diphosphatase	WP_041046540.1	396
+NZ_AP013028.1	171396	172028	+	hypothetical protein	WP_041045137.1	-1
+NZ_AP013028.1	172604	174093	+	murein biosynthesis integral membrane protein MurJ	WP_041045139.1	351
+NZ_AP013028.1	174094	176631	+	hypothetical protein	WP_041045141.1	771
+NZ_AP013028.1	177621	177812	-	hypothetical protein	WP_052463175.1	-1
+NZ_AP013028.1	178986	179513	+	phospholipase D family protein	WP_041045143.1	1574
+NZ_AP013028.1	179605	180144	+	hypothetical protein	WP_041045145.1	-1
+NZ_AP013028.1	180263	181021	+	hypothetical protein	WP_041045147.1	1010
+NZ_AP013028.1	181066	181905	+	glycine--tRNA ligase subunit alpha	WP_084221169.1	251
+NZ_AP013028.1	181909	184010	+	glycine--tRNA ligase subunit beta	WP_041045151.1	383
+NZ_AP013028.1	184011	185831	+	excinuclease ABC subunit UvrC	WP_041045154.1	267
+NZ_AP013028.1	185960	186574	-	DUF1016 family protein	WP_052463176.1	1306
+NZ_AP013028.1	187428	187876	-	hypothetical protein	WP_041045156.1	-1
+NZ_AP013028.1	187877	188173	-	hypothetical protein	WP_041045158.1	-1
+NZ_AP013028.1	188302	189345	-	hypothetical protein	WP_145971831.1	-1
+NZ_AP013028.1	190212	190691	-	hypothetical protein	WP_145971832.1	-1
+NZ_AP013028.1	190814	191059	-	hypothetical protein	WP_052463178.1	-1
+NZ_AP013028.1	191319	192320	+	porphobilinogen synthase	WP_041045162.1	237
+NZ_AP013028.1	192383	192643	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	194149	194726	+	NADH-quinone oxidoreductase subunit J	WP_041045164.1	511
+NZ_AP013028.1	194727	195035	+	NADH-quinone oxidoreductase subunit NuoK	WP_041045166.1	590
+NZ_AP013028.1	195040	196896	+	NADH-quinone oxidoreductase subunit L	WP_041045168.1	464
+NZ_AP013028.1	196900	198338	+	NADH-quinone oxidoreductase subunit M	WP_041045170.1	546
+NZ_AP013028.1	198339	199733	+	NADH-quinone oxidoreductase subunit N	WP_041045172.1	506
+NZ_AP013028.1	199735	200526	+	biotin--[acetyl-CoA-carboxylase] ligase	WP_041045174.1	359
+NZ_AP013028.1	200644	201042	+	cytochrome c maturation protein CcmE	WP_041045176.1	404
+NZ_AP013028.1	201051	201753	-	ATP-binding cassette domain-containing protein	WP_041045178.1	52
+NZ_AP013028.1	201754	202536	-	ABC transporter permease	WP_041045181.1	334
+NZ_AP013028.1	203006	203194	-	hypothetical protein	WP_145971833.1	-1
+NZ_AP013028.1	203351	203827	+	recombinase family protein	WP_052463179.1	145
+NZ_AP013028.1	203836	205152	+	hypothetical protein	WP_052463180.1	145
+NZ_AP013028.1	207361	208229	+	hydroxymethylbilane synthase	WP_041045183.1	157
+NZ_AP013028.1	208230	209117	+	UDP-N-acetylmuramate dehydrogenase	WP_041045185.1	344
+NZ_AP013028.1	209402	210028	+	hypothetical protein	WP_041045187.1	983
+NZ_AP013028.1	210045	211319	+	flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	WP_041045189.1	486
+NZ_AP013028.1	212008	212730	-	DNA repair protein RecO	WP_041045191.1	720
+NZ_AP013028.1	212996	213370	+	30S ribosomal protein S12	WP_041045193.1	187
+NZ_AP013028.1	213376	213855	+	30S ribosomal protein S7	WP_041045195.1	399
+NZ_AP013028.1	213877	215943	+	elongation factor G	WP_041045197.1	269
+NZ_AP013028.1	215955	217130	+	elongation factor Tu	WP_041045201.1	102
+NZ_AP013028.1	217199	217497	+	30S ribosomal protein S10	WP_052463338.1	321
+NZ_AP013028.1	217498	218223	+	50S ribosomal protein L3	WP_041045203.1	183
+NZ_AP013028.1	218226	218836	+	50S ribosomal protein L4	WP_041045205.1	264
+NZ_AP013028.1	218837	219124	+	50S ribosomal protein L23	WP_041045207.1	393
+NZ_AP013028.1	219126	219950	+	50S ribosomal protein L2	WP_041045209.1	180
+NZ_AP013028.1	219954	220238	+	30S ribosomal protein S19	WP_041045211.1	309
+NZ_AP013028.1	220244	220594	+	50S ribosomal protein L22	WP_041045213.1	243
+NZ_AP013028.1	220633	221253	+	30S ribosomal protein S3	WP_041045215.1	375
+NZ_AP013028.1	221265	221678	+	50S ribosomal protein L16	WP_041045217.1	210
+NZ_AP013028.1	221690	221885	+	50S ribosomal protein L29	WP_041046548.1	338
+NZ_AP013028.1	221886	222119	+	30S ribosomal protein S17	WP_041045219.1	275
+NZ_AP013028.1	222129	222488	+	50S ribosomal protein L14	WP_041045221.1	405
+NZ_AP013028.1	222488	222805	+	50S ribosomal protein L24	WP_041045223.1	156
+NZ_AP013028.1	222812	223345	+	50S ribosomal protein L5	WP_041045225.1	286
+NZ_AP013028.1	223362	223670	+	30S ribosomal protein S14	WP_041045227.1	220
+NZ_AP013028.1	223690	224085	+	30S ribosomal protein S8	WP_041045229.1	350
+NZ_AP013028.1	224102	224647	+	50S ribosomal protein L6	WP_041045231.1	193
+NZ_AP013028.1	224653	225024	+	50S ribosomal protein L18	WP_041045233.1	317
+NZ_AP013028.1	225037	225549	+	30S ribosomal protein S5	WP_041045235.1	259
+NZ_AP013028.1	225553	226023	+	50S ribosomal protein L15	WP_052463181.1	390
+NZ_AP013028.1	226027	227351	+	preprotein translocase subunit SecY	WP_041046552.1	173
+NZ_AP013028.1	227352	228002	+	adenylate kinase	WP_041045236.1	302
+NZ_AP013028.1	228062	228430	+	30S ribosomal protein S13	WP_041045238.1	236
+NZ_AP013028.1	228455	228841	+	30S ribosomal protein S11	WP_041045240.1	369
+NZ_AP013028.1	228863	229930	+	DNA-directed RNA polymerase subunit alpha	WP_041045242.1	311
+NZ_AP013028.1	229938	230366	+	50S ribosomal protein L17	WP_041045244.1	205
+NZ_AP013028.1	230390	230752	+	hypothetical protein	WP_041045246.1	703
+NZ_AP013028.1	231384	232400	+	phosphate ABC transporter substrate-binding protein	WP_041045248.1	1022
+NZ_AP013028.1	234831	234992	+	hypothetical protein	WP_084221171.1	-1
+NZ_AP013028.1	235340	235945	+	transposase	WP_145971834.1	-1
+NZ_AP013028.1	236446	236706	-	IS5 family transposase	WP_145971835.1	-1
+NZ_AP013028.1	237321	237590	-	hypothetical protein	WP_041045254.1	-1
+NZ_AP013028.1	237804	238064	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	238565	238816	-	hypothetical protein	WP_041045256.1	-1
+NZ_AP013028.1	239424	239684	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	239709	240245	-	hypothetical protein	WP_041045257.1	-1
+NZ_AP013028.1	240414	242999	+	DNA polymerase I	WP_041045260.1	291
+NZ_AP013028.1	243035	244129	+	hypothetical protein	WP_145971836.1	-1
+NZ_AP013028.1	246882	248174	+	membrane protein	WP_041045266.1	1026
+NZ_AP013028.1	248951	250189	-	cell division protein FtsA	WP_041045268.1	104
+NZ_AP013028.1	250328	250856	+	peptide deformylase	WP_041045270.1	406
+NZ_AP013028.1	250857	251672	+	uracil-DNA glycosylase	WP_041045272.1	732
+NZ_AP013028.1	251926	253245	-	hypothetical protein	WP_041045274.1	-1
+NZ_AP013028.1	253522	254793	+	MFS transporter	WP_041046556.1	-1
+NZ_AP013028.1	254898	255314	-	nucleoside deaminase	WP_041045276.1	244
+NZ_AP013028.1	255356	256960	-	CTP synthase	WP_041045278.1	392
+NZ_AP013028.1	256960	257280	-	preprotein translocase subunit SecG	WP_041045280.1	977
+NZ_AP013028.1	258448	258708	-	IS5 family transposase	WP_145971837.1	-1
+NZ_AP013028.1	258950	259944	+	pyruvate dehydrogenase complex E1 component subunit beta	WP_041045282.1	410
+NZ_AP013028.1	259945	261315	-	magnesium transporter	WP_041045283.1	571
+NZ_AP013028.1	261470	261544	+	peptide chain release factor 2	WP_145971838.1	-1
+NZ_AP013028.1	262640	264079	+	ankyrin repeat domain-containing protein	WP_052463184.1	2
+NZ_AP013028.1	264125	264463	-	hypothetical protein	WP_145971839.1	-1
+NZ_AP013028.1	264464	264673	+	hypothetical protein	WP_145971840.1	-1
+NZ_AP013028.1	265514	265774	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	266639	267470	+	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	WP_041045285.1	491
+NZ_AP013028.1	267471	268151	+	hypothetical protein	WP_052463185.1	1595
+NZ_AP013028.1	268534	269130	+	ankyrin repeat domain-containing protein	WP_052463186.1	2
+NZ_AP013028.1	269365	269934	+	ankyrin repeat domain-containing protein	WP_041045286.1	2
+NZ_AP013028.1	270565	271518	+	recombinase family protein	WP_052463187.1	145
+NZ_AP013028.1	271666	272046	+	hypothetical protein	WP_145971841.1	-1
+NZ_AP013028.1	272377	272972	+	peroxiredoxin	WP_041045287.1	504
+NZ_AP013028.1	272973	273929	+	thioredoxin-disulfide reductase	WP_041045288.1	324
+NZ_AP013028.1	274012	275233	+	ankyrin repeat domain-containing protein	WP_052463189.1	-1
+NZ_AP013028.1	275234	276149	-	tyrosine-type recombinase/integrase	WP_041045289.1	207
+NZ_AP013028.1	276150	277530	-	dihydrolipoyl dehydrogenase	WP_041045291.1	37
+NZ_AP013028.1	277531	278640	-	PQQ-binding-like beta-propeller repeat protein	WP_041045293.1	456
+NZ_AP013028.1	278721	281099	-	DNA topoisomerase (ATP-hydrolyzing) subunit B	WP_041045294.1	403
+NZ_AP013028.1	281394	281603	-	hypothetical protein	WP_145971842.1	-1
+NZ_AP013028.1	283275	284189	-	hypothetical protein	WP_041045300.1	1597
+NZ_AP013028.1	284354	284650	-	hypothetical protein	WP_041045302.1	-1
+NZ_AP013028.1	286371	287000	-	oxidoreductase NAD-binding domain protein	WP_041046573.1	-1
+NZ_AP013028.1	287117	287959	-	DUF2163 domain-containing protein	WP_041045304.1	976
+NZ_AP013028.1	288132	288245	+	hypothetical protein	WP_145971882.1	-1
+NZ_AP013028.1	292942	293202	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	293728	294000	-	IS5 family transposase	WP_041045306.1	446
+NZ_AP013028.1	294520	295284	+	hypothetical protein	WP_052463193.1	965
+NZ_AP013028.1	295360	296535	+	porin	WP_041045308.1	100
+NZ_AP013028.1	296624	297754	+	cation:dicarboxylase symporter family transporter	WP_041046579.1	116
+NZ_AP013028.1	297754	298362	+	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	WP_041045310.1	364
+NZ_AP013028.1	299247	299900	+	hypothetical protein	WP_041046581.1	616
+NZ_AP013028.1	300415	300675	-	IS5 family transposase	WP_145971835.1	-1
+NZ_AP013028.1	301538	303367	+	translational GTPase TypA	WP_041045312.1	189
+NZ_AP013028.1	303431	304327	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041045314.1	17
+NZ_AP013028.1	304335	305351	+	Mrp/NBP35 family ATP-binding protein	WP_041045316.1	263
+NZ_AP013028.1	305402	306556	+	2-octaprenyl-6-methoxyphenyl hydroxylase	WP_041045318.1	188
+NZ_AP013028.1	307983	308489	-	DNA mismatch repair protein MutS	WP_041045320.1	179
+NZ_AP013028.1	308574	309326	+	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	WP_041045322.1	353
+NZ_AP013028.1	309420	310142	+	Bax inhibitor-1/YccA family protein	WP_041045324.1	117
+NZ_AP013028.1	310143	310679	+	cytochrome c oxidase assembly protein	WP_041045326.1	698
+NZ_AP013028.1	310681	311298	+	ComF family protein	WP_041045328.1	463
+NZ_AP013028.1	311302	312670	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	WP_041045330.1	612
+NZ_AP013028.1	312671	313908	-	cystathionine beta-lyase	WP_041045332.1	1354
+NZ_AP013028.1	313909	314205	-	BolA family transcriptional regulator	WP_041045334.1	68
+NZ_AP013028.1	314308	316233	-	molecular chaperone DnaK	WP_041045336.1	336
+NZ_AP013028.1	316321	318093	-	Rne/Rng family ribonuclease	WP_041045338.1	315
+NZ_AP013028.1	318266	318466	+	50S ribosomal protein L33	WP_041045340.1	191
+NZ_AP013028.1	318489	318767	+	DNA-binding protein	WP_041045342.1	-1
+NZ_AP013028.1	321425	321766	+	DUF721 domain-containing protein	WP_041045344.1	959
+NZ_AP013028.1	321804	322110	+	50S ribosomal protein L28	WP_041045346.1	235
+NZ_AP013028.1	322111	322974	+	lipoyl synthase	WP_041045348.1	780
+NZ_AP013028.1	323119	324978	+	hypothetical protein	WP_052463194.1	957
+NZ_AP013028.1	325648	326754	+	D-alanyl-D-alanine carboxypeptidase	WP_041046585.1	163
+NZ_AP013028.1	327731	328264	+	HK97 family phage prohead protease	WP_041045350.1	988
+NZ_AP013028.1	328471	330835	+	hypothetical protein	WP_041045353.1	-1
+NZ_AP013028.1	330836	332005	-	CCA tRNA nucleotidyltransferase	WP_041045355.1	109
+NZ_AP013028.1	332095	332988	-	hypothetical protein	WP_041045357.1	-1
+NZ_AP013028.1	333106	334200	+	redox-regulated ATPase YchF	WP_041045359.1	166
+NZ_AP013028.1	335313	336242	-	class II fructose-bisphosphatase	WP_041046589.1	185
+NZ_AP013028.1	336358	337365	+	hypothetical protein	WP_052463196.1	-1
+NZ_AP013028.1	338305	338565	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	338693	339121	+	hypothetical protein	WP_052463197.1	-1
+NZ_AP013028.1	339123	341771	-	pyruvate, phosphate dikinase	WP_041045361.1	38
+NZ_AP013028.1	347078	348838	-	DNA primase	WP_041045363.1	164
+NZ_AP013028.1	349002	350177	+	multifunctional ribose 5-phosphate isomerase B/3-demethylubiquinone-9 3-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	WP_041045365.1	50
+NZ_AP013028.1	350268	350582	-	TrbC/VirB2 family protein	WP_070104827.1	-1
+NZ_AP013028.1	352322	353215	-	RluA family pseudouridine synthase	WP_084221173.1	367
+NZ_AP013028.1	353294	354898	-	hypothetical protein	WP_041045369.1	-1
+NZ_AP013028.1	355741	356001	-	IS5 family transposase	WP_145971837.1	-1
+NZ_AP013028.1	356563	356823	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	360455	360715	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	362148	363392	-	hypothetical protein	WP_041045376.1	-1
+NZ_AP013028.1	363476	363837	-	succinate dehydrogenase, hydrophobic membrane anchor protein	WP_041045378.1	724
+NZ_AP013028.1	363838	364215	-	succinate dehydrogenase, cytochrome b556 subunit	WP_041045380.1	537
+NZ_AP013028.1	366044	366586	+	hypothetical protein	WP_041045382.1	683
+NZ_AP013028.1	366663	369899	-	carbamoyl-phosphate synthase large subunit	WP_041045384.1	548
+NZ_AP013028.1	371425	374205	-	recombinase RecB	WP_041045386.1	539
+NZ_AP013028.1	374305	377481	+	phosphoribosylformylglycinamidine synthase	WP_041045388.1	475
+NZ_AP013028.1	377569	378081	+	hypothetical protein	WP_084221174.1	-1
+NZ_AP013028.1	378226	378876	+	hypothetical protein	WP_084221175.1	770
+NZ_AP013028.1	379402	380109	-	ribonuclease III	WP_041045392.1	578
+NZ_AP013028.1	380188	381228	-	quinone-dependent dihydroorotate dehydrogenase	WP_041045394.1	241
+NZ_AP013028.1	381802	383328	+	acyl-CoA carboxylase subunit beta	WP_041045396.1	580
+NZ_AP013028.1	383536	384420	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041045399.1	17
+NZ_AP013028.1	384658	385473	+	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase	WP_041045401.1	240
+NZ_AP013028.1	385489	386082	+	pyridoxamine 5'-phosphate oxidase	WP_041045403.1	774
+NZ_AP013028.1	387859	389811	+	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	WP_041046604.1	314
+NZ_AP013028.1	389821	391488	+	aminopeptidase P family protein	WP_041045406.1	255
+NZ_AP013028.1	391611	391982	+	hypothetical protein	WP_041045409.1	-1
+NZ_AP013028.1	391988	392960	-	ketoacyl-ACP synthase III	WP_041045411.1	372
+NZ_AP013028.1	392961	393998	-	phosphate acyltransferase PlsX	WP_041045413.1	556
+NZ_AP013028.1	394009	394191	-	50S ribosomal protein L32	WP_041045415.1	198
+NZ_AP013028.1	394488	394796	+	hypothetical protein	WP_041045417.1	-1
+NZ_AP013028.1	394812	395453	+	transposase	WP_145971843.1	-1
+NZ_AP013028.1	395841	396113	+	IS5 family transposase	WP_041044978.1	446
+NZ_AP013028.1	396990	397493	+	IS5 family transposase	WP_041044928.1	662
+NZ_AP013028.1	399079	399320	-	type II toxin-antitoxin system RelE/ParE family toxin	WP_041045420.1	47
+NZ_AP013028.1	399321	399551	-	hypothetical protein	WP_041045422.1	94
+NZ_AP013028.1	399700	402072	-	phenylalanine--tRNA ligase subunit beta	WP_041045424.1	335
+NZ_AP013028.1	402185	402472	-	hypothetical protein	WP_041045426.1	-1
+NZ_AP013028.1	402635	403615	+	type I glyceraldehyde-3-phosphate dehydrogenase	WP_041046606.1	120
+NZ_AP013028.1	403619	404386	+	twin-arginine translocase subunit TatC	WP_041045428.1	231
+NZ_AP013028.1	405149	405370	+	hypothetical protein	WP_041045432.1	94
+NZ_AP013028.1	407147	407342	+	hypothetical protein	WP_041046608.1	94
+NZ_AP013028.1	407343	407657	+	type II toxin-antitoxin system RelE/ParE family toxin	WP_041045434.1	47
+NZ_AP013028.1	407857	408126	+	IS5 family transposase	WP_145971844.1	-1
+NZ_AP013028.1	408885	409670	+	hypothetical protein	WP_041045439.1	-1
+NZ_AP013028.1	409954	410310	+	hypothetical protein	WP_041045440.1	-1
+NZ_AP013028.1	410336	410893	-	dCTP deaminase	WP_041045442.1	591
+NZ_AP013028.1	411330	411587	-	hypothetical protein	WP_084221176.1	1590
+NZ_AP013028.1	411719	412543	+	YihY/virulence factor BrkB family protein	WP_041046610.1	727
+NZ_AP013028.1	412553	413302	+	SDR family oxidoreductase	WP_041045444.1	521
+NZ_AP013028.1	413360	415156	-	elongation factor 4	WP_041045446.1	190
+NZ_AP013028.1	415221	416618	-	malonyl-CoA decarboxylase	WP_041045448.1	979
+NZ_AP013028.1	416874	417134	+	IS5 family transposase	WP_145971845.1	-1
+NZ_AP013028.1	418535	419056	+	cytochrome b	WP_041045452.1	1454
+NZ_AP013028.1	419062	420108	+	2-nitropropane dioxygenase	WP_041045454.1	761
+NZ_AP013028.1	420213	421412	+	hypothetical protein	WP_041045456.1	-1
+NZ_AP013028.1	421514	421876	+	hypothetical protein	WP_041045458.1	-1
+NZ_AP013028.1	421912	424246	+	type VI secretion protein	WP_041045460.1	1027
+NZ_AP013028.1	424247	427219	+	hypothetical protein	WP_041045462.1	-1
+NZ_AP013028.1	427865	428353	-	hypothetical protein	WP_084221177.1	1576
+NZ_AP013028.1	428423	429811	+	pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase	WP_041045466.1	688
+NZ_AP013028.1	430252	430378	+	transposase	WP_084221178.1	446
+NZ_AP013028.1	430379	430882	+	IS5 family transposase	WP_041044928.1	662
+NZ_AP013028.1	430952	431212	-	hypothetical protein	WP_041045470.1	-1
+NZ_AP013028.1	431903	433081	+	aspartate aminotransferase family protein	WP_041045472.1	97
+NZ_AP013028.1	433189	434475	+	HlyC/CorC family transporter	WP_041045474.1	26
+NZ_AP013028.1	434485	434743	+	DUF2312 domain-containing protein	WP_041045476.1	1548
+NZ_AP013028.1	434744	435307	+	UbiX family flavin prenyltransferase	WP_041045478.1	449
+NZ_AP013028.1	435311	436207	+	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD	WP_041045480.1	222
+NZ_AP013028.1	436238	437056	+	polysaccharide deacetylase family protein	WP_041046612.1	1545
+NZ_AP013028.1	437566	438792	+	MFS transporter	WP_041045482.1	735
+NZ_AP013028.1	440955	442841	-	hypothetical protein	WP_145971846.1	-1
+NZ_AP013028.1	443835	444293	-	hypothetical protein	WP_041045488.1	-1
+NZ_AP013028.1	444507	444715	+	hypothetical protein	WP_041045490.1	94
+NZ_AP013028.1	444716	444979	+	type II toxin-antitoxin system RelE/ParE family toxin	WP_084221205.1	47
+NZ_AP013028.1	445312	445626	+	IS5 family transposase	WP_041045085.1	446
+NZ_AP013028.1	445638	446012	+	IS5/IS1182 family transposase	WP_070104828.1	662
+NZ_AP013028.1	447096	447506	+	hypothetical protein	WP_041045492.1	-1
+NZ_AP013028.1	447641	447958	+	hypothetical protein	WP_041045494.1	-1
+NZ_AP013028.1	447974	448736	+	hypothetical protein	WP_041045496.1	-1
+NZ_AP013028.1	448737	449231	+	hypothetical protein	WP_041045498.1	-1
+NZ_AP013028.1	449266	449781	+	hypothetical protein	WP_041045500.1	-1
+NZ_AP013028.1	449912	450203	-	type II toxin-antitoxin system RelE/ParE family toxin	WP_145971847.1	-1
+NZ_AP013028.1	450204	450425	-	hypothetical protein	WP_041045504.1	94
+NZ_AP013028.1	450526	450816	-	hypothetical protein	WP_041045506.1	47
+NZ_AP013028.1	450817	451038	-	hypothetical protein	WP_041045509.1	94
+NZ_AP013028.1	451136	451615	+	hypothetical protein	WP_041045510.1	-1
+NZ_AP013028.1	451968	452183	+	hypothetical protein	WP_041045512.1	-1
+NZ_AP013028.1	453077	453976	-	hypothetical protein	WP_145971848.1	-1
+NZ_AP013028.1	454319	455734	+	hypothetical protein	WP_052463198.1	-1
+NZ_AP013028.1	456803	459698	-	hypothetical protein	WP_052463199.1	749
+NZ_AP013028.1	459699	460136	-	ribonuclease HI	WP_041045517.1	279
+NZ_AP013028.1	460327	461214	-	protoheme IX farnesyltransferase	WP_041045518.1	494
+NZ_AP013028.1	461216	462766	-	cytochrome c oxidase subunit I	WP_041045519.1	575
+NZ_AP013028.1	462782	463546	-	cytochrome c oxidase subunit II	WP_041045520.1	497
+NZ_AP013028.1	464719	466236	-	HlyD family type I secretion periplasmic adaptor subunit	WP_041046618.1	696
+NZ_AP013028.1	466467	467201	+	3-oxoacyl-[acyl-carrier-protein] reductase	WP_041045521.1	246
+NZ_AP013028.1	467301	467651	+	TrbC/VirB2 family protein	WP_041045522.1	25
+NZ_AP013028.1	467677	468957	-	M48 family metalloprotease	WP_041045524.1	495
+NZ_AP013028.1	469029	469682	-	3,4-dihydroxy-2-butanone-4-phosphate synthase	WP_041045526.1	72
+NZ_AP013028.1	469686	470180	-	transcription elongation factor GreA	WP_041045528.1	365
+NZ_AP013028.1	470190	471727	-	F0F1 ATP synthase subunit alpha	WP_041045530.1	203
+NZ_AP013028.1	471728	472288	-	ATP synthase F1 subunit delta	WP_041045532.1	199
+NZ_AP013028.1	472581	472931	-	TrbC/VirB2 family protein	WP_041045534.1	25
+NZ_AP013028.1	473085	474197	-	molecular chaperone DnaJ	WP_041046620.1	167
+NZ_AP013028.1	474532	474861	+	TrbC/VirB2 family protein	WP_041045536.1	25
+NZ_AP013028.1	476408	477151	+	outer membrane protein assembly factor BamD	WP_052463200.1	106
+NZ_AP013028.1	477199	477948	+	YebC/PmpR family DNA-binding transcriptional regulator	WP_041045538.1	331
+NZ_AP013028.1	477952	478924	+	M23 family metallopeptidase	WP_041045540.1	656
+NZ_AP013028.1	478925	479794	+	SPFH domain-containing protein	WP_041045542.1	1000
+NZ_AP013028.1	480465	481043	-	hypothetical protein	WP_041045544.1	2
+NZ_AP013028.1	481496	481822	+	hypothetical protein	WP_041045546.1	-1
+NZ_AP013028.1	482954	483343	+	hypothetical protein	WP_041045548.1	995
+NZ_AP013028.1	483399	484175	+	hypothetical protein	WP_041045550.1	-1
+NZ_AP013028.1	485253	486611	-	DNA recombination protein RmuC	WP_041045552.1	593
+NZ_AP013028.1	486704	487444	-	hypothetical protein	WP_041045554.1	-1
+NZ_AP013028.1	492403	493338	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041045557.1	17
+NZ_AP013028.1	493521	493793	+	IS5 family transposase	WP_041044978.1	446
+NZ_AP013028.1	494675	495178	+	IS5 family transposase	WP_041044928.1	662
+NZ_AP013028.1	495187	495936	-	hypothetical protein	WP_041045561.1	-1
+NZ_AP013028.1	495994	496890	-	cation diffusion facilitator family transporter	WP_041046627.1	697
+NZ_AP013028.1	498624	499511	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041045563.1	17
+NZ_AP013028.1	499742	500722	+	phospho-N-acetylmuramoyl-pentapeptide-transferase	WP_041045565.1	624
+NZ_AP013028.1	500729	501337	+	ribonuclease HII	WP_041045567.1	273
+NZ_AP013028.1	501390	502004	-	SCO family protein	WP_041045569.1	738
+NZ_AP013028.1	502049	502744	-	DNA polymerase III subunit epsilon	WP_041045571.1	558
+NZ_AP013028.1	502756	503412	-	Tim44 domain-containing protein	WP_041045573.1	690
+NZ_AP013028.1	503580	504083	+	protein-export chaperone SecB	WP_041045575.1	599
+NZ_AP013028.1	504282	504482	+	30S ribosomal protein S21	WP_041045577.1	-1
+NZ_AP013028.1	504511	505671	+	ADP-forming succinate--CoA ligase subunit beta	WP_041045579.1	448
+NZ_AP013028.1	505675	506553	+	succinate--CoA ligase subunit alpha	WP_041045581.1	524
+NZ_AP013028.1	506561	507343	-	diaminopimelate epimerase	WP_041045583.1	653
+NZ_AP013028.1	508035	508558	+	biotin transporter BioY	WP_041045585.1	944
+NZ_AP013028.1	508559	508965	+	DUF1284 domain-containing protein	WP_041045587.1	-1
+NZ_AP013028.1	508966	509277	-	hypothetical protein	WP_041045589.1	-1
+NZ_AP013028.1	509601	510285	-	ankyrin repeat domain-containing protein	WP_084221179.1	2
+NZ_AP013028.1	510286	510546	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	511061	511336	-	ankyrin repeat domain-containing protein	WP_041045591.1	2
+NZ_AP013028.1	512844	513140	-	hypothetical protein	WP_041045593.1	-1
+NZ_AP013028.1	513146	517846	-	NAD-glutamate dehydrogenase	WP_041045595.1	675
+NZ_AP013028.1	518224	519396	+	NADH-quinone oxidoreductase subunit D	WP_041045597.1	589
+NZ_AP013028.1	520248	520991	-	5'/3'-nucleotidase SurE	WP_041045599.1	523
+NZ_AP013028.1	521213	523249	+	NAD-dependent DNA ligase LigA	WP_041045601.1	226
+NZ_AP013028.1	523332	523820	-	crossover junction endodeoxyribonuclease RuvC	WP_041045603.1	363
+NZ_AP013028.1	523836	524648	-	cytochrome c oxidase subunit 3	WP_041045605.1	569
+NZ_AP013028.1	525413	526063	-	TenA family transcriptional regulator	WP_041045607.1	1595
+NZ_AP013028.1	526798	527058	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	529358	531316	+	primosomal protein N'	WP_041045611.1	299
+NZ_AP013028.1	531464	532210	+	ankyrin repeat domain-containing protein	WP_145971849.1	-1
+NZ_AP013028.1	532216	533474	-	histidine--tRNA ligase	WP_041045613.1	366
+NZ_AP013028.1	533475	534047	-	NifU family protein	WP_041046633.1	577
+NZ_AP013028.1	534109	534468	+	DnaJ domain-containing protein	WP_052463204.1	-1
+NZ_AP013028.1	534949	536199	-	tyrosine--tRNA ligase	WP_041045615.1	159
+NZ_AP013028.1	536258	536584	-	ribosome silencing factor	WP_052463340.1	293
+NZ_AP013028.1	536753	537350	+	AAA family ATPase	WP_041045619.1	-1
+NZ_AP013028.1	537351	537845	+	RNA pyrophosphohydrolase	WP_041045621.1	929
+NZ_AP013028.1	537853	538629	+	TatD family hydrolase	WP_041046636.1	374
+NZ_AP013028.1	538656	539606	-	malate dehydrogenase	WP_041045624.1	551
+NZ_AP013028.1	539610	540174	-	NADH-quinone oxidoreductase subunit C	WP_041045626.1	731
+NZ_AP013028.1	540175	540690	-	NADH-quinone oxidoreductase subunit B	WP_041045628.1	562
+NZ_AP013028.1	540695	541048	-	NADH-quinone oxidoreductase subunit A	WP_041045630.1	480
+NZ_AP013028.1	541074	541442	-	HIT domain-containing protein	WP_041045632.1	206
+NZ_AP013028.1	541446	542423	-	hypothetical protein	WP_052463205.1	-1
+NZ_AP013028.1	542607	543983	+	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	WP_041045634.1	638
+NZ_AP013028.1	545596	545856	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	546904	547680	+	ABC transporter ATP-binding protein	WP_041045636.1	277
+NZ_AP013028.1	547820	547987	+	twin-arginine translocase TatA/TatE family subunit	WP_006013840.1	128
+NZ_AP013028.1	548118	548774	+	exopolysaccharide biosynthesis protein	WP_041045638.1	996
+NZ_AP013028.1	548811	550139	+	cysteine--tRNA ligase	WP_145971850.1	-1
+NZ_AP013028.1	550146	550548	+	hypothetical protein	WP_041045641.1	758
+NZ_AP013028.1	550549	551400	-	hypothetical protein	WP_052463206.1	-1
+NZ_AP013028.1	551458	552657	-	phosphoglycerate kinase	WP_041045643.1	466
+NZ_AP013028.1	552681	553709	-	NAD(P)/FAD-dependent oxidoreductase	WP_041045645.1	684
+NZ_AP013028.1	554395	554655	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	556481	557560	-	peptide chain release factor 1	WP_041045646.1	208
+NZ_AP013028.1	557680	558273	+	YihA family ribosome biogenesis GTP-binding protein	WP_041045647.1	337
+NZ_AP013028.1	558278	559189	+	acetylglutamate kinase	WP_041046648.1	272
+NZ_AP013028.1	559489	560736	+	IscS subfamily cysteine desulfurase	WP_041045648.1	378
+NZ_AP013028.1	562144	563505	-	glutamate--tRNA ligase	WP_041045649.1	306
+NZ_AP013028.1	563666	564397	+	hypothetical protein	WP_041045650.1	-1
+NZ_AP013028.1	564476	566437	+	ATP-grasp domain-containing protein	WP_041045651.1	333
+NZ_AP013028.1	566438	567454	-	heme A synthase	WP_041046649.1	755
+NZ_AP013028.1	569048	569524	-	ATP synthase F0F1 subunit B	WP_041045653.1	958
+NZ_AP013028.1	569533	570012	-	ATP synthase F0 subunit B	WP_041045655.1	739
+NZ_AP013028.1	570016	570243	-	F0F1 ATP synthase subunit C	WP_041045657.1	705
+NZ_AP013028.1	570303	571028	-	F0F1 ATP synthase subunit A	WP_041045659.1	412
+NZ_AP013028.1	571137	571490	-	hypothetical protein	WP_041045661.1	-1
+NZ_AP013028.1	571627	572433	-	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA	WP_041045663.1	283
+NZ_AP013028.1	572619	573320	+	triosephosphate isomerase	WP_041045665.1	533
+NZ_AP013028.1	574601	574861	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	575387	575659	-	IS5 family transposase	WP_041044978.1	446
+NZ_AP013028.1	575858	575974	+	hypothetical protein	WP_084221180.1	-1
+NZ_AP013028.1	576074	576434	-	cytochrome c biogenesis protein CcmH	WP_041045667.1	596
+NZ_AP013028.1	576435	577493	-	hypothetical protein	WP_041045669.1	-1
+NZ_AP013028.1	577496	577855	-	2Fe-2S iron-sulfur cluster binding domain-containing protein	WP_041045671.1	598
+NZ_AP013028.1	577968	579506	+	UDP-N-acetylmuramoylalanine--D-glutamate ligase	WP_041045673.1	642
+NZ_AP013028.1	579513	580112	+	COQ9 family protein	WP_041045675.1	975
+NZ_AP013028.1	581244	581512	+	hypothetical protein	WP_041046653.1	-1
+NZ_AP013028.1	581513	582061	-	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	WP_041045677.1	534
+NZ_AP013028.1	582784	583044	+	ankyrin repeat domain-containing protein	WP_052463208.1	2
+NZ_AP013028.1	584419	584679	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	585180	585911	-	site-specific DNA-methyltransferase	WP_084221181.1	921
+NZ_AP013028.1	586284	588023	-	single-stranded-DNA-specific exonuclease RecJ	WP_041046660.1	327
+NZ_AP013028.1	588183	588734	+	hypothetical protein	WP_052463211.1	-1
+NZ_AP013028.1	588842	589369	+	cytochrome c family protein	WP_041045679.1	687
+NZ_AP013028.1	589371	590117	+	alpha/beta hydrolase	WP_041045681.1	751
+NZ_AP013028.1	590787	592172	+	class II fumarate hydratase	WP_041046664.1	124
+NZ_AP013028.1	592173	592427	-	hypothetical protein	WP_041045683.1	-1
+NZ_AP013028.1	592573	593217	-	fructose-6-phosphate aldolase	WP_041045685.1	290
+NZ_AP013028.1	593418	593669	+	hypothetical protein	WP_145971851.1	-1
+NZ_AP013028.1	593762	594106	-	ATP synthase subunit epsilon	WP_041045689.1	223
+NZ_AP013028.1	594112	595554	-	F0F1 ATP synthase subunit beta	WP_041046666.1	345
+NZ_AP013028.1	595662	596741	-	phosphate ABC transporter permease subunit PstC	WP_041046667.1	531
+NZ_AP013028.1	596865	596999	+	50S ribosomal protein L34	WP_011256888.1	165
+NZ_AP013028.1	597007	597351	+	ribonuclease P protein component	WP_084221182.1	1023
+NZ_AP013028.1	597438	597704	+	hypothetical protein	WP_041045691.1	-1
+NZ_AP013028.1	601094	602167	+	methyltransferase domain-containing protein	WP_041045693.1	997
+NZ_AP013028.1	602222	604006	+	ribonucleoside-diphosphate reductase subunit alpha	WP_041045695.1	126
+NZ_AP013028.1	604007	604474	+	Holliday junction resolvase RuvX	WP_041045697.1	248
+NZ_AP013028.1	604618	606210	+	hypothetical protein	WP_041045699.1	-1
+NZ_AP013028.1	607175	607759	-	glycerol-3-phosphate acyltransferase	WP_041045704.1	496
+NZ_AP013028.1	607772	609238	-	amino acid carrier protein	WP_041045706.1	514
+NZ_AP013028.1	610611	611377	-	CDP-diacylglycerol--serine O-phosphatidyltransferase	WP_041045708.1	525
+NZ_AP013028.1	611378	612070	-	phosphatidylserine decarboxylase	WP_041045710.1	470
+NZ_AP013028.1	612301	613368	-	recombinase RecA	WP_041045712.1	265
+NZ_AP013028.1	613992	614543	-	aminoacyl-tRNA hydrolase	WP_041045715.1	505
+NZ_AP013028.1	614543	615154	-	50S ribosomal protein L25/general stress protein Ctc	WP_041045718.1	382
+NZ_AP013028.1	616114	617454	+	dihydroorotase	WP_041045721.1	238
+NZ_AP013028.1	617608	618747	-	peptidylprolyl isomerase	WP_041045723.1	676
+NZ_AP013028.1	618967	620295	+	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	WP_041045725.1	229
+NZ_AP013028.1	620781	621938	+	hypothetical protein	WP_145971852.1	-1
+NZ_AP013028.1	624281	625318	-	aminotransferase class V-fold PLP-dependent enzyme	WP_084221183.1	594
+NZ_AP013028.1	625406	625684	+	ankyrin repeat domain-containing protein	WP_084221184.1	2
+NZ_AP013028.1	625784	626086	+	50S ribosomal protein L21	WP_041045729.1	177
+NZ_AP013028.1	626097	626366	+	50S ribosomal protein L27	WP_041045731.1	305
+NZ_AP013028.1	627662	627922	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	628060	628923	-	FAD-dependent thymidylate synthase	WP_041045735.1	557
+NZ_AP013028.1	628933	630309	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	WP_041045737.1	654
+NZ_AP013028.1	631037	632230	+	pyridoxal phosphate-dependent aminotransferase	WP_041045739.1	114
+NZ_AP013028.1	632671	633174	-	hypothetical protein	WP_041046671.1	-1
+NZ_AP013028.1	633465	634673	+	MFS transporter	WP_041045743.1	735
+NZ_AP013028.1	634730	636007	+	serine hydroxymethyltransferase	WP_041045745.1	377
+NZ_AP013028.1	637381	637641	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	638345	638953	+	superoxide dismutase	WP_041045747.1	532
+NZ_AP013028.1	638955	640226	+	insulinase family protein	WP_041045749.1	217
+NZ_AP013028.1	641063	642772	-	ATP-binding cassette domain-containing protein	WP_041045751.1	122
+NZ_AP013028.1	642935	643258	-	Grx4 family monothiol glutaredoxin	WP_041045753.1	573
+NZ_AP013028.1	643274	643492	-	BolA/IbaG family iron-sulfur metabolism protein	WP_041045755.1	68
+NZ_AP013028.1	643553	644872	-	malate dehydrogenase	WP_084221207.1	242
+NZ_AP013028.1	645017	645559	+	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	WP_041045757.1	298
+NZ_AP013028.1	648096	650219	-	DNA translocase FtsK	WP_041045762.1	568
+NZ_AP013028.1	650644	651081	-	stringent starvation protein B	WP_041045764.1	714
+NZ_AP013028.1	651918	652934	-	uroporphyrinogen decarboxylase	WP_041046675.1	476
+NZ_AP013028.1	653341	654156	+	CBS domain-containing protein	WP_041045766.1	26
+NZ_AP013028.1	654769	655107	-	hypothetical protein	WP_052463218.1	1025
+NZ_AP013028.1	655241	656278	+	phosphoribosylformylglycinamidine cyclo-ligase	WP_041045768.1	517
+NZ_AP013028.1	656279	657001	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase	WP_041045770.1	233
+NZ_AP013028.1	657071	657761	+	tRNA (guanosine(37)-N1)-methyltransferase TrmD	WP_041045772.1	391
+NZ_AP013028.1	657762	658145	+	50S ribosomal protein L19	WP_041045774.1	261
+NZ_AP013028.1	658207	659457	+	phosphate ABC transporter permease PstA	WP_041045776.1	453
+NZ_AP013028.1	659461	660267	+	phosphoribosylformylglycinamidine synthase subunit PurQ	WP_041045778.1	719
+NZ_AP013028.1	661415	662344	-	hypothetical protein	WP_052463220.1	1584
+NZ_AP013028.1	664133	665452	+	glutamate--tRNA ligase	WP_041046680.1	781
+NZ_AP013028.1	665822	666229	-	hypothetical protein	WP_041045781.1	722
+NZ_AP013028.1	666300	667130	+	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	WP_041045783.1	858
+NZ_AP013028.1	667176	667457	-	DUF2610 domain-containing protein	WP_041045785.1	730
+NZ_AP013028.1	667458	667841	-	hypothetical protein	WP_145971853.1	-1
+NZ_AP013028.1	667922	669067	+	hypothetical protein	WP_041045787.1	685
+NZ_AP013028.1	669145	670428	-	NADH-quinone oxidoreductase subunit NuoF	WP_041045789.1	516
+NZ_AP013028.1	671311	672945	+	ribonuclease J	WP_041045791.1	547
+NZ_AP013028.1	672951	674231	+	Tol-Pal system protein TolB	WP_041045793.1	250
+NZ_AP013028.1	674745	676109	-	ankyrin repeat domain-containing protein	WP_041045795.1	2
+NZ_AP013028.1	676810	677117	-	hypothetical protein	WP_041045797.1	1580
+NZ_AP013028.1	677118	678065	-	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	WP_041045799.1	352
+NZ_AP013028.1	678293	679504	+	MFS transporter	WP_041045800.1	39
+NZ_AP013028.1	679751	680155	-	hypothetical protein	WP_052463223.1	-1
+NZ_AP013028.1	681289	681529	+	translation initiation factor IF-1	WP_041045802.1	408
+NZ_AP013028.1	681530	682117	+	septum formation protein Maf	WP_041045804.1	257
+NZ_AP013028.1	682118	682990	-	hypothetical protein	WP_041045806.1	-1
+NZ_AP013028.1	683038	683292	-	hypothetical protein	WP_052463224.1	-1
+NZ_AP013028.1	683412	683711	-	hypothetical protein	WP_052463226.1	-1
+NZ_AP013028.1	684229	684459	-	hypothetical protein	WP_052463228.1	-1
+NZ_AP013028.1	685704	686879	+	recombinase family protein	WP_084221185.1	145
+NZ_AP013028.1	688067	689394	-	signal recognition particle protein	WP_041045807.1	348
+NZ_AP013028.1	689395	690954	-	cation:proton antiporter	WP_041045809.1	706
+NZ_AP013028.1	691757	691999	+	hypothetical protein	WP_041045813.1	-1
+NZ_AP013028.1	692034	692294	+	IS5 family transposase	WP_145971854.1	-1
+NZ_AP013028.1	693093	693278	-	hypothetical protein	WP_052463231.1	-1
+NZ_AP013028.1	693393	693920	-	ankyrin repeat domain-containing protein	WP_041045819.1	2
+NZ_AP013028.1	694025	694486	-	hypothetical protein	WP_052463233.1	-1
+NZ_AP013028.1	694632	695522	+	DMT family transporter	WP_041045821.1	415
+NZ_AP013028.1	696920	698287	-	sodium:alanine symporter family protein	WP_041045827.1	514
+NZ_AP013028.1	698390	698893	-	hypothetical protein	WP_041045830.1	1005
+NZ_AP013028.1	699209	700861	-	chaperonin GroEL	WP_041045832.1	153
+NZ_AP013028.1	700963	701253	-	co-chaperone GroES	WP_041045834.1	282
+NZ_AP013028.1	701399	702193	+	folate-binding protein YgfZ	WP_041045837.1	500
+NZ_AP013028.1	702859	703964	-	cell division protein FtsW	WP_041045840.1	603
+NZ_AP013028.1	703965	704663	-	bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE	WP_041045842.1	168
+NZ_AP013028.1	705160	705417	+	type II toxin-antitoxin system RelE/ParE family toxin	WP_041045844.1	47
+NZ_AP013028.1	705576	706742	+	multidrug effflux MFS transporter	WP_041045846.1	13
+NZ_AP013028.1	706810	708960	-	transketolase	WP_041045848.1	154
+NZ_AP013028.1	709074	709688	+	30S ribosomal protein S4	WP_041046684.1	289
+NZ_AP013028.1	709814	710008	+	Fe-S cluster assembly protein IscX	WP_041046685.1	717
+NZ_AP013028.1	711233	712312	-	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD	WP_041045850.1	507
+NZ_AP013028.1	712312	713511	-	deoxyguanosinetriphosphate triphosphohydrolase	WP_041045852.1	881
+NZ_AP013028.1	713559	714020	+	iron-sulfur cluster assembly accessory protein	WP_041045854.1	460
+NZ_AP013028.1	714045	714719	+	ABC transporter ATP-binding protein	WP_041045856.1	307
+NZ_AP013028.1	714744	714917	-	type IV secretion system protein VirB7	WP_084221186.1	-1
+NZ_AP013028.1	714970	715668	-	alpha/beta hydrolase	WP_041045858.1	783
+NZ_AP013028.1	715840	716988	+	cysteine desulfurase	WP_041045861.1	594
+NZ_AP013028.1	719250	719472	+	hypothetical protein	WP_041045865.1	-1
+NZ_AP013028.1	719473	720084	-	heme ABC exporter ATP-binding protein CcmA	WP_041045869.1	512
+NZ_AP013028.1	720522	720953	-	hypothetical protein	WP_041045872.1	987
+NZ_AP013028.1	721150	722952	+	aspartate--tRNA ligase	WP_041045874.1	175
+NZ_AP013028.1	722983	724245	+	MFS transporter	WP_041045876.1	39
+NZ_AP013028.1	724351	724860	-	translation initiation factor IF-3	WP_041045878.1	318
+NZ_AP013028.1	724864	726774	-	threonine--tRNA ligase	WP_041045880.1	284
+NZ_AP013028.1	728119	729939	-	glutamine--fructose-6-phosphate transaminase (isomerizing)	WP_041045882.1	923
+NZ_AP013028.1	729967	730398	-	preprotein translocase subunit YajC	WP_041045884.1	270
+NZ_AP013028.1	730873	733392	-	DNA mismatch repair protein MutS	WP_041045886.1	371
+NZ_AP013028.1	733699	734880	+	ribonuclease D	WP_041045888.1	529
+NZ_AP013028.1	734881	735468	-	dephospho-CoA kinase	WP_041045889.1	695
+NZ_AP013028.1	735633	737036	+	2-nitropropane dioxygenase	WP_041046687.1	999
+NZ_AP013028.1	737256	738347	+	hypothetical protein	WP_041045891.1	-1
+NZ_AP013028.1	738398	738670	+	IS5 family transposase	WP_041044978.1	446
+NZ_AP013028.1	739196	739456	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	739655	740062	+	GNAT family N-acetyltransferase	WP_041046688.1	-1
+NZ_AP013028.1	740824	741618	+	signal peptidase I	WP_041045893.1	394
+NZ_AP013028.1	741622	743560	-	Hsp70 family protein	WP_070104830.1	734
+NZ_AP013028.1	743561	744011	-	molecular chaperone Hsc20	WP_041045895.1	564
+NZ_AP013028.1	744012	744416	-	iron-sulfur cluster assembly accessory protein	WP_041045897.1	224
+NZ_AP013028.1	744419	744799	-	Fe-S cluster assembly scaffold IscU	WP_041045899.1	212
+NZ_AP013028.1	744986	745883	+	signal recognition particle-docking protein FtsY	WP_041045901.1	182
+NZ_AP013028.1	745884	747233	-	DNA repair protein RadA	WP_041045903.1	626
+NZ_AP013028.1	747566	748543	-	quinone oxidoreductase	WP_041045905.1	744
+NZ_AP013028.1	749265	749471	+	DnaJ domain-containing protein	WP_084221208.1	-1
+NZ_AP013028.1	749491	751473	+	hypothetical protein	WP_041045909.1	1596
+NZ_AP013028.1	751815	752414	-	ubiquinol-cytochrome c reductase iron-sulfur subunit	WP_041045911.1	689
+NZ_AP013028.1	752499	755210	-	DNA gyrase subunit A	WP_041045912.1	249
+NZ_AP013028.1	755631	757715	+	hypothetical protein	WP_145971855.1	-1
+NZ_AP013028.1	757838	758326	+	SgcJ/EcaC family oxidoreductase	WP_052463238.1	-1
+NZ_AP013028.1	759108	759746	+	16S rRNA (uracil(1498)-N(3))-methyltransferase	WP_041045913.1	355
+NZ_AP013028.1	759747	762224	-	hypothetical protein	WP_052463240.1	956
+NZ_AP013028.1	762578	763792	-	DEAD/DEAH box helicase	WP_041046694.1	431
+NZ_AP013028.1	763818	764072	-	cold-shock protein	WP_041045914.1	19
+NZ_AP013028.1	764247	765581	-	TldD/PmbA family protein	WP_041045915.1	1141
+NZ_AP013028.1	765600	766472	-	F0F1 ATP synthase subunit gamma	WP_041045916.1	95
+NZ_AP013028.1	768781	769035	+	ankyrin repeat domain-containing protein	WP_084221187.1	2
+NZ_AP013028.1	769446	769973	-	hypothetical protein	WP_041045920.1	-1
+NZ_AP013028.1	770321	772237	-	AAA family ATPase	WP_041045922.1	381
+NZ_AP013028.1	772513	772836	-	thioredoxin	WP_041045924.1	326
+NZ_AP013028.1	772946	773566	-	3'-5' exonuclease	WP_041045926.1	672
+NZ_AP013028.1	774530	774796	+	hypothetical protein	WP_145971856.1	-1
+NZ_AP013028.1	775604	776122	+	ankyrin repeat domain-containing protein	WP_084221188.1	2
+NZ_AP013028.1	776199	778859	+	2-oxoglutarate dehydrogenase E1 component	WP_041046695.1	515
+NZ_AP013028.1	779449	779709	-	IS5 family transposase	WP_145971857.1	-1
+NZ_AP013028.1	779946	780130	+	hypothetical protein	WP_041045933.1	-1
+NZ_AP013028.1	780131	780934	+	ankyrin repeat domain-containing protein	WP_041045935.1	2
+NZ_AP013028.1	780935	781531	-	TIGR02217 family protein	WP_041046696.1	1017
+NZ_AP013028.1	781743	782501	-	DsbA family protein	WP_041045936.1	479
+NZ_AP013028.1	782805	784301	+	ATPase AAA	WP_041045938.1	-1
+NZ_AP013028.1	784305	785780	+	UbiD family decarboxylase	WP_041045940.1	540
+NZ_AP013028.1	787733	788443	+	ABC transporter permease	WP_041046697.1	158
+NZ_AP013028.1	788570	788788	+	hypothetical protein	WP_041045941.1	94
+NZ_AP013028.1	788790	789080	+	type II toxin-antitoxin system RelE/ParE family toxin	WP_084221209.1	47
+NZ_AP013028.1	789302	789784	-	transcription antitermination factor NusB	WP_041045943.1	276
+NZ_AP013028.1	789784	790189	-	6,7-dimethyl-8-ribityllumazine synthase	WP_041045945.1	489
+NZ_AP013028.1	790190	791908	-	membrane protein insertase YidC	WP_041045947.1	349
+NZ_AP013028.1	792044	792532	+	TIGR02281 family clan AA aspartic protease	WP_041045949.1	750
+NZ_AP013028.1	792533	793414	-	protein translocase subunit SecF	WP_041045951.1	169
+NZ_AP013028.1	794839	795138	-	hypothetical protein	WP_145971883.1	-1
+NZ_AP013028.1	795371	796402	+	site-specific DNA-methyltransferase	WP_041045953.1	921
+NZ_AP013028.1	798676	800640	-	heme lyase CcmF/NrfE family subunit	WP_041045958.1	373
+NZ_AP013028.1	800821	801183	+	hypothetical protein	WP_041045960.1	-1
+NZ_AP013028.1	802048	802640	+	hypothetical protein	WP_052463247.1	-1
+NZ_AP013028.1	802641	802952	+	hypothetical protein	WP_052463249.1	-1
+NZ_AP013028.1	803044	803895	+	peptide chain release factor N(5)-glutamine methyltransferase	WP_041045962.1	584
+NZ_AP013028.1	809002	809898	-	aspartate carbamoyltransferase catalytic subunit	WP_041045966.1	553
+NZ_AP013028.1	811339	811917	+	hypothetical protein	WP_052463250.1	-1
+NZ_AP013028.1	811934	812824	-	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	WP_041045970.1	200
+NZ_AP013028.1	812900	813370	+	hypothetical protein	WP_041045972.1	1002
+NZ_AP013028.1	813832	815469	-	recombinase family protein	WP_084221189.1	145
+NZ_AP013028.1	816657	817421	-	ankyrin repeat domain-containing protein	WP_052463255.1	2
+NZ_AP013028.1	817572	818192	-	ankyrin repeat domain-containing protein	WP_052463257.1	2
+NZ_AP013028.1	819691	820734	+	phenylalanine--tRNA ligase subunit alpha	WP_041045978.1	316
+NZ_AP013028.1	820735	821973	+	NTP transferase domain-containing protein	WP_041045980.1	648
+NZ_AP013028.1	822089	822349	+	IS5 family transposase	WP_145971854.1	-1
+NZ_AP013028.1	824212	825477	-	ankyrin repeat domain-containing protein	WP_041045982.1	-1
+NZ_AP013028.1	826388	827323	-	hypothetical protein	WP_041045984.1	-1
+NZ_AP013028.1	827774	830767	+	ankyrin repeat domain-containing protein	WP_041045986.1	2
+NZ_AP013028.1	831398	831559	+	hypothetical protein	WP_084221171.1	-1
+NZ_AP013028.1	831907	832638	+	IS4 family transposase	WP_145971858.1	-1
+NZ_AP013028.1	832639	832801	+	hypothetical protein	WP_084221190.1	-1
+NZ_AP013028.1	832802	833503	-	hypothetical protein	WP_145971859.1	-1
+NZ_AP013028.1	833817	834713	-	Rpn family recombination-promoting nuclease/putative transposase	WP_041045992.1	17
+NZ_AP013028.1	836121	836379	-	IS5 family transposase	WP_145971860.1	-1
+NZ_AP013028.1	836380	837048	+	hypothetical protein	WP_084221192.1	2
+NZ_AP013028.1	837447	838738	-	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_041045996.1	401
+NZ_AP013028.1	838739	839334	-	dethiobiotin synthase	WP_041045998.1	119
+NZ_AP013028.1	839335	840055	-	methyltransferase domain-containing protein	WP_041046000.1	67
+NZ_AP013028.1	840056	840705	-	alpha/beta hydrolase	WP_041046002.1	941
+NZ_AP013028.1	840706	841848	-	8-amino-7-oxononanoate synthase	WP_052463260.1	-1
+NZ_AP013028.1	841864	842817	+	biotin synthase BioB	WP_041046003.1	329
+NZ_AP013028.1	843307	844380	-	5-(carboxyamino)imidazole ribonucleotide synthase	WP_041046004.1	772
+NZ_AP013028.1	844469	844873	+	Co2+/Mg2+ efflux protein ApaG	WP_041046006.1	701
+NZ_AP013028.1	844895	846493	-	iron ABC transporter permease	WP_041046008.1	961
+NZ_AP013028.1	846615	847421	+	rhodanese-related sulfurtransferase	WP_041046010.1	485
+NZ_AP013028.1	848781	849041	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	849986	852796	+	excinuclease ABC subunit UvrA	WP_041046012.1	285
+NZ_AP013028.1	853915	854175	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	854354	854594	+	translation initiation factor IF-1	WP_041045802.1	408
+NZ_AP013028.1	854595	855182	+	septum formation protein Maf	WP_041045804.1	257
+NZ_AP013028.1	855183	856055	-	hypothetical protein	WP_041045806.1	-1
+NZ_AP013028.1	856103	856357	-	hypothetical protein	WP_052463224.1	-1
+NZ_AP013028.1	856477	856776	-	hypothetical protein	WP_052463226.1	-1
+NZ_AP013028.1	857294	857524	-	hypothetical protein	WP_052463228.1	-1
+NZ_AP013028.1	857947	858207	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	858941	859609	-	conjugal transfer protein TraJ	WP_041046014.1	768
+NZ_AP013028.1	859659	860453	-	hypothetical protein	WP_041046017.1	957
+NZ_AP013028.1	860518	861325	-	DNA polymerase III subunit delta'	WP_041046018.1	728
+NZ_AP013028.1	861326	861946	-	threonylcarbamoyl-AMP synthase	WP_041046020.1	121
+NZ_AP013028.1	864746	865642	+	class I fructose-bisphosphate aldolase	WP_041046710.1	708
+NZ_AP013028.1	866075	866293	-	hypothetical protein	WP_145971861.1	-1
+NZ_AP013028.1	866437	867603	+	hypothetical protein	WP_052463261.1	-1
+NZ_AP013028.1	867765	868142	+	hypothetical protein	WP_052463263.1	-1
+NZ_AP013028.1	868472	869257	+	SDR family oxidoreductase	WP_041046022.1	260
+NZ_AP013028.1	869339	869821	+	NADH-quinone oxidoreductase subunit NuoI	WP_041046024.1	508
+NZ_AP013028.1	873509	875071	+	transcription termination/antitermination protein NusA	WP_041046026.1	281
+NZ_AP013028.1	875080	877398	+	translation initiation factor IF-2	WP_041046028.1	411
+NZ_AP013028.1	877400	877744	+	ribosome-binding factor A	WP_041046030.1	663
+NZ_AP013028.1	877747	878604	+	4-hydroxybenzoate octaprenyltransferase	WP_041046032.1	536
+NZ_AP013028.1	879285	880400	-	rod shape-determining protein RodA	WP_041046036.1	644
+NZ_AP013028.1	880443	881909	-	monovalent cation/H+ antiporter subunit D	WP_041046038.1	572
+NZ_AP013028.1	881974	882288	+	NADH:ubiquinone oxidoreductase	WP_041046040.1	759
+NZ_AP013028.1	882291	882746	+	outer membrane lipid asymmetry maintenance protein MlaD	WP_041046042.1	209
+NZ_AP013028.1	883023	883082	-	hypothetical protein	WP_145971884.1	-1
+NZ_AP013028.1	884318	886216	+	molecular chaperone HtpG	WP_041046713.1	588
+NZ_AP013028.1	886257	889016	+	lipase family protein	WP_052463267.1	-1
+NZ_AP013028.1	889081	890274	+	5-aminolevulinate synthase	WP_041046044.1	597
+NZ_AP013028.1	890275	890973	-	inositol monophosphatase family protein	WP_041046046.1	8
+NZ_AP013028.1	890982	891548	-	elongation factor P	WP_041046048.1	113
+NZ_AP013028.1	891611	892117	-	16S rRNA processing protein RimM	WP_041046050.1	176
+NZ_AP013028.1	894714	895011	+	integration host factor subunit alpha	WP_041046053.1	14
+NZ_AP013028.1	895012	895347	+	MerR family transcriptional regulator	WP_041046055.1	48
+NZ_AP013028.1	897010	897216	+	50S ribosomal protein L35	WP_041046057.1	389
+NZ_AP013028.1	897237	897602	+	50S ribosomal protein L20	WP_041046059.1	258
+NZ_AP013028.1	897622	898530	+	methionyl-tRNA formyltransferase	WP_041046061.1	227
+NZ_AP013028.1	898589	899071	-	hypothetical protein	WP_041046063.1	-1
+NZ_AP013028.1	899276	900421	+	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	WP_041046065.1	542
+NZ_AP013028.1	900772	901947	+	elongation factor Tu	WP_041045201.1	102
+NZ_AP013028.1	902045	902237	+	preprotein translocase subunit SecE	WP_041046716.1	1003
+NZ_AP013028.1	902238	903074	+	transcription termination/antitermination factor NusG	WP_145971885.1	-1
+NZ_AP013028.1	903077	903517	+	50S ribosomal protein L11	WP_041046069.1	201
+NZ_AP013028.1	903522	904175	+	50S ribosomal protein L1	WP_041046071.1	362
+NZ_AP013028.1	904188	904706	+	50S ribosomal protein L10	WP_041046073.1	232
+NZ_AP013028.1	904732	905133	+	50S ribosomal protein L7/L12	WP_041046075.1	294
+NZ_AP013028.1	905200	913728	+	DNA-directed RNA polymerase subunit beta/beta'	WP_041046077.1	36
+NZ_AP013028.1	915319	917256	-	RNA polymerase sigma factor RpoD	WP_041046079.1	358
+NZ_AP013028.1	917379	917701	-	cation:proton antiporter subunit C	WP_041046081.1	700
+NZ_AP013028.1	917702	918113	-	Na(+)/H(+) antiporter subunit B	WP_041046083.1	962
+NZ_AP013028.1	918114	918635	-	DUF4040 domain-containing protein	WP_041046085.1	784
+NZ_AP013028.1	918637	918924	-	monovalent cation/H+ antiporter subunit G	WP_041046087.1	668
+NZ_AP013028.1	918931	919176	-	multiple resistance and pH regulation protein F (MrpF / PhaF) superfamily	WP_084221193.1	1028
+NZ_AP013028.1	919213	919641	-	DNA-directed RNA polymerase subunit omega	WP_041046089.1	308
+NZ_AP013028.1	919699	920001	-	XRE family transcriptional regulator	WP_041046718.1	982
+NZ_AP013028.1	920795	921055	-	IS5 family transposase	WP_145971860.1	-1
+NZ_AP013028.1	921269	921763	+	5-(carboxyamino)imidazole ribonucleotide mutase	WP_145971886.1	-1
+NZ_AP013028.1	921768	923636	+	DNA mismatch repair endonuclease MutL	WP_041046093.1	300
+NZ_AP013028.1	926379	926651	-	IS5 family transposase	WP_041044978.1	446
+NZ_AP013028.1	926676	927896	-	hypothetical protein	WP_041046100.1	957
+NZ_AP013028.1	927983	929062	-	DNA replication/repair protein RecF	WP_041046102.1	454
+NZ_AP013028.1	929084	929551	-	thioredoxin-dependent thiol peroxidase	WP_041046104.1	472
+NZ_AP013028.1	931108	932298	+	aspartate aminotransferase family protein	WP_041046106.1	97
+NZ_AP013028.1	932752	933651	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041046108.1	17
+NZ_AP013028.1	933797	934600	-	glutamine amidotransferase	WP_084221210.1	963
+NZ_AP013028.1	935032	935538	+	pantetheine-phosphate adenylyltransferase	WP_041046110.1	530
+NZ_AP013028.1	935604	935858	+	hypothetical protein	WP_041046112.1	-1
+NZ_AP013028.1	935881	936496	-	CDP-archaeol synthase	WP_041046114.1	99
+NZ_AP013028.1	936497	937192	-	di-trans,poly-cis-decaprenylcistransferase	WP_041046117.1	641
+NZ_AP013028.1	937555	938112	-	ribosome recycling factor	WP_041046119.1	387
+NZ_AP013028.1	938123	938854	-	UMP kinase	WP_041046121.1	253
+NZ_AP013028.1	938865	939734	-	elongation factor Ts	WP_041046123.1	288
+NZ_AP013028.1	939738	940592	-	30S ribosomal protein S2	WP_145971862.1	-1
+NZ_AP013028.1	941195	942307	+	tRNA 2-thiouridine(34) synthase MnmA	WP_041046125.1	155
+NZ_AP013028.1	942378	942704	-	hypothetical protein	WP_052463270.1	-1
+NZ_AP013028.1	942965	943291	-	hypothetical protein	WP_145971863.1	-1
+NZ_AP013028.1	943312	943572	+	IS5 family transposase	WP_145971854.1	-1
+NZ_AP013028.1	944148	945155	-	LD-carboxypeptidase	WP_041046127.1	894
+NZ_AP013028.1	945155	945772	-	lipoyl(octanoyl) transferase LipB	WP_041046129.1	513
+NZ_AP013028.1	946286	947470	+	phage portal protein	WP_041046131.1	1021
+NZ_AP013028.1	947559	948025	+	ankyrin repeat domain-containing protein	WP_041046133.1	-1
+NZ_AP013028.1	948026	948271	+	hypothetical protein	WP_041046135.1	-1
+NZ_AP013028.1	948402	949550	+	DNA polymerase III subunit beta	WP_041046137.1	400
+NZ_AP013028.1	949552	950289	-	tRNA pseudouridine(38-40) synthase TruA	WP_041046139.1	195
+NZ_AP013028.1	951781	952377	+	riboflavin synthase	WP_041046143.1	567
+NZ_AP013028.1	952434	953024	+	CvpA family protein	WP_041046145.1	775
+NZ_AP013028.1	953034	953726	-	hypothetical protein	WP_052463273.1	-1
+NZ_AP013028.1	954615	954827	-	hypothetical protein	WP_041046151.1	-1
+NZ_AP013028.1	955110	955559	+	SsrA-binding protein SmpB	WP_041046155.1	297
+NZ_AP013028.1	955566	956354	+	prolipoprotein diacylglyceryl transferase	WP_041046157.1	221
+NZ_AP013028.1	957428	957799	+	ankyrin repeat domain-containing protein	WP_084221194.1	2
+NZ_AP013028.1	957956	958201	+	hypothetical protein	WP_145971864.1	-1
+NZ_AP013028.1	958625	958889	-	type II toxin-antitoxin system RelE/ParE family toxin	WP_041046162.1	47
+NZ_AP013028.1	958890	959090	-	hypothetical protein	WP_041046722.1	-1
+NZ_AP013028.1	959365	960828	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	WP_041046163.1	600
+NZ_AP013028.1	960845	961774	-	permease	WP_041046164.1	978
+NZ_AP013028.1	962134	963399	-	beta-ketoacyl-ACP synthase II	WP_041046165.1	256
+NZ_AP013028.1	963406	963672	-	acyl carrier protein	WP_041046166.1	380
+NZ_AP013028.1	963824	964616	+	polyprenyl synthetase family protein	WP_041046167.1	544
+NZ_AP013028.1	964617	965516	+	peptidylprolyl isomerase	WP_041046169.1	967
+NZ_AP013028.1	965529	967025	-	cation:proton antiporter	WP_041046723.1	667
+NZ_AP013028.1	967271	968179	+	Rpn family recombination-promoting nuclease/putative transposase	WP_041046171.1	17
+NZ_AP013028.1	968629	968856	-	hypothetical protein	WP_041046173.1	-1
+NZ_AP013028.1	968861	969577	-	hypothetical protein	WP_041046175.1	-1
+NZ_AP013028.1	973072	973572	-	NADH-quinone oxidoreductase subunit NuoE	WP_041046177.1	510
+NZ_AP013028.1	974039	974542	-	hypothetical protein	WP_084221195.1	-1
+NZ_AP013028.1	975657	975842	-	hypothetical protein	WP_041046180.1	-1
+NZ_AP013028.1	976068	978041	+	hypothetical protein	WP_052463275.1	-1
+NZ_AP013028.1	978535	979344	-	hypothetical protein	WP_052463277.1	-1
+NZ_AP013028.1	980481	981764	+	amino acid permease	WP_041046181.1	59
+NZ_AP013028.1	981846	983117	+	amino acid permease	WP_041046726.1	59
+NZ_AP013028.1	983279	984799	+	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	WP_041046184.1	555
+NZ_AP013028.1	986303	987232	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	WP_041046188.1	461
+NZ_AP013028.1	987253	988806	+	penicillin-binding protein 2	WP_041046190.1	640
+NZ_AP013028.1	988810	989157	-	hypothetical protein	WP_041046192.1	-1
+NZ_AP013028.1	990316	990795	+	bacterioferritin	WP_041046194.1	933
+NZ_AP013028.1	990797	991411	+	SURF1 family protein	WP_041046196.1	746
+NZ_AP013028.1	991460	993178	-	potassium transporter	WP_041046198.1	70
+NZ_AP013028.1	993184	993756	-	thioredoxin family protein	WP_041046200.1	1007
+NZ_AP013028.1	993871	994473	+	dTMP kinase	WP_041046727.1	341
+NZ_AP013028.1	996562	996744	+	hypothetical protein	WP_041046202.1	-1
+NZ_AP013028.1	997935	999512	-	lysine--tRNA ligase	WP_041046204.1	702
+NZ_AP013028.1	999578	999874	+	type IV secretion system protein VirB3	WP_041046206.1	710
+NZ_AP013028.1	999884	1002281	+	VirB4 family type IV secretion/conjugal transfer ATPase	WP_041046208.1	766
+NZ_AP013028.1	1002282	1004804	+	conjugal transfer protein TraH	WP_041046210.1	473
+NZ_AP013028.1	1004873	1007262	+	type IV secretion system protein	WP_041046212.1	-1
+NZ_AP013028.1	1007263	1010397	+	conjugal transfer protein TrbL	WP_041046214.1	554
+NZ_AP013028.1	1010469	1013649	+	conjugal transfer protein	WP_041046216.1	985
+NZ_AP013028.1	1013650	1014270	+	hypothetical protein	WP_041046218.1	-1
+NZ_AP013028.1	1014994	1015776	+	type I methionyl aminopeptidase	WP_084221211.1	254
+NZ_AP013028.1	1015980	1016435	-	hypothetical protein	WP_041046222.1	-1
+NZ_AP013028.1	1016575	1017630	+	aspartate-semialdehyde dehydrogenase	WP_041046224.1	225
+NZ_AP013028.1	1019693	1022611	-	glutamate synthase subunit beta	WP_041046226.1	752
+NZ_AP013028.1	1022657	1023097	-	3-hydroxyacyl-ACP dehydratase FabZ	WP_041046228.1	234
+NZ_AP013028.1	1023116	1023691	-	OmpH family outer membrane protein	WP_041046230.1	769
+NZ_AP013028.1	1023692	1026031	-	outer membrane protein assembly factor BamA	WP_041046728.1	204
+NZ_AP013028.1	1026039	1027157	-	RIP metalloprotease RseP	WP_041046729.1	332
+NZ_AP013028.1	1027255	1027530	+	succinate dehydrogenase assembly factor 2	WP_041046232.1	729
+NZ_AP013028.1	1028620	1029496	+	GTPase Era	WP_041046234.1	184
+NZ_AP013028.1	1029497	1030315	+	3'-5' exonuclease	WP_041046236.1	968
+NZ_AP013028.1	1032578	1033390	-	exodeoxyribonuclease III	WP_052463286.1	118
+NZ_AP013028.1	1033390	1034097	-	uroporphyrinogen-III synthase	WP_041046238.1	1019
+NZ_AP013028.1	1034273	1035454	+	cation:dicarboxylase symporter family transporter	WP_145971865.1	-1
+NZ_AP013028.1	1036077	1036337	+	IS5 family transposase	WP_145971866.1	-1
+NZ_AP013028.1	1036944	1037859	+	ribose-phosphate diphosphokinase	WP_041046242.1	587
+NZ_AP013028.1	1037860	1038213	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC	WP_041046244.1	680
+NZ_AP013028.1	1038550	1039785	+	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB	WP_041046246.1	936
+NZ_AP013028.1	1039805	1040596	+	P44/Msp2 family outer membrane protein	WP_041046731.1	435
+NZ_AP013028.1	1040597	1042108	-	secretion system protein	WP_041046248.1	-1
+NZ_AP013028.1	1042648	1042908	-	IS5 family transposase	WP_145971835.1	-1
+NZ_AP013028.1	1043508	1043768	+	IS5 family transposase	WP_145971835.1	-1
+NZ_AP013028.1	1044345	1044907	+	hypothetical protein	WP_041046250.1	-1
+NZ_AP013028.1	1044908	1045840	-	4-hydroxy-tetrahydrodipicolinate synthase	WP_041046252.1	649
+NZ_AP013028.1	1045850	1046332	-	single-stranded DNA-binding protein	WP_041046254.1	296
+NZ_AP013028.1	1046480	1047295	-	hypothetical protein	WP_041046732.1	1011
+NZ_AP013028.1	1049650	1050866	-	hypothetical protein	WP_041046256.1	990
+NZ_AP013028.1	1050867	1051590	-	hypothetical protein	WP_041046258.1	1006
+NZ_AP013028.1	1051591	1052820	-	lipoprotein-releasing ABC transporter permease subunit	WP_041046260.1	127
+NZ_AP013028.1	1053499	1054929	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB	WP_041046733.1	576
+NZ_AP013028.1	1054978	1056393	-	transcription termination factor Rho	WP_041046262.1	112
+NZ_AP013028.1	1056594	1057181	-	DUF1013 domain-containing protein	WP_041046264.1	679
+NZ_AP013028.1	1057357	1057545	-	hypothetical protein	WP_041046266.1	-1
+NZ_AP013028.1	1058037	1058774	+	hypothetical protein	WP_041046268.1	-1
+NZ_AP013028.1	1058846	1059853	+	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	WP_041046270.1	218
+NZ_AP013028.1	1060029	1061771	+	type I secretion system permease/ATPase	WP_041046272.1	678
+NZ_AP013028.1	1061805	1063184	-	phosphomannomutase/phosphoglucomutase	WP_041046734.1	608
+NZ_AP013028.1	1063287	1065170	+	hypothetical protein	WP_041046274.1	956
+NZ_AP013028.1	1065691	1066917	+	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	WP_041046276.1	488
+NZ_AP013028.1	1067247	1067762	+	gamma carbonic anhydrase family protein	WP_041046278.1	467
+NZ_AP013028.1	1067777	1068721	-	Rpn family recombination-promoting nuclease/putative transposase	WP_041046280.1	17
+NZ_AP013028.1	1068809	1069543	-	hypothetical protein	WP_052463294.1	-1
+NZ_AP013028.1	1069648	1070157	-	hypothetical protein	WP_041046282.1	-1
+NZ_AP013028.1	1070302	1072782	+	valine--tRNA ligase	WP_041046284.1	368
+NZ_AP013028.1	1072866	1073741	+	hypothetical protein	WP_145971867.1	-1
+NZ_AP013028.1	1073877	1074557	+	orotidine-5'-phosphate decarboxylase	WP_041046286.1	451
+NZ_AP013028.1	1074844	1075104	+	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	1075658	1077352	+	tetratricopeptide repeat protein	WP_052463297.1	1572
+NZ_AP013028.1	1077428	1078600	-	2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase	WP_041046288.1	550
+NZ_AP013028.1	1079838	1080656	+	kinase/pyrophosphorylase	WP_041046291.1	592
+NZ_AP013028.1	1080726	1080854	+	50S ribosomal protein L36	WP_084221196.1	481
+NZ_AP013028.1	1081056	1081370	+	septum formation initiator family protein	WP_041046738.1	1568
+NZ_AP013028.1	1081431	1082081	+	dioxygenase	WP_041046739.1	778
+NZ_AP013028.1	1082160	1083680	+	leucyl aminopeptidase	WP_052463345.1	268
+NZ_AP013028.1	1084857	1085549	+	isoprenoid biosynthesis glyoxalase ElbB	WP_041046740.1	704
+NZ_AP013028.1	1085562	1085873	+	hypothetical protein	WP_145971868.1	-1
+NZ_AP013028.1	1085910	1086500	-	guanylate kinase	WP_041046741.1	303
+NZ_AP013028.1	1086541	1088324	-	hypothetical protein	WP_041046295.1	462
+NZ_AP013028.1	1088325	1089572	-	ankyrin repeat domain-containing protein	WP_041046297.1	691
+NZ_AP013028.1	1089939	1090454	-	inorganic diphosphatase	WP_041046299.1	570
+NZ_AP013028.1	1090551	1091067	-	demethoxyubiquinone hydroxylase family protein	WP_041046301.1	692
+NZ_AP013028.1	1091068	1091544	-	disulfide bond formation protein B	WP_041046303.1	707
+NZ_AP013028.1	1091596	1092996	-	ribosome biogenesis GTPase Der	WP_041046306.1	340
+NZ_AP013028.1	1093366	1093692	+	hypothetical protein	WP_041046308.1	-1
+NZ_AP013028.1	1094193	1094453	-	IS5 family transposase	WP_145971869.1	-1
+NZ_AP013028.1	1094474	1094791	+	hypothetical protein	WP_145971870.1	-1
+NZ_AP013028.1	1095181	1095825	+	hypothetical protein	WP_041046312.1	-1
+NZ_AP013028.1	1096062	1097759	+	arginine--tRNA ligase	WP_041046314.1	239
+NZ_AP013028.1	1097813	1098148	+	hypothetical protein	WP_041046742.1	2
+NZ_AP013028.1	1098685	1098945	-	IS5 family transposase	WP_145971871.1	-1
+NZ_AP013028.1	1099036	1099581	+	ankyrin repeat domain-containing protein	WP_084221197.1	2
+NZ_AP013028.1	1099621	1100907	-	sodium:proton antiporter	WP_041046316.1	945
+NZ_AP013028.1	1101100	1101756	+	ankyrin repeat domain-containing protein	WP_084221198.1	2
+NZ_AP013028.1	1102569	1103300	-	site-specific DNA-methyltransferase	WP_084221181.1	921
+NZ_AP013028.1	1104126	1105052	+	Rpn family recombination-promoting nuclease/putative transposase	WP_052463306.1	17
+NZ_AP013028.1	1106521	1107497	-	Holliday junction branch migration DNA helicase RuvB	WP_041046322.1	174
+NZ_AP013028.1	1107498	1108079	-	Holliday junction branch migration protein RuvA	WP_041046324.1	407
+NZ_AP013028.1	1108207	1108881	-	septal ring lytic transglycosylase RlpA family protein	WP_041046326.1	1366
+NZ_AP013028.1	1108908	1110446	+	UDP-N-acetylmuramate--L-alanine ligase	WP_041046328.1	619
+NZ_AP013028.1	1110448	1111712	+	phosphopyruvate hydratase	WP_041046330.1	586
+NZ_AP013028.1	1111713	1112735	+	GTPase ObgE	WP_041046332.1	262
+NZ_AP013028.1	1113607	1113906	-	ETC complex I subunit	WP_041046334.1	1012
+NZ_AP013028.1	1114059	1114703	+	prolyl oligopeptidase family serine peptidase	WP_041046747.1	458
+NZ_AP013028.1	1114709	1115521	+	SDR family oxidoreductase	WP_041046336.1	1403
+NZ_AP013028.1	1115627	1115698	+	hypothetical protein	WP_084221212.1	1589
+NZ_AP013028.1	1115950	1116660	-	hypothetical protein	WP_041046338.1	1593
+NZ_AP013028.1	1116805	1117671	+	tRNA pseudouridine(55) synthase TruB	WP_084221199.1	170
+NZ_AP013028.1	1117684	1117956	+	30S ribosomal protein S15	WP_041046340.1	386
+NZ_AP013028.1	1117971	1120238	+	polyribonucleotide nucleotidyltransferase	WP_041046342.1	252
+NZ_AP013028.1	1120709	1121389	-	ribulose-phosphate 3-epimerase	WP_041046344.1	447
+NZ_AP013028.1	1122149	1122643	-	RDD family protein	WP_041046346.1	984
+NZ_AP013028.1	1122643	1123281	-	HAD-IA family hydrolase	WP_041046348.1	585
+NZ_AP013028.1	1124914	1127373	-	endopeptidase La	WP_041046350.1	125
+NZ_AP013028.1	1127395	1128669	-	ATP-dependent Clp protease ATP-binding subunit ClpX	WP_041046352.1	196
+NZ_AP013028.1	1128669	1129295	-	ATP-dependent Clp endopeptidase proteolytic subunit ClpP	WP_041046354.1	325
+NZ_AP013028.1	1129307	1130650	-	trigger factor	WP_041046356.1	266
+NZ_AP013028.1	1131061	1131657	+	BON domain-containing protein	WP_041046358.1	304
+NZ_AP013028.1	1131706	1132622	+	glutathione synthase	WP_041046360.1	745
+NZ_AP013028.1	1132623	1133654	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	WP_041046749.1	634
+NZ_AP013028.1	1133747	1134127	+	hypothetical protein	WP_041046362.1	-1
+NZ_AP013028.1	1134129	1135514	-	dihydrolipoyl dehydrogenase	WP_041046364.1	37
+NZ_AP013028.1	1136173	1137825	+	30S ribosomal protein S1	WP_041046366.1	397
+NZ_AP013028.1	1137848	1138126	+	integration host factor subunit beta	WP_041046368.1	673
+NZ_AP013028.1	1138396	1138668	+	IS5 family transposase	WP_041046370.1	446
+NZ_AP013028.1	1139546	1140049	+	IS5 family transposase	WP_041044928.1	662
+NZ_AP013028.1	1140276	1141307	-	Fe(3+) ABC transporter substrate-binding protein	WP_041046376.1	1020
+NZ_AP013028.1	1143331	1144125	-	NAD kinase	WP_041046378.1	247
+NZ_AP013028.1	1144150	1144362	-	50S ribosomal protein L31	WP_041046380.1	1018
+NZ_AP013028.1	1144491	1145471	+	ACP S-malonyltransferase	WP_041046382.1	214
+NZ_AP013028.1	1145536	1146297	+	hypothetical protein	WP_041046750.1	-1
+NZ_AP013028.1	1146320	1147825	-	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	WP_041046384.1	483
+NZ_AP013028.1	1149416	1150174	+	ankyrin repeat domain-containing protein	WP_041046388.1	2
+NZ_AP013028.1	1150182	1150367	+	hypothetical protein	WP_145971872.1	-1
+NZ_AP013028.1	1151189	1151848	+	CADD family putative folate metabolism protein	WP_041046392.1	1581
+NZ_AP013028.1	1151941	1152354	+	dihydroneopterin aldolase	WP_041046394.1	1579
+NZ_AP013028.1	1152354	1153648	+	dihydropteroate synthase	WP_041046396.1	385
+NZ_AP013028.1	1153649	1154132	+	dihydrofolate reductase	WP_041046398.1	804
+NZ_AP013028.1	1154133	1154876	+	putative folate metabolism gamma-glutamate ligase	WP_041046400.1	-1
+NZ_AP013028.1	1156108	1156368	-	IS5 family transposase	WP_145971824.1	-1
+NZ_AP013028.1	1157874	1159262	-	amidophosphoribosyltransferase	WP_041046402.1	545
+NZ_AP013028.1	1161202	1161718	+	Na+/H+ antiporter subunit E	WP_041046405.1	715
+NZ_AP013028.1	1161719	1162135	-	hypothetical protein	WP_041046406.1	1008
+NZ_AP013028.1	1162411	1162965	+	phosphoribosylglycinamide formyltransferase	WP_041046407.1	162
+NZ_AP013028.1	1162966	1164268	-	insulinase family protein	WP_041046408.1	721
+NZ_AP013028.1	1164269	1165609	-	insulinase family protein	WP_041046409.1	677
+NZ_AP013028.1	1165648	1166120	-	signal peptidase II	WP_041046411.1	292
+NZ_AP013028.1	1166121	1167053	-	riboflavin biosynthesis protein RibF	WP_041046413.1	493
+NZ_AP013028.1	1167121	1167489	+	glutaredoxin	WP_041046415.1	357
+NZ_AP013028.1	1167606	1168478	+	hypothetical protein	WP_041046417.1	969
+NZ_AP013028.1	1168527	1169036	-	DNA-3-methyladenine glycosylase	WP_041046752.1	1567
+NZ_AP013028.1	1169724	1169984	-	IS5 family transposase	WP_145971873.1	-1
+NZ_AP013028.1	1170696	1171154	-	ankyrin repeat domain-containing protein	WP_145971874.1	-1
+NZ_AP013028.1	1171250	1173700	-	type I DNA topoisomerase	WP_041046419.1	312
+NZ_AP013028.1	1173953	1175758	-	peptidylprolyl isomerase	WP_041046421.1	76
+NZ_AP013028.1	1175874	1176833	-	tRNA dihydrouridine synthase DusB	WP_041046754.1	228
+NZ_AP013028.1	1176841	1177773	-	hypothetical protein	WP_145971875.1	-1
+NZ_AP013028.1	1178785	1178856	+	hypothetical protein	WP_145971887.1	-1
+NZ_AP013028.1	1178989	1180266	+	serine--tRNA ligase	WP_041046755.1	230
+NZ_AP013028.1	1180302	1181573	+	phosphoribosylamine--glycine ligase	WP_041046425.1	560
+NZ_AP013028.1	1181637	1182203	+	hypothetical protein	WP_041046427.1	-1
+NZ_AP013028.1	1182298	1183860	+	glutamine-hydrolyzing GMP synthase	WP_041046429.1	563
+NZ_AP013028.1	1186189	1186794	-	recombination protein RecR	WP_041046430.1	161
+NZ_AP013028.1	1186984	1187313	+	hypothetical protein	WP_041046431.1	-1
+NZ_AP013028.1	1188228	1188689	+	hypothetical protein	WP_145971876.1	-1
+NZ_AP013028.1	1188813	1189913	-	tryptophan--tRNA ligase	WP_084221200.1	194
+NZ_AP013028.1	1190297	1190857	-	nucleotide exchange factor GrpE	WP_041046436.1	319
+NZ_AP013028.1	1190919	1191905	-	polyprenyl synthetase family protein	WP_041046437.1	213
+NZ_AP013028.1	1191916	1192248	-	30S ribosomal protein S16	WP_041046439.1	219
+NZ_AP013028.1	1192833	1193200	-	holo-[acyl-carrier-protein] synthase	WP_041046441.1	271
+NZ_AP013028.1	1193201	1194478	-	proline--tRNA ligase	WP_041046443.1	402
+NZ_AP013028.1	1194573	1195973	-	hypothetical protein	WP_052463318.1	-1
+NZ_AP013028.1	1196096	1197649	-	penicillin-binding protein	WP_041046445.1	651
+NZ_AP013028.1	1198436	1199482	+	hypothetical protein	WP_145971877.1	-1
+NZ_AP013028.1	1200130	1201206	-	rod shape-determining protein	WP_041046449.1	274
+NZ_AP013028.1	1201227	1202654	-	carboxypeptidase	WP_041046451.1	736
+NZ_AP013028.1	1202929	1203408	+	OmpA family protein	WP_041046760.1	343
+NZ_AP013028.1	1203600	1204895	+	tRNA lysidine(34) synthetase TilS	WP_041046453.1	108
+NZ_AP013028.1	1204908	1206737	+	ATP-dependent metallopeptidase FtsH/Yme1/Tma family protein	WP_041046455.1	342
+NZ_AP013028.1	1207848	1208609	-	hypothetical protein	WP_041046457.1	1553
+NZ_AP013028.1	1208957	1209217	+	IS5 family transposase	WP_145971835.1	-1
+NZ_AP013028.1	1211160	1213803	+	preprotein translocase subunit SecA	WP_041046459.1	215
+NZ_AP013028.1	1213804	1214367	-	hypothetical protein	WP_145971878.1	-1
+NZ_AP013028.1	1214950	1215789	-	hypothetical protein	WP_145971879.1	-1
+NZ_AP013028.1	1215878	1216873	-	ribonucleotide-diphosphate reductase subunit beta	WP_041046461.1	107
+NZ_AP013028.1	1217007	1217345	+	outer membrane protein assembly factor BamE	WP_041046463.1	538
+NZ_AP013028.1	1217936	1219270	+	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	WP_041046465.1	328
+NZ_AP013028.1	1219319	1222696	+	isoleucine--tRNA ligase	WP_041046762.1	322
+NZ_AP013028.1	1222755	1223138	+	hypothetical protein	WP_041046467.1	-1
+NZ_AP013028.1	1224500	1224727	+	hypothetical protein	WP_145971880.1	-1
+NZ_AP013028.1	1224812	1226500	+	hypothetical protein	WP_052463322.1	-1
+NZ_AP013028.1	1226504	1229155	-	alanine--tRNA ligase	WP_041046473.1	346
+NZ_AP013028.1	1229348	1230397	+	hypothetical protein	WP_041046475.1	-1
+NZ_AP013028.1	1231552	1234968	+	DNA polymerase III subunit alpha	WP_041046477.1	280
+NZ_AP013028.1	1235017	1235790	+	30S ribosomal protein S6	WP_041046479.1	181
+NZ_AP013028.1	1235790	1236065	+	30S ribosomal protein S18	WP_041046481.1	310
+NZ_AP013028.1	1236073	1236558	+	50S ribosomal protein L9	WP_041046765.1	245
+NZ_AP013028.1	1237160	1238698	+	hypothetical protein	WP_052463324.1	-1
+NZ_AP013028.1	1238944	1239147	+	hypothetical protein	WP_041046483.1	-1
+NZ_AP013028.1	1239184	1241040	+	hypothetical protein	WP_041046485.1	-1
+NZ_AP013028.1	1241809	1242817	-	NADH-quinone oxidoreductase subunit NuoH	WP_041046489.1	561
+NZ_AP013028.1	1242818	1244866	-	NADH-quinone oxidoreductase subunit G	WP_041046491.1	519
+NZ_AP013028.1	1244880	1245089	-	hypothetical protein	WP_041046493.1	773
+NZ_AP013028.1	1246122	1247429	+	adenylosuccinate synthase	WP_041046767.1	582
+NZ_AP013028.1	1247962	1248246	+	hypothetical protein	WP_145971881.1	-1
+NZ_AP013028.1	1248298	1248819	+	hypothetical protein	WP_052463328.1	956
+NZ_AP013028.1	1249171	1249899	-	glutamine synthetase	WP_041046497.1	465

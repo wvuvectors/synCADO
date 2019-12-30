@@ -1,0 +1,6 @@
+#taxid	tax_name
+Rickettsia buchneri pREIS2	1462938
+wCle	246273
+Lawsonia intracellularis str. PHE/MN1-00	363253
+Anaplasma phagocytophilum HZ	212042
+Escherichia coli str. K-12 substr. MG1655	511145

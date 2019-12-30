@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-synCADO -g "cfg.genomes.txt" -f "demo.families.txt" -t "cfg.targets.txt" -a "WP_011526084.1" -d -o "demo_out"
+synCADO -g "demo.genomes.txt" -f "demo.families.txt" -t "demo.targets.txt" -a "WP_011526084.1" -d -o "demo_out"
 
-exit
+exit 1
 

@@ -13,7 +13,7 @@ synCADOfb, part of synCADO v$VERSION.
 Created by $AUTHORS.
 
 Usage:
-  synCADOfb -c STRING -t FILE
+  synCADOfb -c STRING -t FILE -o STRING
   synCADOfb -h
   synCADOfb -v
 
@@ -21,8 +21,8 @@ Options:
   -h          Show this screen.
   -v          Show version.
   -c STRING   REQUIRED NCBI taxonomic id setting the CLADE for orthoDB accession. Must encompass all the taxa given in -t.
-  -t FILE     REQUIRED file containing a list of NCBI taxonomy ids comprising the OG set.
-  -o STRING   RECOMMENDED name of output file. Can be used directly in synCADO.
+  -t FILE     REQUIRED path to a file containing a list of NCBI taxonomy ids comprising the OG set.
+  -o STRING   RECOMMENDED name of output file. This file can be used directly in synCADO.
 
 "
 			exit 0

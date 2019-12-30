@@ -90,7 +90,7 @@ Use the `-f` argument to pass the path to a file that contains your ortholog gro
 <tr><td>2</td><td>FEATURE_8</td><td>FEATURE_9</td><td>FEATURE_10</td><td>FEATURE_11</td></tr>
 </table>
 
-`synCADO` v1.0 includes several tools for converting data from other software into the *families* format. First, [orthoMCL](https://orthomcl.org/orthomcl/) data can be converted for synCADO using the `synCADO_convert_from_orthomcl.pl` script (in the sbin/perl directory):
+`synCADO` v1.0 includes several tools for converting data from other software into the *families* format. First, [orthoMCL](https://orthomcl.org/orthomcl/) data can be converted into synCADO format using the `synCADO_convert_from_orthomcl.pl` script (in the sbin/perl directory):
 
 `synCADO_convert_from_orthomcl.pl < orthomcl_output.end > syncado_families.txt`
 

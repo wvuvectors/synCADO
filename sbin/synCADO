@@ -23,9 +23,9 @@ Options:
   -g FILE     REQUIRED tab-delimited file containing one genome per row: RefSeq replicon ID (required), and a text label for the genome (optional).
   -t FILE     REQUIRED tab-delimited file containing one target feature per row: any feature ID in the OG (required), text label (recommended), and hex color code (optional).
   -f FILE     REQUIRED tab-delimited file of IDs that comprise the sequence families, one family per row. The first column of each row must contain a unique family ID.
-  -o STRING   Optional name of output file [DEFAULT: synCADO_p].
+  -o STRING   Optional name of output file [DEFAULT: synCADO_out].
   -a STRING   Optional feature ID that identifies the OG to anchor at the start (left) of each genome [DEFAULT: none].
-  -d          Optional flag to retain the temp file directory, for debugging [DEFAULT: off].
+  -d          Optional flag to retain all temporary files, for debugging [DEFAULT: off].
 
 "
 			exit 0
@@ -396,5 +396,5 @@ if [ -z "$debug" ]; then
 fi
 
 
-exit
+exit 1
 

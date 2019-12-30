@@ -13,17 +13,16 @@ synCADO v$VERSION.
 Created by $AUTHORS.
 
 Usage:
-  synCADO -g FILE -t FILE [-f FILE || -c INT] [-o STRING] [-d]
+  synCADO -g FILE -t FILE -f FILE [-o STRING] [-d]
   synCADO -h
   synCADO -v
 
 Options:
   -h          Show this screen.
   -v          Show version.
-  -g FILE     REQUIRED tab-delimited file containing one genome per row: RefSeq replicon ID (required), text label for genome (optional), NCBI taxonomy id (required only if -f is not present).
+  -g FILE     REQUIRED tab-delimited file containing one genome per row: RefSeq replicon ID (required), and a text label for the genome (optional).
   -t FILE     REQUIRED tab-delimited file containing one target feature per row: any feature ID in the OG (required), text label (recommended), and hex color code (optional).
-  -f FILE     Optional tab-delimited file of IDs that comprise the sequence families, one family per row. The first column of each row must contain a unique family ID.
-  -c INT      If no family file is provided (-f), a clade (NCBI taxonomy id) is required to restrict family generation in remote OrthoDB call.
+  -f FILE     REQUIRED tab-delimited file of IDs that comprise the sequence families, one family per row. The first column of each row must contain a unique family ID.
   -o STRING   Optional name of output file [DEFAULT: synCADO_p].
   -a STRING   Optional feature ID that identifies the OG to anchor at the start (left) of each genome [DEFAULT: none].
   -d          Optional flag to retain the temp file directory, for debugging [DEFAULT: off].
@@ -57,10 +56,6 @@ Please visit https://github.com/driscollmml/synCADO for more information or to d
 			# sequence family file
 			familyFile=$OPTARG
 			;;
-		c)
-			# cluster clade id
-			clusterClade=$OPTARG
-			;;
 		o)
 			# name or title of project
 			NAME=$OPTARG
@@ -86,25 +81,25 @@ done
 
 if [ -z "$cfgGenomes" ]; then
 	echo "FATAL : A tab-delimited genome config file is required (-g GCFG_FILE) but was not provided."
-	echo "NOTE  : See the README, or cfg.genomes.txt in the demo directory for an example."
+	echo "NOTE  : See the README, or demo.genomes.txt in the demo directory for an example."
 	exit 0
 fi
 
 if [ -z "$cfgTargets" ]; then
 	echo "FATAL : A tab-delimited target config file is required (-t TCFG_FILE) but was not provided."
-	echo "NOTE  : See the README, or cfg.targets.txt in the demo directory for an example."
+	echo "NOTE  : See the README, or demo.targets.txt in the demo directory for an example."
 	exit 0
 fi
 
-if [ -z "$clusterClade" && -z "$familyFile" ]; then
-	echo "FATAL : Either a cluster clade (-c) or a family file (-f) is required, but neither was provided."
-	echo "NOTE  : See the README for more information."
+if [ -z "$familyFile" ]; then
+	echo "FATAL : A tab-delimited family file (-f) is required but was not provided."
+	echo "NOTE  : See the README, or demo.families.txt in the demo directory for an example."
 	exit 0
 fi
 
 if [ -z "$NAME" ]; then
-	echo "WARN  : No output name provided. I'll use the default: synCADO"
-	NAME="synCADO"
+	echo "WARN  : No output name provided. I'll use the boring default: synCADO_out"
+	NAME="synCADO_out"
 fi
 
 
@@ -122,23 +117,6 @@ labelit=1
 max_elements=0
 
 
-if [ -z "$familyFile" ]; then
-	# use $clusterClade and the tax ids in $cfgGenomes to generate a family file from OrthoDB
-	familyFile="$OUTDIR/families.odb_$clusterClade.txt"
-
-	echo "NOTE  : A family grid (-f) was not provided. One will be generated using OrthoDB and the cluster clade (-c)"
-	echo "NOTE  : The family file will be saved as $familyFile and can be used in subsequent synCADO applications using -f."
-	echo "NOTE  : See the README for more information."
-	wget --tries=10 "https://v100.orthodb.org/search?level=$clusterClade&limit=10000000" -a "$OUTDIR/orthoDB_log.$clusterClade.txt" -O - | perl -pe 's/^.+?\[(.+?)\].*$/\1/gi' | perl -pe 's/"//gi' | perl -pe 's/,\s*/\n/gi' > "$OUTDIR/clusterIDs.odb_$clusterClade.txt"
-	echo "pub_og_id	og_name	level_taxid	organism_taxid	organism_name	int_prot_id	pub_gene_id	description" > "$OUTDIR/clusters.odb_$clusterClade.txt"
-	while IFS=$'\t' read -r -a tmp
-	do
-		clusterID="${tmp[0]}"
-		wget --tries=10 "https://v100.orthodb.org/tab?id=$clusterID" -O - | perl -pe 's/^pub_og_id//gi' >> "$OUTDIR/clusters.odb_$clusterClade.txt"
-	done < "$OUTDIR/clusterIDs.odb_$clusterClade.txt"
-fi
-
-
 anchorFamily=-1
 if [ -z "$anchorFeature" ]; then
 	echo "WARN  : No anchor feature provided. The graphic for each genome may start at a different feature."
@@ -153,8 +131,8 @@ fi
 
 
 # convert target feature IDs into family IDs
-# store this in a temp file, "targets.txt"
-targetFile="$OUTDIR/targets.txt"
+# store this in a temp file, "targets.tmp"
+targetFile="$OUTDIR/targets.tmp"
 if [ -f "$targetFile" ];then
 	rm "$targetFile"
 fi
@@ -210,7 +188,7 @@ do
 	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?product=(.+?);.*?protein_id=(.+?);.*$/$1\t$2\t$3\t$4\t$5\t$6/gi' \
 	| perl -pe 's/^(.+?)\tCDS\t(\d+)\t(\d+)\t(.+?)\t.*?protein_id=(.+?);.*?product=(.+?);.*$/$1\t$2\t$3\t$4\t$6\t$5/gi' \
 	| perl -pe 's/fig\|//gi' \
-	| "$here/perl/synCADO_fix_overlaps.pl" 1 2 > "${OUTDIR}/$chr.features.1.txt"
+	| "$here/perl/synCADO_fix_overlaps.pl" 1 2 > "${OUTDIR}/$chr.features.1.tmp"
 	#
 	# feature table 1 cols:
 	# chr	start_pos	end_pos	strand	feature_ann	feature_id
@@ -218,7 +196,7 @@ do
 	
 	# add family assignments
 	#
-	"$here/perl/synCADO_add_families.pl" -i 5 "$familyFile" < "${OUTDIR}/$chr.features.1.txt" > "${OUTDIR}/$chr.features.2.txt"
+	"$here/perl/synCADO_add_families.pl" -i 5 "$familyFile" < "${OUTDIR}/$chr.features.1.tmp" > "${OUTDIR}/$chr.features.2.tmp"
 	#
 	# feature table 2 cols:
 	# chr	start_pos	end_pos	strand	feature_ann	feature_id	family_id
@@ -226,7 +204,7 @@ do
 
 	# add custom colors and labels
 	#
-	"$here/perl/synCADO_decorate.pl" "$targetFile" < "${OUTDIR}/$chr.features.2.txt" > "${OUTDIR}/$chr.features.3.txt"
+	"$here/perl/synCADO_decorate.pl" "$targetFile" < "${OUTDIR}/$chr.features.2.tmp" > "${OUTDIR}/$chr.features.3.tmp"
 	#
 	# feature table 3 cols:
 	# chr	start_pos	end_pos	strand	feature_ann	feature_id	family_id	color_code	family_label
@@ -236,9 +214,9 @@ do
 	#
 	if [ ! -z "$anchorFeature" ];then
 		anchorFamily=$("$here/perl/synCADO_get_family.pl" "$anchorFeature" < "$familyFile")
-		"$here/perl/synCADO_offset.pl" -a "$anchorFamily" -c -l $len < "${OUTDIR}/$chr.features.3.txt" | "$here/perl/synCADO_sort.pl" -n 1 > "${OUTDIR}/$chr.features.4.txt"
+		"$here/perl/synCADO_offset.pl" -a "$anchorFamily" -c -l $len < "${OUTDIR}/$chr.features.3.tmp" | "$here/perl/synCADO_sort.pl" -n 1 > "${OUTDIR}/$chr.features.txt"
 	else
-		cp "${OUTDIR}/$chr.features.3.txt" "${OUTDIR}/$chr.features.4.txt"
+		cp "${OUTDIR}/$chr.features.3.tmp" "${OUTDIR}/$chr.features.txt"
 	fi
 	#
 	# feature table 4 cols:
@@ -247,7 +225,7 @@ do
 
 	# compress consecutive off-target features
 	#
-	"$here/perl/synCADO_compress.pl" 8 -t 2 < "${OUTDIR}/$chr.features.4.txt" > "${OUTDIR}/$chr.features.5.txt"
+	"$here/perl/synCADO_compress.pl" 8 -t 2 < "${OUTDIR}/$chr.features.txt" > "${OUTDIR}/$chr.features_compressed.txt"
 	#
 	# feature table 5 cols:
 	# chr	offset_start_pos	offset_end_pos	strand	feature_ann	feature_id	family_id	color_code	family_label
@@ -255,7 +233,7 @@ do
 	
 	# get the number of elements (genes and gene stretches) in the largest compressed genome
 	# this is used to scale the output properly
-	num_elements=`wc -l < ${OUTDIR}/$chr.features.5.txt | bc`
+	num_elements=`wc -l < ${OUTDIR}/$chr.features_compressed.txt | bc`
 	if [ "$num_elements" -gt "$max_elements" ]; then
 		max_elements=$num_elements
 	fi
@@ -281,7 +259,7 @@ synvis_multi_w=50
 synvis_multi_re='^[0-9]+$'
 
 # write the header of the synCADO html file
-cat > "${OUTDIR}/$NAME.synCADO.html" <<EOL
+cat > "${OUTDIR}/$NAME.html" <<EOL
 <!DOCTYPE html>
 <head></head><body>
 <canvas id="blockCanvas" width="$synvis_canvas_w" height="$synvis_canvas_h" style="border:1px solid #ffffff;position:absolute;left:0;top:0;z-index:1;">Your browser does not support the HTML5 canvas tag.</canvas>
@@ -321,7 +299,7 @@ do
 	synvis_tax=${title//_/$space}    
 
 	# write to synvis file
-		cat >> "$NAME.synCADO.html" <<EOL
+		cat >> "${OUTDIR}/$NAME.html" <<EOL
 
 	/* draw the blocks */
 	ctx.font = "normal 14px Arial";
@@ -373,7 +351,7 @@ EOL
 
 		fi
 		
-		cat >> "${OUTDIR}/$NAME.synCADO.html" <<EOL
+		cat >> "${OUTDIR}/$NAME.html" <<EOL
 	ctx.beginPath();
 	ctx.strokeStyle = "#$gcolor";
 	ctx.lineWidth = "5";
@@ -388,12 +366,12 @@ EOL
 		
 		#((box_num++))
 		
-	done < "${OUTDIR}/$chr.features.5.txt"
+	done < "${OUTDIR}/$chr.features_compressed.txt"
 	
 	start_x=$((synvis_start_x+synvis_locus_w+synvis_box_gap))
 	line_x=$((box_x+10))
 	
-		cat >> "${OUTDIR}/$NAME.synCADO.html" <<EOL
+		cat >> "${OUTDIR}/$NAME.html" <<EOL
 	/* draw the genome line */
 	ctx2.lineWidth=2;
 	ctx2.strokeStyle = "#999999";
@@ -408,14 +386,14 @@ EOL
 done < $cfgGenomes
 
 # close the synCADO html file writer
-cat >> "${OUTDIR}/$NAME.synCADO.html" <<EOL
+cat >> "${OUTDIR}/$NAME.html" <<EOL
 };</script></body></html>
 EOL
 
 
-#if [ -z "$debug" ]; then
-#	rm -r "${OUTDIR}"
-#fi
+if [ -z "$debug" ]; then
+	rm -r "${OUTDIR}/*.tmp"
+fi
 
 
 exit

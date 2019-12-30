@@ -29,7 +29,7 @@ Options:
 			;;
 		v)
 			echo "
-synCADOfb: Ortholog family builder for use with synCADO.
+synCADOfb: Ortholog family builder (using orthoDB) for use with synCADO.
 VERSION:  $VERSION.
 RELEASED: $RELEASE_DATE.
 AUTHORS:  $AUTHORS.
@@ -77,23 +77,32 @@ if [ -z "$taxFile" ]; then
 fi
 
 if [ -z "$outfile" ]; then
-	echo "WARN  : No output file name provided. I'll just use the default: synCADO_fams.$clade.txt."
-	outfile="synCADO_fams.$clade.txt"
+	echo "WARN  : No output file name provided. I'll just use the default: synCADOfb_fams.$clade.txt."
+	outfile="synCADOfb_fams.$clade.txt"
 fi
 
 
-# create a tmp dir
-TMPDIR="synCADO_tmp"
-if [ -d "$TMPDIR" ];then
-	rm -r "$TMPDIR"
-fi
-mkdir "$TMPDIR"
+wget --tries=10 "https://v100.orthodb.org/search?level=$clade&limit=10000000" -a "synCADOfb_log.$clade.txt" -O - | perl -pe 's/^.+?\[(.+?)\].*$/\1/gi' | perl -pe 's/"//gi' | perl -pe 's/,\s*/\n/gi' > "synCADOfb_clusterIDs.$clade.txt"
+echo "pub_og_id	og_name	level_taxid	organism_taxid	organism_name	int_prot_id	pub_gene_id	description" > "synCADOfb_clusters.$clade.txt"
 
-if [ -f "$TMPDIR/log_odb" ];then
-	rm -r "$TMPDIR/log_odb"
-fi
+while IFS=$'\t' read -r -a tmp
+do
+	clusterID="${tmp[0]}"
 
-while IFS=$'\t' read -r -a taxids
+	if [[ $clusterID =~ ^# ]]; then
+		continue
+	fi
+	if [[ $clusterID =~ ^\s*$ ]]; then
+		continue
+	fi
+	
+	wget --tries=10 "https://v100.orthodb.org/tab?id=$clusterID" -O - | perl -pe 's/^pub_og_id//gi' >> "$OUTDIR/clusters.odb_$clusterClade.txt"
+
+done < "$synCADOfb_clusterIDs.$clade.txt"
+
+
+
+while IFS=$'\t' read -r -a taxid
 do
 	taxid="${taxids[0]}"
 	if [[ $taxid =~ ^# ]]; then
@@ -102,18 +111,9 @@ do
 	if [[ $taxid =~ ^\s*$ ]]; then
 		continue
 	fi
-	
-	# get the cluster ids for each species, given the user-supplied clade.
-	cidlist=$(wget --tries=10 "https://v100.orthodb.org/search?level=${clade}&species=${taxid}&limit=100000"  -a "$TMPDIR/log_odb" -O - \
-	| perl -pe 's/^.+?\[(.+?)\].*$/\1/gi' \
-	| perl -pe 's/"//gi' \
-	| perl -pe 's/,\s*/\t/gi')
-	
-	echo "$taxid	$cidlist" >> "$TMPDIR/clusters_by_tax.$clade.txt"
-	
-done < $taxFile
 
-# calculate a presence/absence grid (taxa vs OGid)
+
+# generate a presence/absence grid (taxa vs OGid)
 synCADOfb_transpose.pl < "$TMPDIR/clusters.$clade.txt" > "$TMPDIR/pagrid.fam2tax.txt"
 synCADOfb_pagrid.pl < "$TMPDIR/clusters.$clade.txt" > "$TMPDIR/pagrid.fam2tax.txt"
 
@@ -126,8 +126,5 @@ synCADOfb_tax2ukb.pl < "$TMPDIR/pagrid.fam2tax.txt" > "$TMPDIR/pagrid.fam2upkb.t
 synCADOfb_ukb2ncbi.pl < "$TMPDIR/pagrid.fam2upkb.txt" > "$outfile"
 
 
-# print the synCADO family table (id followed by tab-delim ids)
-
-
-exit
+exit 0
 

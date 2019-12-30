@@ -1,8 +1,0 @@
-#family	label	color_code
-202	DnaA	FF8AD8
-329	BioB	0096FF
-105	BioF	FF9300
-941	BioH	008F00
-67	BioC	73FDFF
-119	BioD	D4FB79
-401	BioA	FF2600

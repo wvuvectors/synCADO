@@ -1,9 +1,0 @@
-NC_008011.1	1	1436	+	chromosomal replication initiator protein DnaA	WP_011526084.1	202	FF8AD8	DnaA
-NC_008011.1	1469	514562	--+	peptide chain release factor 1-SDR family oxidoreductase	WP_011526085.1-WP_011526504.1	208--1	f3f3f3	454
-NC_008011.1	514609	515559	-	biotin synthase BioB	WP_015353734.1	329	0096FF	BioB
-NC_008011.1	515594	516735	+	8-amino-7-oxononanoate synthase	WP_011526506.1	105	FF9300	BioF
-NC_008011.1	516736	517374	+	hypothetical protein	WP_011526507.1	941	008F00	BioH
-NC_008011.1	517394	518137	+	methyltransferase domain-containing protein	WP_011526508.1	67	73FDFF	BioC
-NC_008011.1	518137	518748	+	ATP-dependent dethiobiotin synthetase BioD	WP_011526509.1	119	D4FB79	BioD
-NC_008011.1	518752	520029	+	adenosylmethionine--8-amino-7-oxononanoate transaminase	WP_011526510.1	401	FF2600	BioA
-NC_008011.1	520099	1457131	--+	L,D-transpeptidase family protein-FAD-dependent thymidylate synthase	WP_011526511.1-WP_011527266.1	-1-557	f3f3f3	794

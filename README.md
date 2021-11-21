@@ -21,7 +21,7 @@ The software is built in bash and perl and requires no special dependencies.
 
 
 ## Attribution
-`synCADO` was written by [Timothy Driscoll](http://www.driscollMML.com/) at West Virginia University, Morgantown, WV USA. The concept for a synteny-aware search algorithm arose from discussions and work with numerous other researchers, most notably Joseph Gillespie and Victoria Verhoeve (University of Maryland), and Adam Pollio (West Virginia University).
+`synCADO` was written by [Timothy Driscoll](http://www.wvuvectors.com/) at West Virginia University, Morgantown, WV USA. The concept for a synteny-aware search algorithm arose from discussions and work with numerous other researchers, most notably Joseph Gillespie and Victoria Verhoeve (University of Maryland), and Adam Pollio (West Virginia University).
 
 
 ## Using synCADO
